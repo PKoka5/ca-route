@@ -1,0 +1,13 @@
+Goal: EASY
+Current points: 0
+Gap: 41
+Projected points: 0
+ETA minutes: 0.000
+Reachability: UNREACHABLE_NOW
+Confidence: LOW
+Blocker: Available recommendations supply 0 of the 41 points needed; prepare/unlock more content
+Blocker: A Greater Foe: Access requirements are not completely verified; check before starting; Recommended Attack 40; current 1 (readiness, not an access lock); Prepare first: substantial recommended-stat shortfall
+Blocker: Quick Cutter: Access requirements are not completely verified; check before starting; Recommended Prayer 43; current 1 (readiness, not an access lock); Prepare first: substantial recommended-stat shortfall
+Blocker: Sit Rat: Access requirements are not completely verified; check before starting; Recommended Prayer 43; current 1 (readiness, not an access lock); Recommended gear capability unconfirmed: ratbane-weapon (partial ownership coverage); Prepare first: substantial recommended-stat shortfall
+Blocker: The Walking Volcano: Access requirements are not completely verified; check before starting; Recommended Attack 40; current 1 (readiness, not an access lock); Recommended Prayer 43; current 1 (readiness, not an access lock); Prepare first: substantial recommended-stat shortfall
+Blocker: Efficient Pest Control: Access requirements are not completely verified; check before starting; Recommended Attack 56; current 1 (readiness, not an access lock); Recommended gear capability unconfirmed: ratbane-weapon (partial ownership coverage); Prepare first: substantial recommended-stat shortfall

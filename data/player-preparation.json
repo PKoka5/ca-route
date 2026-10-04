@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "2026-10-03",
+  "licence": "CC-BY-NC-SA-3.0",
+  "activities": [
+    {
+      "activity": "Abyssal Sire",
+      "notes": [
+        {
+          "text": "An abyssal demon or Abyssal Sire Slayer assignment is required.",
+          "source": "https://oldschool.runescape.wiki/w/Boss"
+        },
+        {
+          "text": "For fairy ring DIP, bring a dramen or lunar staff unless you have the elite Lumbridge & Draynor Diary.",
+          "source": "https://oldschool.runescape.wiki/w/Abyssal_Sire/Strategies"
+        }
+      ]
+    },
+    {
+      "activity": "Alchemical Hydra",
+      "requiredSkills": { "Slayer": 95 },
+      "requiredSkillsSource": "https://oldschool.runescape.wiki/w/Update:OSRS_Reveals:_The_Kebos_Lowlands",
+      "notes": [
+        {
+          "text": "A hydra or Alchemical Hydra Slayer assignment is required.",
+          "source": "https://oldschool.runescape.wiki/w/Boss"
+        },
+        {
+          "text": "Wear boots of stone, boots of brimstone or granite boots on the walk through Karuulm to the boss.",
+          "source": "https://oldschool.runescape.wiki/w/Extreme_heat"
+        },
+        {
+          "text": "Heat protection is not needed after the elite Kourend & Kebos Diary.",
+          "source": "https://oldschool.runescape.wiki/w/Kourend_%26_Kebos_Diary"
+        }
+      ]
+    },
+    {
+      "activity": "Aberrant Spectre",
+      "notes": [
+        {
+          "text": "Wear a nose peg or Slayer helmet to prevent their stat-draining attack.",
+          "source": "https://oldschool.runescape.wiki/w/Aberrant_spectre"
+        },
+        {
+          "text": "The selected Slayer Tower route requires Priest in Peril.",
+          "source": "https://oldschool.runescape.wiki/w/Slayer_ring"
+        }
+      ]
+    },
+    {
+      "activity": "Basilisk Knight",
+      "notes": [
+        {
+          "text": "Equip a mirror shield or V's shield to protect against the basilisk gaze.",
+          "source": "https://oldschool.runescape.wiki/w/Slayer_task/Basilisks"
+        }
+      ]
+    },
+    {
+      "activity": "Black Dragon",
+      "notes": [
+        {
+          "text": "Bring dragonfire protection, such as an anti-dragon shield, if fighting within melee range.",
+          "source": "https://oldschool.runescape.wiki/w/Black_dragon"
+        },
+        {
+          "text": "For the selected Taverley route, bring a dusty key or use the 70 Agility shortcut.",
+          "source": "https://oldschool.runescape.wiki/w/Black_dragon"
+        }
+      ]
+    },
+    {
+      "activity": "Bloodveld",
+      "notes": [
+        {
+          "text": "The selected Slayer Tower route requires Priest in Peril.",
+          "source": "https://oldschool.runescape.wiki/w/Slayer_ring"
+        }
+      ]
+    },
+    {
+      "activity": "Brutal Black Dragon",
+      "notes": [
+        {
+          "text": "Bring dragonfire protection; brutal dragons can use dragonfire even at range.",
+          "source": "https://oldschool.runescape.wiki/w/Dragonfire"
+        },
+        {
+          "text": "An antifire potion with Protect from Magic protects against regular dragonfire.",
+          "source": "https://oldschool.runescape.wiki/w/Dragonfire"
+        }
+      ]
+    },
+    {
+      "activity": "Demonic Gorilla",
+      "notes": [
+        {
+          "text": "Bring weapons for at least two combat styles and switch when its protection prayer changes.",
+          "source": "https://oldschool.runescape.wiki/w/Demonic_gorilla"
+        }
+      ]
+    },
+    {
+      "activity": "Cerberus",
+      "notes": [
+        {
+          "text": "A hellhound or Cerberus Slayer assignment is required.",
+          "source": "https://oldschool.runescape.wiki/w/Boss"
+        },
+        {
+          "text": "For the selected Taverley route, bring a dusty key or use the 70 Agility shortcut.",
+          "source": "https://oldschool.runescape.wiki/w/Black_dragon"
+        }
+      ]
+    },
+    {
+      "activity": "Fire Giant",
+      "notes": [
+        {
+          "text": "For the selected Brimhaven route, bring an axe and 875 coins unless your entry fee is already covered.",
+          "source": "https://oldschool.runescape.wiki/w/Brimhaven_Dungeon"
+        },
+        {
+          "text": "Cutting the Brimhaven vines requires 10 Woodcutting.",
+          "source": "https://oldschool.runescape.wiki/w/Brimhaven_Dungeon"
+        }
+      ]
+    },
+    {
+      "activity": "Gargoyle",
+      "notes": [
+        {
+          "text": "Bring a rock hammer, rock thrownhammer or granite hammer for the finishing blow.",
+          "source": "https://oldschool.runescape.wiki/w/Gargoyle"
+        },
+        {
+          "text": "Wear a nose peg or Slayer helmet while passing the spectres on the way upstairs.",
+          "source": "https://oldschool.runescape.wiki/w/Gargoyle"
+        },
+        {
+          "text": "The selected Slayer Tower route requires Priest in Peril.",
+          "source": "https://oldschool.runescape.wiki/w/Slayer_ring"
+        }
+      ]
+    },
+    {
+      "activity": "Greater Demon",
+      "notes": [
+        {
+          "text": "The selected Catacombs route is multicombat; a cannon cannot be used there.",
+          "source": "https://oldschool.runescape.wiki/w/Slayer_training"
+        }
+      ]
+    },
+    {
+      "activity": "Grotesque Guardians",
+      "notes": [
+        {
+          "text": "A gargoyle or Grotesque Guardians Slayer assignment is required.",
+          "source": "https://oldschool.runescape.wiki/w/Grotesque_Guardians"
+        },
+        {
+          "text": "Unlock the Slayer Tower roof with a brittle key before your first attempt.",
+          "source": "https://oldschool.runescape.wiki/w/Grotesque_Guardians"
+        },
+        {
+          "text": "Bring a rock hammer, rock thrownhammer or granite hammer for the finishing blow.",
+          "source": "https://oldschool.runescape.wiki/w/Grotesque_Guardians"
+        },
+        {
+          "text": "Bring melee plus ranged or magic equipment; Dawn cannot be reached with melee, while Dusk requires melee damage.",
+          "source": "https://oldschool.runescape.wiki/w/Grotesque_Guardians"
+        }
+      ]
+    },
+    {
+      "activity": "Hellhound",
+      "notes": [
+        {
+          "text": "The selected Catacombs route is multicombat; a cannon cannot be used there.",
+          "source": "https://oldschool.runescape.wiki/w/Slayer_training"
+        }
+      ]
+    },
+    {
+      "activity": "Kurask",
+      "notes": [
+        {
+          "text": "Use leaf-bladed weaponry, broad arrows, broad bolts or Magic Dart; other attacks cannot damage kurasks.",
+          "source": "https://oldschool.runescape.wiki/w/Fremennik_Slayer_Dungeon"
+        }
+      ]
+    },
+    {
+      "activity": "Kraken",
+      "notes": [
+        {
+          "text": "A cave kraken or Kraken Slayer assignment is required.",
+          "source": "https://oldschool.runescape.wiki/w/Boss"
+        },
+        {
+          "text": "Bring magic equipment; melee cannot reach the Kraken and ranged damage is heavily reduced.",
+          "source": "https://oldschool.runescape.wiki/w/Slayer_task/Cave_krakens"
+        },
+        {
+          "text": "Fishing explosives are recommended to wake the Kraken without a ranged weapon switch.",
+          "source": "https://oldschool.runescape.wiki/w/Slayer_task/Cave_krakens"
+        }
+      ]
+    },
+    {
+      "activity": "Lizardman Shaman",
+      "notes": [
+        {
+          "text": "Wear the full tier 5 Shayzien set to block poison spit.",
+          "source": "https://oldschool.runescape.wiki/w/Slayer_task/Lizardmen"
+        },
+        {
+          "text": "Antipoison is recommended for the Molch temple fight.",
+          "source": "https://oldschool.runescape.wiki/w/Kourend_%26_Kebos_Diary"
+        },
+        {
+          "text": "After the hard Kourend & Kebos Diary, Captain Cleive can let your Slayer helmet replace the Shayzien helmet.",
+          "source": "https://oldschool.runescape.wiki/w/Slayer_task/Lizardmen"
+        }
+      ]
+    },
+    {
+      "activity": "Skeletal Wyvern",
+      "notes": [
+        {
+          "text": "Equip an elemental shield, mind shield, dragonfire shield, dragonfire ward or ancient wyvern shield to reduce icy breath damage.",
+          "source": "https://oldschool.runescape.wiki/w/Dragonfire"
+        },
+        {
+          "text": "A regular anti-dragon shield and antifire potions do not protect against icy breath.",
+          "source": "https://oldschool.runescape.wiki/w/Dragonfire"
+        }
+      ]
+    },
+    {
+      "activity": "Tormented Demon",
+      "notes": [
+        {
+          "text": "Bring a lit sapphire lantern for the Tears of Guthix approach, or use a Guthixian temple teleport.",
+          "source": "https://oldschool.runescape.wiki/w/Ancient_Guthixian_Temple"
+        },
+        {
+          "text": "Bring weapons for two combat styles to attack around the demon's protection prayers.",
+          "source": "https://oldschool.runescape.wiki/w/Prayer"
+        }
+      ]
+    },
+    {
+      "activity": "Wyrm",
+      "notes": [
+        {
+          "text": "Wear boots of stone, boots of brimstone or granite boots inside Karuulm.",
+          "source": "https://oldschool.runescape.wiki/w/Extreme_heat"
+        },
+        {
+          "text": "Heat protection is not needed after the elite Kourend & Kebos Diary.",
+          "source": "https://oldschool.runescape.wiki/w/Kourend_%26_Kebos_Diary"
+        },
+        {
+          "text": "A Slayer boost can meet the 62 Slayer requirement; keep the boost active while fighting.",
+          "source": "https://oldschool.runescape.wiki/w/Temporary_skill_boost/Slayer"
+        }
+      ]
+    }
+  ]
+}

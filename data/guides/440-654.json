@@ -1,0 +1,2968 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "2026-10-04",
+  "tasks": [
+    {
+      "id": 440,
+      "name": "Perfection of Crondis",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Choose an Expert run with every Zebak invocation active; assign a player to intercept crocodiles.",
+        "Finish the water room in under one minute: keep water in every container and stop all crocodiles reaching the tree.",
+        "At Zebak, match protection prayers and dodge poison, blood spawns and waves; nobody may be hit by these.",
+        "Push at most two jugs across the whole Zebak fight; destroy stationary jugs when possible. Complete both rooms in this run."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfection_of_Crondis",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 441,
+      "name": "Perfect Scabaras",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Split the Scabaras puzzles between teammates and agree on the solutions before starting.",
+        "Avoid puzzle hazards, including wrong answers and unsafe floor tiles; finish the entire room in under one minute with nobody taking puzzle damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Scabaras",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+      ]
+    },
+    {
+      "id": 442,
+      "name": "Perfect Kephri",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Enter Kephri with at least two players; assign someone to destroy every egg before it hatches.",
+        "Move away from bomb targets and dung paths; handle exploding scarabs and bodyguards without letting anyone take their damage.",
+        "Keep this clean through the final phase: boss attacks, egg explosions and dung must also hit nobody."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Kephri",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+      ]
+    },
+    {
+      "id": 443,
+      "name": "Perfection of Scabaras",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Use an Expert run with at least two players; divide the Scabaras puzzles so the room finishes in under one minute without puzzle damage.",
+        "At Kephri, destroy every egg before hatching and dodge bomb targets and dung paths.",
+        "Prevent egg explosions, boss attacks, exploding scarabs, bodyguards and dung from damaging anyone; complete both rooms in this run."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfection_of_Scabaras",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 444,
+      "name": "Perfect Wardens",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Use at least two players and enable every Wardens invocation before entering.",
+        "Match prayers to Warden attacks, dodge obelisk hazards and clear phase-three skulls before they explode.",
+        "Keep everyone clear of floor slams, lightning and demi-god attacks through the final phase; one player's avoidable hit fails the attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Wardens",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+      ]
+    },
+    {
+      "id": 445,
+      "name": "Insanity",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Start an Expert-or-higher run with at least two players and all Wardens invocations active.",
+        "Protect against Warden attacks, dodge obelisk hazards and destroy the phase-three skulls in time.",
+        "Avoid floor slams, lightning and demi-god attacks throughout the finish; nobody may take avoidable damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Insanity",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 446,
+      "name": "Amascut's Remnant",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Set raid level to at least 500 and agree on safe puzzle roles and invocation mechanics with the whole team.",
+        "Keep supplies for the Wardens and prioritise movement and prayer changes over extra attacks.",
+        "Finish the entire raid with no deaths from anyone; a teammate's death also fails the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Amascut%27s_Remnant",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 447,
+      "name": "Something of an expert myself",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Set raid level to at least 350; choose invocations whose mechanics your team can handle consistently.",
+        "Save healing and prayer supplies for the Wardens, and stop attacking when a mechanic needs attention.",
+        "Finish every room with nobody dying; solo runs also count if you survive throughout."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Something_of_an_expert_myself",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 448,
+      "name": "Maybe I'm the boss.",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Enable every boss invocation before the run; practise the added attacks before attempting a deathless clear.",
+        "Prepare switches and assign team roles for eggs, puzzle hazards and Wardens skulls.",
+        "Complete the full raid without any player dying; skipping one boss invocation invalidates the attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Maybe_I%27m_the_boss.",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 449,
+      "name": "Dropped the ball",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Fight Akkha until the message says magical orbs begin to materialise around you.",
+        "Stop moving while that effect lasts; movement leaves trailing orbs, so these are not objects to pick up.",
+        "Move again after the stop-materialising message, handle Akkha's remaining attacks, and survive the kill yourself."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dropped_the_ball",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 450,
+      "name": "Akkhan't Do it",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Use an Expert raid, enable every Akkha invocation, and raise Akkha's path to level 4 or higher before fighting him.",
+        "Attack with the style he is not protecting against; match his attacks with the correct overhead and handle memory sequences carefully.",
+        "Dodge the enrage orbs while using melee to finish; you must survive the entire fight yourself."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Akkhan%27t_Do_it",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 451,
+      "name": "No skipping allowed",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Enable Boulderdash for Ba-Ba and prepare a ranged weapon for the rolling-boulder phase.",
+        "Attack only the ordinary, non-weak boulders to make a passage; never shoot the cracked weak boulder.",
+        "Pass through your cleared lane, resume the fight and survive Ba-Ba yourself."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/No_skipping_allowed",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+      ]
+    },
+    {
+      "id": 452,
+      "name": "I'm in a rush",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Plan each rolling-boulder phase around one safe opening and count every boulder you destroy.",
+        "Use that opening rather than clearing extra lanes; destroy no more than four boulders across the whole fight.",
+        "Finish Ba-Ba and survive personally; the limit is not four per wave."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/I%27m_in_a_rush",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+      ]
+    },
+    {
+      "id": 453,
+      "name": "Ba-Bananza",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Start an Expert raid with every Ba-Ba invocation active and Ba-Ba's path at level 4 or higher.",
+        "Protect from Melee, step away from slams and falling rocks, and use a cleared lane during rolling boulders.",
+        "Keep dung and sarcophagus hazards under control and survive the kill yourself."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Ba-Bananza",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 454,
+      "name": "All Praise Zebak",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Use an Expert run with every Zebak invocation and path level 4 or higher; keep all prayers off.",
+        "Dodge waves, poison and blood hazards while preserving enough health to withstand the fight without prayer use.",
+        "Kill Zebak without losing a single prayer point and survive yourself; offensive prayers also spend points."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/All_Praise_Zebak",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 455,
+      "name": "Rockin' around the croc",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Use an Expert raid, enable every Zebak invocation and raise his path to level 4 or higher.",
+        "Change overheads with his projectiles, avoid poison and waves, and use jug-cleared tiles for the roar.",
+        "Keep attacking from safe tiles through the faster final phase and survive the kill yourself."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rockin%27_around_the_croc",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 456,
+      "name": "Doesn't bug me",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Use an Expert raid with all Kephri invocations active and Kephri's path at level 4 or higher.",
+        "Dodge bomb targets and dung paths; deal with eggs, bodyguards and healing scarabs promptly.",
+        "Keep a safe passage open for the final phase and survive Kephri yourself."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doesn%27t_bug_me",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 457,
+      "name": "All out of medics",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Enable Medic in an Expert run; concentrate on Kephri until her first down.",
+        "After that down, prioritise healing scarabs before they restore her above 25% health; assign this role in a team.",
+        "Maintain the healing cap for the rest of the fight and survive personally."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/All_out_of_medics",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 458,
+      "name": "Down Do Specs",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Prepare melee core damage for phase two of a normal-or-higher Wardens fight; save special energy for the core.",
+        "Use salts and, if available, liquid adrenaline with dragon dagger specials to make each core exposure count.",
+        "Defeat phase two in no more than two staggers, then finish the Wardens without dying yourself."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Down_Do_Specs",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+      ]
+    },
+    {
+      "id": 459,
+      "name": "Better get movin'",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Enable Aerial Assault, Stay Vigilant and Insanity, and ensure Elidinis' Warden is the phase-three opponent.",
+        "Track changing floor attacks, clear skulls promptly and dodge the larger demi-god hazards.",
+        "Defeat Elidinis' Warden in phase three and survive yourself; a different Warden does not meet the condition."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Better_get_movin%27",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+      ]
+    },
+    {
+      "id": 460,
+      "name": "Warden't you believe it",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Start an Expert raid with every Wardens invocation enabled and supplies reserved for the finale.",
+        "Handle obelisk attacks, core phases and skulls; follow the active floor pattern and demi-god attacks in phase three.",
+        "Complete the Wardens encounter without dying personally."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode",
+        "https://oldschool.runescape.wiki/w/Warden%27t_you_believe_it"
+      ]
+    },
+    {
+      "id": 461,
+      "name": "Novice Tomb Explorer",
+      "activity": "Tombs of Amascut: Entry Mode",
+      "steps": [
+        "Choose an Entry-or-higher raid with a manageable invocation setup and bring switches for all three combat styles.",
+        "Solve all four paths, then complete the Wardens fight; a partial raid is not a completion."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Novice_Tomb_Explorer",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Entry_Mode"
+      ]
+    },
+    {
+      "id": 462,
+      "name": "Novice Tomb Looter",
+      "activity": "Tombs of Amascut: Entry Mode",
+      "steps": [
+        "Use a repeatable Entry-or-higher setup; carry combat-style switches and learn the four path puzzles.",
+        "Finish complete raids until your qualifying completion count reaches 25; individual boss kills do not count as raids."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Novice_Tomb_Looter",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Entry_Mode"
+      ]
+    },
+    {
+      "id": 463,
+      "name": "Novice Tomb Raider",
+      "activity": "Tombs of Amascut: Entry Mode",
+      "steps": [
+        "Run Entry-or-higher raids with a setup you can finish reliably rather than adding unfamiliar invocations.",
+        "Complete every path and the Wardens each time; work towards 50 qualifying full completions."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Novice_Tomb_Raider",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Entry_Mode"
+      ]
+    },
+    {
+      "id": 464,
+      "name": "Movin' on up",
+      "activity": "Tombs of Amascut: Entry Mode",
+      "steps": [
+        "Set the raid invocation level to at least 50 before entering; this is raid level, not your account's combat level.",
+        "Bring all three combat styles, solve each path and defeat the Wardens to complete the raid."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Movin%27_on_up",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Entry_Mode"
+      ]
+    },
+    {
+      "id": 465,
+      "name": "Confident Raider",
+      "activity": "Tombs of Amascut: Entry Mode",
+      "steps": [
+        "Set raid level to at least 100 using invocations you can handle consistently.",
+        "Complete all four paths and the Wardens; changing only your account's combat level will not satisfy the requirement."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Confident_Raider",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Entry_Mode"
+      ]
+    },
+    {
+      "id": 466,
+      "name": "Tomb Looter",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Choose normal-or-higher raids, at raid level 150 or above, and keep a consistent invocation setup.",
+        "Finish all paths and the Wardens until you have 25 qualifying completions; Entry Mode runs do not meet this task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tomb_Looter",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+      ]
+    },
+    {
+      "id": 467,
+      "name": "Tomb Raider",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Farm normal-or-higher raids at raid level 150 or above with a reliable three-style setup.",
+        "Complete the whole raid 50 times in total; Entry Mode completions do not count towards this target."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tomb_Raider",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+      ]
+    },
+    {
+      "id": 468,
+      "name": "Tomb Explorer",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Set raid level to at least 150 for a normal-or-higher raid and prepare melee, ranged and magic switches.",
+        "Complete all four paths and defeat the Wardens; Entry Mode is below this task's required difficulty."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tomb_Explorer",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut"
+      ]
+    },
+    {
+      "id": 469,
+      "name": "Expert Tomb Explorer",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Set raid level to at least 300 for Expert Mode; choose familiar invocations and keep supplies for the Wardens.",
+        "Clear every path and the final encounter once to record an Expert completion."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Expert_Tomb_Explorer",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 470,
+      "name": "Expert Tomb Looter",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Use Expert raids at raid level 300 or above with a repeatable invocation setup.",
+        "Complete every path and the Wardens until your Expert completion count reaches 25; lower-level raids do not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Expert_Tomb_Looter",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 471,
+      "name": "Expert Tomb Raider",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Run Expert raids at raid level 300 or above and retain a setup you can finish consistently.",
+        "Reach 50 full Expert completions; killing the path bosses without finishing the Wardens is not enough."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Expert_Tomb_Raider",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode"
+      ]
+    },
+    {
+      "id": 472,
+      "name": "More than just a ranged weapon",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Equip a salamander and bring its matching tar; remove recoil, thralls and other sources of damage.",
+        "Use the salamander's attack styles to damage Muspah through the fight, including its prayer-shield phase.",
+        "Finish with salamander damage only; swapping to a conventional weapon for the shield fails the restriction."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/More_than_just_a_ranged_weapon",
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah"
+      ]
+    },
+    {
+      "id": 473,
+      "name": "Can't Escape",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Turn run off before engaging and keep it off for the entire kill.",
+        "Walk around spikes and lightning, and shelter behind a spike for the large shockwave.",
+        "Use controlled walking routes rather than long last-second dodges; kill Muspah without running once."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Can%27t_Escape",
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah"
+      ]
+    },
+    {
+      "id": 474,
+      "name": "Essence Farmer",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Pack supplies for ten kills and both ranged and magic options before entering.",
+        "Kite or freeze the melee form, change protection for its attacks and shelter from the shockwave.",
+        "Stay for ten kills in this trip; banking or leaving before the tenth breaks the streak."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Essence_Farmer",
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah"
+      ]
+    },
+    {
+      "id": 475,
+      "name": "Phantom Muspah Speed-Trialist",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Prepare ranged and magic switches and boost before engaging; attempt this off a Slayer task.",
+        "Keep damage going between form changes, avoid spikes, and handle the shield with Smite or enchanted sapphire bolts.",
+        "Finish the kill in under 3:00; wasted movement during transitions costs time."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 476,
+      "name": "Phantom Muspah Speed-Chaser",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Enter off a Slayer task with boosted ranged and magic gear and a plan for the shield phase.",
+        "Attack continuously between safe movements; use Smite or enchanted sapphire bolts to shorten the prayer shield.",
+        "Finish in under 2:00 while avoiding spikes that heal Muspah."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 477,
+      "name": "Phantom Muspah Speed-Runner",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Attempt off a Slayer task; prepare damage boosts, accurate switches and a fast prayer-shield method before engaging.",
+        "Avoid lost attacks on form changes and clear the shield using Smite or enchanted sapphire bolts.",
+        "Finish in under 1:30; leave spikes clear so Muspah receives no unnecessary healing."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah_Speed-Runner"
+      ]
+    },
+    {
+      "id": 478,
+      "name": "Phantom Muspah Adept",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Bring ranged and magic options and start the fight with protection prayers ready.",
+        "Kite the melee form, dodge newly appearing spikes and lightning, and shelter behind a spike for the shockwave.",
+        "Drain the prayer shield with Smite or enchanted sapphire bolts, then finish one kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah_Adept"
+      ]
+    },
+    {
+      "id": 479,
+      "name": "Phantom Muspah Veteran",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Use ranged and magic switches; dodge spikes and shelter from the large shockwave.",
+        "Handle the shield with Smite or enchanted sapphire bolts and repeat successful kills until your total reaches 25."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah_Veteran"
+      ]
+    },
+    {
+      "id": 480,
+      "name": "Phantom Muspah Master",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Farm Muspah using reliable form switches and a prayer-shield method such as enchanted sapphire bolts.",
+        "Keep spikes and lightning out of your route and build to 50 total kills; these need not be in one trip."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah_Master"
+      ]
+    },
+    {
+      "id": 481,
+      "name": "Space is Tight",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Leave Muspah alive at low health while you arrange the final position.",
+        "Choose a reachable tile enclosed by the existing spikes, without stepping onto spikes yourself.",
+        "Deliver the finishing damage while surrounded; killing first and moving into position afterwards does not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+        "https://oldschool.runescape.wiki/w/Space_is_Tight"
+      ]
+    },
+    {
+      "id": 482,
+      "name": "Versatile Drainer",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Bring enchanted sapphire bolts, Smite and runes for Lesser or Greater Corruption on the Arceuus spellbook.",
+        "At the prayer shield, apply corruption and let its drain occur before the shield is removed.",
+        "Also drain with Smite and a sapphire-bolt effect during this kill; three drains from one source are not three different sources."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+        "https://oldschool.runescape.wiki/w/Talk:Phantom_Muspah/Strategies",
+        "https://oldschool.runescape.wiki/w/Versatile_Drainer"
+      ]
+    },
+    {
+      "id": 483,
+      "name": "Walk Straight Pray True",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Use the correct protection for Muspah's attacks and move when spikes begin forming under your position.",
+        "Avoid lightning and homing spikes; shelter behind an existing spike for the large shockwave.",
+        "Finish without any avoidable damage; do not stand on spikes to take a shortcut."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+        "https://oldschool.runescape.wiki/w/Walk_Straight_Pray_True"
+      ]
+    },
+    {
+      "id": 484,
+      "name": "Phantom Muspah Manipulator",
+      "activity": "Phantom Muspah",
+      "steps": [
+        "Keep run disabled from the start and use correct prayers while walking clear of spikes and lightning.",
+        "Shelter from the shockwave, and stop damage at low health to prepare a tile surrounded by spikes.",
+        "Finish from that enclosed position without any avoidable damage or running during the whole fight."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+        "https://oldschool.runescape.wiki/w/Phantom_Muspah_Manipulator"
+      ]
+    },
+    {
+      "id": 485,
+      "name": "Vardorvis Speed-Trialist",
+      "activity": "Vardorvis",
+      "steps": [
+        "Boost before engaging and prepare strong melee damage; attempt the timer off a Slayer task.",
+        "Keep Protect from Melee ready, dodge axes and react to the head's prayer attack without dropping unnecessary attacks.",
+        "Finish in under 1:15; pre-plan blood-splat movement to preserve attacking time."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vardorvis",
+        "https://oldschool.runescape.wiki/w/Vardorvis_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 486,
+      "name": "Vardorvis Speed-Chaser",
+      "activity": "Vardorvis",
+      "steps": [
+        "Attempt off a Slayer task with boosted melee gear and special attacks ready.",
+        "Maintain safe attacks while dodging axes, handling the head and clearing blood-splat prompts.",
+        "Finish in under 1:05; panic movement away from melee range wastes valuable time."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vardorvis",
+        "https://oldschool.runescape.wiki/w/Vardorvis_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 487,
+      "name": "Vardorvis Speed-Runner",
+      "activity": "Vardorvis",
+      "steps": [
+        "Use your strongest reliable melee setup, pre-boost and attempt off a Slayer task.",
+        "Keep attacking between axe dodges and react immediately to the head and blood-splat prompts.",
+        "Finish in under 0:55; save movement for real hazards rather than leaving attack range unnecessarily."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vardorvis",
+        "https://oldschool.runescape.wiki/w/Vardorvis_Speed-Runner"
+      ]
+    },
+    {
+      "id": 488,
+      "name": "Vardorvis Adept",
+      "activity": "Vardorvis",
+      "steps": [
+        "Bring melee gear and protection prayers; stay ready to dodge axes and clear blood-splat prompts.",
+        "React to the head's ranged attack, restore your melee protection and finish Vardorvis once."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vardorvis",
+        "https://oldschool.runescape.wiki/w/Vardorvis_Adept"
+      ]
+    },
+    {
+      "id": 489,
+      "name": "Vardorvis Master",
+      "activity": "Vardorvis",
+      "steps": [
+        "Use a melee setup you can sustain; handle axes, the head and blood-splat prompts on each kill.",
+        "Build to 50 total Vardorvis kills; these are cumulative, so bank whenever supplies need replenishing."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vardorvis",
+        "https://oldschool.runescape.wiki/w/Vardorvis_Master"
+      ]
+    },
+    {
+      "id": 490,
+      "name": "Vardorvis Sleeper",
+      "activity": "Vardorvis",
+      "steps": [
+        "Bring an awakener's orb and select the Awakened Vardorvis encounter.",
+        "Track the added attack pressure, keep prayer changes deliberate and prioritise axe dodges over extra hits.",
+        "Finish the Awakened fight; an ordinary Vardorvis kill does not meet this task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vardorvis",
+        "https://oldschool.runescape.wiki/w/Vardorvis_Sleeper"
+      ]
+    },
+    {
+      "id": 491,
+      "name": "Perfect Vardorvis",
+      "activity": "Vardorvis",
+      "steps": [
+        "Stock supplies for five kills and keep protection prayers ready before starting the streak.",
+        "Dodge every axe, handle the head and blood-splat mechanics, and avoid melee hits without protection.",
+        "Complete five perfect kills consecutively without leaving; a mistake requires a fresh five-kill streak."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Vardorvis",
+        "https://oldschool.runescape.wiki/w/Vardorvis"
+      ]
+    },
+    {
+      "id": 492,
+      "name": "Axe Enthusiast",
+      "activity": "Vardorvis",
+      "steps": [
+        "Reduce Vardorvis to his maximum attack speed, then stop damaging him.",
+        "Stay inside the central 5-by-5 area for at least three minutes at that speed while handling axes, the head and blood splats.",
+        "Only resume damage after the full survival period, then finish the kill; time before maximum speed does not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Axe_Enthusiast",
+        "https://oldschool.runescape.wiki/w/Vardorvis"
+      ]
+    },
+    {
+      "id": 493,
+      "name": "Budget Cutter",
+      "activity": "Vardorvis",
+      "steps": [
+        "Check the total current value of every equipped item before fighting; keep the setup at or below 2 million coins.",
+        "Include special-attack and other gear switches in that budget, rather than checking only your main weapon.",
+        "Handle axes, prayer changes and blood splats and finish the kill with the restricted setup."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Budget_Cutter",
+        "https://oldschool.runescape.wiki/w/Vardorvis"
+      ]
+    },
+    {
+      "id": 494,
+      "name": "Whisperer Speed-Trialist",
+      "activity": "Whisperer",
+      "steps": [
+        "Attempt off a Slayer task with a boosted magic setup and your blackstone fragment ready.",
+        "Keep casting between tentacle dodges; handle shadow-realm patterns, spirits and pillars without long delays.",
+        "Use the final phase's safe movement pattern and finish in under 3:00."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Whisperer",
+        "https://oldschool.runescape.wiki/w/Whisperer_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 495,
+      "name": "Whisperer Speed-Chaser",
+      "activity": "Whisperer",
+      "steps": [
+        "Prepare boosted magic damage and attempt off a Slayer task; keep the blackstone fragment accessible.",
+        "Switch promptly for shadow mechanics, solve spirits and pillars, and preserve casting time while dodging tentacles.",
+        "Finish in under 2:25, including the enrage phase."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Whisperer",
+        "https://oldschool.runescape.wiki/w/Whisperer_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 496,
+      "name": "Whisperer Speed-Runner",
+      "activity": "Whisperer",
+      "steps": [
+        "Use your strongest reliable magic setup and pre-boost for an off-task attempt.",
+        "Resolve the shadow mechanics quickly and attack between tentacle dodges rather than running without a plan.",
+        "Finish in under 2:05; keep damage going during the enrage movement pattern."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Whisperer",
+        "https://oldschool.runescape.wiki/w/Whisperer_Speed-Runner"
+      ]
+    },
+    {
+      "id": 497,
+      "name": "Whisperer Adept",
+      "activity": "Whisperer",
+      "steps": [
+        "Bring magic gear and the blackstone fragment; watch the attack sequence and dodge tentacles.",
+        "Use the fragment for shadow-realm mechanics and solve the spirit and pillar phases.",
+        "Keep moving safely through enrage and complete one Whisperer kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Whisperer",
+        "https://oldschool.runescape.wiki/w/Whisperer_Adept"
+      ]
+    },
+    {
+      "id": 498,
+      "name": "Whisperer Master",
+      "activity": "Whisperer",
+      "steps": [
+        "Use a sustainable magic setup and keep the fragment available for each shadow-realm mechanic.",
+        "Dodge tentacles, solve spirits and pillars, and build to 50 total kills; banking between kills is allowed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Whisperer",
+        "https://oldschool.runescape.wiki/w/Whisperer_Master"
+      ]
+    },
+    {
+      "id": 499,
+      "name": "Whispered",
+      "activity": "Whisperer",
+      "steps": [
+        "Bring an awakener's orb and choose the Awakened Whisperer encounter.",
+        "Prepare for the altered attack sequence and shadow-realm patterns; avoid wasting sanity on unnecessary realm time.",
+        "Survive the final enrage phase and finish the Awakened fight, rather than the normal version."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Whispered",
+        "https://oldschool.runescape.wiki/w/Whisperer"
+      ]
+    },
+    {
+      "id": 500,
+      "name": "Perfect Whisperer",
+      "activity": "Whisperer",
+      "steps": [
+        "Bring supplies for five kills and keep prayer switches and the blackstone fragment accessible.",
+        "Dodge tentacles, match protection prayers, and complete spirits and pillar mechanics without avoidable damage.",
+        "Finish five perfect kills consecutively without leaving; start the streak again if a mechanic hits you."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Whisperer",
+        "https://oldschool.runescape.wiki/w/Whisperer"
+      ]
+    },
+    {
+      "id": 501,
+      "name": "Tentacular",
+      "activity": "Whisperer",
+      "steps": [
+        "Select the Arceuus spellbook before entering and remain on it throughout the kill.",
+        "Use a powered magic staff for sustained damage; plan the fight without Ancient spellbook freezes.",
+        "Handle shadow mechanics and enrage, then finish without switching spellbooks."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tentacular",
+        "https://oldschool.runescape.wiki/w/Whisperer"
+      ]
+    },
+    {
+      "id": 502,
+      "name": "Dark Memories",
+      "activity": "Whisperer",
+      "steps": [
+        "Before enrage, enter the shadow realm only briefly to inspect the required patterns, then leave promptly.",
+        "Act on the patterns you observed instead of waiting in the realm for the whole mechanic.",
+        "Keep your combined pre-enrage realm time below six seconds; several short visits still add together."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dark_Memories",
+        "https://oldschool.runescape.wiki/w/Whisperer"
+      ]
+    },
+    {
+      "id": 503,
+      "name": "Leviathan Speed-Trialist",
+      "activity": "Leviathan",
+      "steps": [
+        "Attempt off a Slayer task with boosted ranged damage and Shadow spells ready for stuns.",
+        "Match prayers to projectiles, stun when needed and exploit the exposed rear while dodging special attacks.",
+        "Finish in under 1:50, including the final phase."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Leviathan",
+        "https://oldschool.runescape.wiki/w/Leviathan_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 504,
+      "name": "Leviathan Speed-Chaser",
+      "activity": "Leviathan",
+      "steps": [
+        "Pre-boost ranged damage and attempt off a Slayer task with your stun spell accessible.",
+        "Keep attacking between prayer changes and use stun openings without wasting movement.",
+        "Dodge final-phase hazards and finish in under 1:25."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Leviathan",
+        "https://oldschool.runescape.wiki/w/Leviathan_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 505,
+      "name": "Leviathan Speed-Runner",
+      "activity": "Leviathan",
+      "steps": [
+        "Prepare your best ranged damage, pre-boost and attempt off a Slayer task.",
+        "Maintain attacks while matching the projectile prayers; make every stun opening count.",
+        "Move with the final phase's safe area while attacking and finish in under 1:10."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Leviathan",
+        "https://oldschool.runescape.wiki/w/Leviathan_Speed-Runner"
+      ]
+    },
+    {
+      "id": 506,
+      "name": "Leviathan Adept",
+      "activity": "Leviathan",
+      "steps": [
+        "Bring ranged gear and a Shadow spell for stunning Leviathan.",
+        "Change protection with the incoming projectiles, use a stun to manage rising attack pressure and attack the exposed rear.",
+        "Dodge its special attacks and finish one kill, keeping up with the final phase's safe area."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Leviathan",
+        "https://oldschool.runescape.wiki/w/Leviathan_Adept"
+      ]
+    },
+    {
+      "id": 507,
+      "name": "Leviathan Master",
+      "activity": "Leviathan",
+      "steps": [
+        "Use a repeatable ranged setup with a stun spell available; match projectile prayers and exploit stun openings.",
+        "Survive the final phase's moving safe area and work towards 50 total kills; the kills need not be consecutive."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Leviathan",
+        "https://oldschool.runescape.wiki/w/Leviathan_Master"
+      ]
+    },
+    {
+      "id": 508,
+      "name": "Leviathan Sleeper",
+      "activity": "Leviathan",
+      "steps": [
+        "Bring an awakener's orb and select the Awakened Leviathan fight.",
+        "Track the intensified projectile sequence, use stuns deliberately and stay clear of special-attack hazards.",
+        "Follow the final phase's safe area and finish the Awakened encounter; normal kills do not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Leviathan",
+        "https://oldschool.runescape.wiki/w/Leviathan_Sleeper"
+      ]
+    },
+    {
+      "id": 509,
+      "name": "Perfect Leviathan",
+      "activity": "Leviathan",
+      "steps": [
+        "Stock supplies for five kills and prepare ranged attacks plus a stun spell.",
+        "Match all projectile prayers and dodge lightning, rocks and final-phase hazards without avoidable damage.",
+        "Complete five perfect kills in a row without leaving; rebuild the streak after a mistake."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Leviathan",
+        "https://oldschool.runescape.wiki/w/Perfect_Leviathan"
+      ]
+    },
+    {
+      "id": 510,
+      "name": "Serpentine Solo",
+      "activity": "Leviathan",
+      "steps": [
+        "Prepare ranged damage and decide when to use your single allowed stun before starting.",
+        "Handle faster projectile sequences with prayer changes instead of repeatedly casting Shadow spells.",
+        "Finish Leviathan with no more than one stun across the whole fight; an early extra stun cannot be undone."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Leviathan",
+        "https://oldschool.runescape.wiki/w/Serpentine_Solo"
+      ]
+    },
+    {
+      "id": 511,
+      "name": "Unconventional",
+      "activity": "Leviathan",
+      "steps": [
+        "Equip a ranged weapon with mithril ammunition only, remove passive damage sources and start at 25 health or below.",
+        "Keep your health at or below 25 for the entire fight; check how much food heals before eating.",
+        "Match prayers and dodge specials, then finish using only mithril-ammunition damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Leviathan",
+        "https://oldschool.runescape.wiki/w/Unconventional"
+      ]
+    },
+    {
+      "id": 512,
+      "name": "Duke Sucellus Speed-Trialist",
+      "activity": "Duke Sucellus",
+      "steps": [
+        "Attempt off a Slayer task. Prepare both poisons, then boost and equip your melee setup before applying the final poison.",
+        "The timer starts when Duke wakes. Use strong slash attacks and useful Defence-lowering specials while stepping safely between his attacks.",
+        "Shelter behind a pillar for the gaze and finish combat in under 1:00; preparation is outside this timer."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus",
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus/Strategies",
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 513,
+      "name": "Duke Sucellus Speed-Chaser",
+      "activity": "Duke Sucellus",
+      "steps": [
+        "Attempt off a Slayer task and prepare both poisons. Boost and arrange your melee switches before waking Duke with the final poison.",
+        "Attack promptly when he wakes, use Defence-lowering specials if available and preserve attacks while moving around his hazards.",
+        "Finish combat in under 0:50. The timer begins on waking, so use the preparation phase to get ready."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus",
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus/Strategies",
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 514,
+      "name": "Duke Sucellus Speed-Runner",
+      "activity": "Duke Sucellus",
+      "steps": [
+        "Prepare poisons and your strongest reliable slash setup off a Slayer task; boost before applying the final poison.",
+        "Make each combat attack count, using useful specials and matching your movement to his faster final phase.",
+        "Avoid the gaze behind pillars and finish in under 0:40 from waking Duke; gathering and brewing are outside the combat timer."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus",
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus/Strategies",
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus_Speed-Runner"
+      ]
+    },
+    {
+      "id": 515,
+      "name": "Duke Sucellus Adept",
+      "activity": "Duke Sucellus",
+      "steps": [
+        "Gather the required ingredients and prepare the potions to wake Duke.",
+        "Use melee, keep protection ready and shelter behind the pillars when his gaze begins.",
+        "Dodge ground hazards and finish one kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus",
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus_Adept"
+      ]
+    },
+    {
+      "id": 516,
+      "name": "Duke Sucellus Master",
+      "activity": "Duke Sucellus",
+      "steps": [
+        "Use a melee setup and supplies suitable for repeated ingredient preparation and fights.",
+        "Wake Duke with the prepared potions, shelter from his gaze and dodge ground hazards; work towards 50 total kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus",
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus_Master"
+      ]
+    },
+    {
+      "id": 517,
+      "name": "Duke Sucellus Sleeper",
+      "activity": "Duke Sucellus",
+      "steps": [
+        "Bring an awakener's orb and choose the Awakened Duke encounter.",
+        "Prepare the waking potions and handle the added gaze and ground hazards before committing to attacks.",
+        "Finish the Awakened fight; ordinary Duke kills do not count for this task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus",
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus_Sleeper"
+      ]
+    },
+    {
+      "id": 518,
+      "name": "Perfect Duke Sucellus",
+      "activity": "Duke Sucellus",
+      "steps": [
+        "Bring enough supplies for five kills and learn a safe route for gathering and preparation.",
+        "During combat, shelter from the gaze and dodge falling or ground hazards without avoidable damage.",
+        "Complete five perfect kills consecutively without leaving; repeat the full streak if you make a mistake."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus",
+        "https://oldschool.runescape.wiki/w/Perfect_Duke_Sucellus"
+      ]
+    },
+    {
+      "id": 519,
+      "name": "Cold Feet",
+      "activity": "Duke Sucellus",
+      "steps": [
+        "Disable run before starting and leave it disabled through preparation and the fight.",
+        "Walk to pillar cover in time for the gaze and step clear of ground hazards before they hit.",
+        "Finish Duke with no avoidable damage and without running at any point."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cold_Feet",
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus"
+      ]
+    },
+    {
+      "id": 520,
+      "name": "Mirror Image",
+      "activity": "Duke Sucellus",
+      "steps": [
+        "Turn auto-retaliate off and manually time every attack for the moment Duke attacks.",
+        "Follow his animation rather than a fixed interval: his attack timing changes as the fight progresses.",
+        "Finish the kill with every attack on the same game tick as Duke's; do not attack freely during idle gaps."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Duke_Sucellus",
+        "https://oldschool.runescape.wiki/w/Mirror_Image"
+      ]
+    },
+    {
+      "id": 521,
+      "name": "Scurrius Novice",
+      "activity": "Scurrius",
+      "steps": [
+        "Enter Scurrius with a weapon, healing supplies and protection prayers ready.",
+        "Step away from falling bricks and change prayers for his ranged and magic attacks.",
+        "Kill Scurrius once; the first successful kill is enough for this task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Scurrius",
+        "https://oldschool.runescape.wiki/w/Scurrius_Novice"
+      ]
+    },
+    {
+      "id": 522,
+      "name": "Scurrius Champion",
+      "activity": "Scurrius",
+      "steps": [
+        "Use a sustainable setup and dodge falling bricks while matching prayers to his ranged and magic attacks.",
+        "Repeat successful kills until your total reaches ten; the kills do not need to be in one visit."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Scurrius",
+        "https://oldschool.runescape.wiki/w/Scurrius_Champion"
+      ]
+    },
+    {
+      "id": 523,
+      "name": "Sit Rat",
+      "activity": "Scurrius",
+      "steps": [
+        "Create or bring a ratbane weapon and enter Scurrius's private instance.",
+        "Fight normally while dodging bricks and switching prayers; reduce Scurrius to low health.",
+        "Use the ratbane weapon for the killing blow; a public-room finish does not qualify."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Scurrius",
+        "https://oldschool.runescape.wiki/w/Sit_Rat"
+      ]
+    },
+    {
+      "id": 524,
+      "name": "Perfect Scurrius",
+      "activity": "Scurrius",
+      "steps": [
+        "Choose a private instance and keep protection prayers ready for each ranged and magic attack.",
+        "Move clear of falling bricks and avoid the tail swipe rather than relying on food to recover.",
+        "Finish Scurrius without any of those mistakes; protection must match the flying-fur and electric attacks."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Scurrius",
+        "https://oldschool.runescape.wiki/w/Scurrius"
+      ]
+    },
+    {
+      "id": 525,
+      "name": "Efficient Pest Control",
+      "activity": "Scurrius",
+      "steps": [
+        "Use a ratbane weapon and wait until at least six giant rats are available together.",
+        "Click each rat in rapid succession; ratbane attacks on giant rats let you clear them without the usual delay.",
+        "Kill six within three seconds, rather than slowly clearing each new spawn separately."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Efficient_Pest_Control",
+        "https://oldschool.runescape.wiki/w/Scurrius"
+      ]
+    },
+    {
+      "id": 526,
+      "name": "The Clone Zone",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Enter Eclipse Moon and stop attacking it during its ordinary phase.",
+        "During the clone phase, turn towards each clone and attack the clones as they appear.",
+        "Repeat clone phases until the boss dies; any direct attack on Eclipse Moon outside the clones breaks the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril",
+        "https://oldschool.runescape.wiki/w/The_Clone_Zone"
+      ]
+    },
+    {
+      "id": 527,
+      "name": "High Hitter",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Choose one Moon and boost before the fight; use its weak melee style: stab for Eclipse, crush for Blue, slash for Blood.",
+        "Keep attacking while following the safe tiles and resolve its first special quickly.",
+        "Kill that Moon before its second special begins; finishing during the second special is too late."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/High_Hitter",
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril"
+      ]
+    },
+    {
+      "id": 528,
+      "name": "Lunar Triplet",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Start a fresh reward cycle and kill Eclipse, Blue and Blood Moon before opening the chest.",
+        "Use stab against Eclipse, crush against Blue and slash against Blood, while following each fight's safe tiles.",
+        "Open the reward chest after all three are defeated; looting partway through separates the cycle."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Lunar_Triplet",
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril"
+      ]
+    },
+    {
+      "id": 529,
+      "name": "Perilous Novice",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Gather dungeon food and potions, then defeat at least one Moon to unlock a reward chest.",
+        "Open the chest and repeat qualifying reward cycles until you have opened it five times; boss kills alone do not advance this target."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril",
+        "https://oldschool.runescape.wiki/w/Perilous_Novice"
+      ]
+    },
+    {
+      "id": 530,
+      "name": "Perilous Champion",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Prepare supplies inside Neypotzli and defeat one or more Moons each cycle.",
+        "Loot the reward chest after each cycle and work towards 25 chest openings; three bosses in one cycle still produce one opening."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril",
+        "https://oldschool.runescape.wiki/w/Perilous_Champion"
+      ]
+    },
+    {
+      "id": 531,
+      "name": "Perilous Dancer",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Fight Eclipse, Blue and Blood Moon in one reward cycle, following the safe tiles during ordinary attacks.",
+        "Avoid every special-attack hazard in all three fights; regular-attack damage is allowed.",
+        "Finish the cycle without a special hitting you, rather than healing through its damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril",
+        "https://oldschool.runescape.wiki/w/Perilous_Dancer"
+      ]
+    },
+    {
+      "id": 532,
+      "name": "Fortified",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Wear strong defensive armour and choose a Moon whose special mechanics you can avoid confidently.",
+        "Boost and eat before engaging; once the fight starts, do not consume food, potions or other consumables.",
+        "Follow safe tiles and complete the kill using your starting health and preparation."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fortified",
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril"
+      ]
+    },
+    {
+      "id": 533,
+      "name": "Betrayal",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Use a Moon's own associated weapon against that Moon; dual macuahuitl against Blood Moon is one option.",
+        "Keep using that weapon through the whole fight and move onto safe tiles between attacks.",
+        "Finish the matching Moon with its associated weapon, rather than borrowing another Moon's drop."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Betrayal",
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril"
+      ]
+    },
+    {
+      "id": 534,
+      "name": "Back to Our Roots",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Bring a dragon scimitar as your only attacking weapon; remove thralls, recoil and other damage sources.",
+        "Kill Eclipse, Blue and Blood Moon in one reward cycle, keeping the scimitar equipped for every attack.",
+        "Follow each special safely; a faster weapon switch during any of the three fights fails the restriction."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Back_to_Our_Roots",
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril"
+      ]
+    },
+    {
+      "id": 535,
+      "name": "Moons of Peril Speed-Trialist",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Prepare dungeon supplies and melee switches before beginning the three-Moon cycle.",
+        "Use stab for Eclipse, crush for Blue and slash for Blood; maintain damage while following safe tiles.",
+        "Defeat all three in one run within eight minutes, minimising travel and preparation delays between fights."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril",
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 536,
+      "name": "Moons of Peril Speed-Chaser",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Prepare your route, supplies and melee-style switches before starting.",
+        "Keep attacking on safe tiles, solve specials quickly and move directly between the three Moons.",
+        "Finish all three in one run within six minutes; unnecessary resupplying consumes the shared timer."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril",
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 537,
+      "name": "Fat of the Land",
+      "activity": "Moons of Peril",
+      "steps": [
+        "Prepare defensive melee gear and collect food and potions inside Neypotzli.",
+        "Use the dungeon's resources to replenish supplies between fights without going outside.",
+        "Accumulate 30 Moon kills while staying in the dungeon; this is a boss-kill target, not 30 reward chests."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fat_of_the_Land",
+        "https://oldschool.runescape.wiki/w/Moons_of_Peril"
+      ]
+    },
+    {
+      "id": 538,
+      "name": "Sportsmanship",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Clear Colosseum waves 1-11 with supplies reserved for the final duel.",
+        "Against Sol, watch his weapon telegraphs, move clear of spear and shield attacks and respond to grapples.",
+        "Finish Sol Heredit once to complete the Colosseum."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
+        "https://oldschool.runescape.wiki/w/Sportsmanship"
+      ]
+    },
+    {
+      "id": 539,
+      "name": "Colosseum Grand Champion",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Build a repeatable Colosseum setup and save supplies through the earlier waves.",
+        "Handle Sol's weapon attacks and grapples safely, then finish the duel.",
+        "Complete ten Sol kills in total; each requires reaching and defeating the final wave."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Colosseum_Grand_Champion",
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum"
+      ]
+    },
+    {
+      "id": 540,
+      "name": "I Brought Mine Too",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Clear the earlier Colosseum waves with your usual weapons, then switch before fighting Sol.",
+        "Damage Sol only with a spear, hasta or halberd; keep any special attacks within those weapon types.",
+        "Finish the duel without other weapon damage or passive damage sources."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
+        "https://oldschool.runescape.wiki/w/I_Brought_Mine_Too"
+      ]
+    },
+    {
+      "id": 541,
+      "name": "Slow Dancing in the Sand",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Use normal movement for the earlier waves, then disable run before Sol's fight begins.",
+        "Walk out of spear and shield patterns early and handle grapples without relying on a last-second run.",
+        "Finish Sol without running during his duel; the restriction is specific to his fight."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
+        "https://oldschool.runescape.wiki/w/Slow_Dancing_in_the_Sand"
+      ]
+    },
+    {
+      "id": 542,
+      "name": "Furball",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Reach wave four and watch the Manticore's charged attack order before its volley.",
+        "Switch protection prayers in that displayed order; the ranged and magic positions can differ.",
+        "Finish the wave without taking avoidable Manticore damage; do not assume every volley has one fixed order."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
+        "https://oldschool.runescape.wiki/w/Furball"
+      ]
+    },
+    {
+      "id": 543,
+      "name": "Perfect Footwork",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Reach Sol and watch his spear and shield telegraphs so you can step outside their hit areas.",
+        "Respond to each grapple by removing the called equipment, and time protection for the triple attack.",
+        "Finish with no spear, shield, grapple or triple-attack hits; surviving their damage is not enough."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
+        "https://oldschool.runescape.wiki/w/Perfect_Footwork"
+      ]
+    },
+    {
+      "id": 544,
+      "name": "Showboating",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Unlock the Fortis Salute emote and reach Sol with room to move around the arena.",
+        "Bring him below 10% health, then stop damaging him so he survives your emotes.",
+        "Perform the salute in the north, east, south and west sections of the arena before finishing; merely facing four directions is insufficient."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
+        "https://oldschool.runescape.wiki/w/Showboating"
+      ]
+    },
+    {
+      "id": 545,
+      "name": "Denied",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Reach wave seven and prioritise the Minotaur before it can heal the remaining enemies.",
+        "Use safe positioning and sustained damage to stop its healing opportunity rather than splitting damage across targets.",
+        "Finish the wave without the Minotaur healing another enemy."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Denied",
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum"
+      ]
+    },
+    {
+      "id": 546,
+      "name": "One-off",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Choose a modifier route that gives Red Flag, Dynamic Duo or Doom II by wave eleven.",
+        "Prepare your wave-eleven positioning around the selected modifier's added danger.",
+        "Complete wave eleven with at least one of those modifiers active; a lower Doom rank is insufficient."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
+        "https://oldschool.runescape.wiki/w/One-off"
+      ]
+    },
+    {
+      "id": 547,
+      "name": "Reinforcements",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Plan modifier choices so Bees II, Quartet and Solarflare II are all active for the final duel.",
+        "Reach Sol while preserving supplies, then keep the added hazards clear of your movement route.",
+        "Defeat Sol with all three required modifiers active together; having only one or two does not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
+        "https://oldschool.runescape.wiki/w/Reinforcements"
+      ]
+    },
+    {
+      "id": 548,
+      "name": "I was here first!",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Bring a claw-type weapon with special energy and reach a Jaguar Warrior in the Colosseum.",
+        "Lower its health without accidentally killing it, then use the claw special for the finishing damage.",
+        "Make sure the special kills the warrior; a normal claw attack is not enough."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum",
+        "https://oldschool.runescape.wiki/w/I_was_here_first%21"
+      ]
+    },
+    {
+      "id": 549,
+      "name": "Colosseum Speed-Chaser",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Prepare boosts and a practised wave route before entering the Colosseum.",
+        "Use pillars to control threats, clear waves promptly and avoid prolonged pauses between waves.",
+        "Finish Sol with the full completion timer at 28:00 or less; a fast Sol duel alone is insufficient."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Colosseum_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum"
+      ]
+    },
+    {
+      "id": 550,
+      "name": "Colosseum Speed-Runner",
+      "activity": "Fortis Colosseum",
+      "steps": [
+        "Use a practised full-run setup with boosts and special attacks planned for key waves.",
+        "Resolve each wave efficiently, preserve enough supplies for Sol and keep transitions short.",
+        "Complete the entire Colosseum in 24:00 or less, including the final duel."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Colosseum_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Fortis_Colosseum"
+      ]
+    },
+    {
+      "id": 551,
+      "name": "Unending Torment",
+      "activity": "Tormented Demon",
+      "steps": [
+        "Fight a Tormented Demon in the Ancient Guthixian Temple with at least two attacking styles ready.",
+        "Switch away from the style its overhead protects against, match its attacks with your prayers and dodge the fire bombs.",
+        "Finish one demon; keep attacking after its shield drops for a useful damage opening."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tormented_Demon",
+        "https://oldschool.runescape.wiki/w/Unending_Torment"
+      ]
+    },
+    {
+      "id": 552,
+      "name": "Through Fire and Flames",
+      "activity": "Tormented Demon",
+      "steps": [
+        "Lower a Tormented Demon to finishing range, then stop ordinary damage.",
+        "Wait for its fire shield to drop after a bomb attack, and use that opening for the killing blow.",
+        "Finish while the shield is inactive; damaging it earlier during a shield-down window is not sufficient."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Through_Fire_and_Flames",
+        "https://oldschool.runescape.wiki/w/Tormented_Demon"
+      ]
+    },
+    {
+      "id": 553,
+      "name": "Two Times the Torment",
+      "activity": "Tormented Demon",
+      "steps": [
+        "Choose an area that allows two demons and bring both to low health without killing either.",
+        "Keep them engaged and dodge bombs while preparing two fast finishing hits or overlapping projectiles.",
+        "Kill both within two seconds of each other; accidental early damage can spoil the setup."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tormented_Demon",
+        "https://oldschool.runescape.wiki/w/Two_Times_the_Torment"
+      ]
+    },
+    {
+      "id": 554,
+      "name": "Three Times the Thrashing",
+      "activity": "Tormented Demon",
+      "steps": [
+        "Use a triple-demon area and lower all three to finishing range while keeping them in combat.",
+        "Remove uncontrolled passive damage and arrange rapid finishes or overlapping projectiles before committing.",
+        "Kill all three within three seconds; the window starts with the first death."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Three_Times_the_Thrashing",
+        "https://oldschool.runescape.wiki/w/Tormented_Demon"
+      ]
+    },
+    {
+      "id": 555,
+      "name": "Rapid Reload",
+      "activity": "Tormented Demon",
+      "steps": [
+        "Bring a Hunters' sunlight crossbow and use a triple-demon area; its fast attacks are a simple option for this task.",
+        "Shoot each of the three demons in succession so all three hits occur within three seconds; kills are unnecessary.",
+        "With another crossbow or ballista, engage all three first and use their shield-down openings for accelerated attacks."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Rapid_Reload",
+        "https://oldschool.runescape.wiki/w/Tormented_Demon"
+      ]
+    },
+    {
+      "id": 556,
+      "name": "Araxxor Veteran",
+      "activity": "Araxxor",
+      "steps": [
+        "Bring crush melee damage and a ranged option for araxytes on an eligible Slayer assignment.",
+        "Handle eggs and minions promptly, move clear of acid and dodge the enrage cleaves.",
+        "Work towards 25 total Araxxor kills; you can bank between trips."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Araxxor",
+        "https://oldschool.runescape.wiki/w/Araxxor_Veteran"
+      ]
+    },
+    {
+      "id": 557,
+      "name": "Araxxor Master",
+      "activity": "Araxxor",
+      "steps": [
+        "Use a reliable crush setup with supplies for venom and a quick araxyte switch.",
+        "Keep acid out of your movement route, resolve minions and dodge enrage cleaves.",
+        "Build to 75 total kills; this target does not require a single uninterrupted trip."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Araxxor",
+        "https://oldschool.runescape.wiki/w/Araxxor_Master"
+      ]
+    },
+    {
+      "id": 558,
+      "name": "Araxxor Speed-Trialist",
+      "activity": "Araxxor",
+      "steps": [
+        "Prepare boosted crush damage and supplies for four kills before starting the timed streak.",
+        "Clear dangerous araxytes quickly and keep attacking while dodging acid and enrage cleaves.",
+        "Complete four Araxxor kills within ten minutes; reduce looting and other delays between spawns."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Araxxor",
+        "https://oldschool.runescape.wiki/w/Araxxor_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 559,
+      "name": "Araxxor Speed-Chaser",
+      "activity": "Araxxor",
+      "steps": [
+        "Enter with boosts, a reliable crush weapon and supplies ready for five kills.",
+        "Resolve minions quickly, avoid acid detours and maintain attacks between enrage dodges.",
+        "Kill Araxxor five times within ten minutes; leaving to resupply wastes the attempt's time."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Araxxor",
+        "https://oldschool.runescape.wiki/w/Araxxor_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 560,
+      "name": "Araxxor Speed-Runner",
+      "activity": "Araxxor",
+      "steps": [
+        "Plan a sustained crush setup and supplies for six kills, with special attacks saved for useful damage openings.",
+        "Deal with araxytes quickly and avoid losing attack time to acid or enrage cleaves.",
+        "Finish six kills within ten minutes; eggs are not healing targets and do not need clearing for every speed attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Araxxor",
+        "https://oldschool.runescape.wiki/w/Araxxor_Speed-Runner"
+      ]
+    },
+    {
+      "id": 561,
+      "name": "Perfect Araxxor",
+      "activity": "Araxxor",
+      "steps": [
+        "Keep the appropriate overhead active; promptly kill acidic araxytes or destroy their green eggs before hatching.",
+        "Avoid acid pools and acid-ball paths, red araxyte explosions and reflected damage from mirrorbacks.",
+        "Dodge every enrage cleave and finish without avoidable damage; an off-prayer zero from a minion can still fail the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Araxxor",
+        "https://oldschool.runescape.wiki/w/Perfect_Araxxor"
+      ]
+    },
+    {
+      "id": 562,
+      "name": "Perfect Araxxor 2",
+      "activity": "Araxxor",
+      "steps": [
+        "Prepare a perfect fight with no thralls, recoil or lingering damage that could hit during enrage.",
+        "Protect correctly and avoid acid, minions and reflected damage until Araxxor enrages, then stop all attacks.",
+        "Step under him to bait a cleave onto his own tiles, then step clear when he shouts; repeat the self-damage method until he dies without hitting him yourself."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Araxxor",
+        "https://oldschool.runescape.wiki/w/Araxxor/Strategies",
+        "https://oldschool.runescape.wiki/w/Perfect_Araxxor_2"
+      ]
+    },
+    {
+      "id": 563,
+      "name": "Let it seep in",
+      "activity": "Araxxor",
+      "steps": [
+        "Let any existing poison or venom immunity expire before engaging; do not wear a serpentine helm.",
+        "Avoid antipoison and anti-venom doses throughout the fight, and keep acid pools out of your route.",
+        "Finish Araxxor without ever gaining either immunity; surviving the venom does not permit an immunity dose midway."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Araxxor",
+        "https://oldschool.runescape.wiki/w/Let_it_seep_in"
+      ]
+    },
+    {
+      "id": 564,
+      "name": "Relaxxor",
+      "activity": "Araxxor",
+      "steps": [
+        "Keep Araxxor alive while you destroy six eggs and count each destroyed egg.",
+        "Avoid acid and handle any remaining araxytes while clearing the eggs; hatched minions are not destroyed eggs.",
+        "Only finish the boss after the sixth egg is destroyed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Araxxor",
+        "https://oldschool.runescape.wiki/w/Relaxxor"
+      ]
+    },
+    {
+      "id": 565,
+      "name": "Swimming in Venom",
+      "activity": "Araxxor",
+      "steps": [
+        "Start in melee range and choose your position so Araxxor does not need to walk towards you.",
+        "Dodge acid and cleaves with short steps that keep you within melee reach; avoid luring him across the room.",
+        "Finish without the boss moving once; player movement is allowed if Araxxor stays in place."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Araxxor",
+        "https://oldschool.runescape.wiki/w/Swimming_in_Venom"
+      ]
+    },
+    {
+      "id": 566,
+      "name": "Araxyte Betrayal",
+      "activity": "Araxxor",
+      "steps": [
+        "Keep three araxytes alive and bring them close to a red exploding araxyte.",
+        "Lower their health if needed, then stop damaging them so the red araxyte's explosion delivers the kills.",
+        "Have that one araxyte kill all three others; killing them yourself or splitting the kills between explosions does not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Araxxor",
+        "https://oldschool.runescape.wiki/w/Araxyte_Betrayal"
+      ]
+    },
+    {
+      "id": 567,
+      "name": "Arachnid Lover",
+      "activity": "Araxxor",
+      "steps": [
+        "Pack healing, prayer and venom supplies for ten Araxxor kills before entering.",
+        "Resolve minions, keep a clear acid route and dodge enrage cleaves on each spawn.",
+        "Stay for ten kills without leaving; a bank trip before the tenth ends the streak."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Arachnid_Lover",
+        "https://oldschool.runescape.wiki/w/Araxxor"
+      ]
+    },
+    {
+      "id": 568,
+      "name": "Hueycoatl Champion",
+      "activity": "The Hueycoatl",
+      "steps": [
+        "Join the Hueycoatl fight with melee gear and a crush option for its tail.",
+        "Match prayer to the coloured projectiles and step across the tail-slam waves rather than standing in them.",
+        "Finish one qualifying Hueycoatl kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hueycoatl_Champion",
+        "https://oldschool.runescape.wiki/w/The_Hueycoatl"
+      ]
+    },
+    {
+      "id": 569,
+      "name": "Hueycoatl Adept",
+      "activity": "The Hueycoatl",
+      "steps": [
+        "Use a reliable Hueycoatl setup, respond to projectile colours and avoid tail-slam waves.",
+        "Help break the tail and maintain damage during safe openings; accumulate ten total kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hueycoatl_Adept",
+        "https://oldschool.runescape.wiki/w/The_Hueycoatl"
+      ]
+    },
+    {
+      "id": 570,
+      "name": "Hueycoatl Veteran",
+      "activity": "The Hueycoatl",
+      "steps": [
+        "Farm Hueycoatl with the correct projectile prayers and a plan for dodging tail-slam waves.",
+        "Attack the tail and body in their active phases and work towards 25 total kills; one long trip is unnecessary."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hueycoatl_Veteran",
+        "https://oldschool.runescape.wiki/w/The_Hueycoatl"
+      ]
+    },
+    {
+      "id": 571,
+      "name": "Perfect Hueycoatl",
+      "activity": "The Hueycoatl",
+      "steps": [
+        "Bring supplies for five kills and keep the projectile prayer changes deliberate.",
+        "Avoid lightning, tail-slam waves and any projectile hit without the right protection.",
+        "Complete five perfect kills consecutively without leaving; a mistake breaks the clean streak."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Hueycoatl",
+        "https://oldschool.runescape.wiki/w/The_Hueycoatl"
+      ]
+    },
+    {
+      "id": 572,
+      "name": "Pillar Lover",
+      "activity": "The Hueycoatl",
+      "steps": [
+        "Coordinate the prayer pillars with your group so Hueycoatl's vulnerability is active.",
+        "Hold finishing damage if needed until the pillars create the vulnerable state.",
+        "Deliver the killing blow while it is vulnerable; activating the pillars earlier in the fight is not enough."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pillar_Lover",
+        "https://oldschool.runescape.wiki/w/The_Hueycoatl"
+      ]
+    },
+    {
+      "id": 573,
+      "name": "Is it a bird?",
+      "activity": "The Hueycoatl",
+      "steps": [
+        "Equip only dragonbane weapons for damage and remove thralls, recoil and other damage sources.",
+        "Use qualifying weapon attacks throughout the tail and body phases, while handling projectile prayers and slam waves.",
+        "Finish without switching to an ordinary weapon for a quicker phase."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Is_it_a_bird%3F",
+        "https://oldschool.runescape.wiki/w/The_Hueycoatl"
+      ]
+    },
+    {
+      "id": 574,
+      "name": "You're a wizard",
+      "activity": "The Hueycoatl",
+      "steps": [
+        "Bring runes and a spellbook that can cast earth spells; remove other sources of damage.",
+        "Damage the tail and body using earth spells only, while matching projectile prayers and avoiding slam waves.",
+        "Finish without powered-staff attacks or other elemental spells; magic damage alone is not the restriction."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/The_Hueycoatl",
+        "https://oldschool.runescape.wiki/w/You%27re_a_wizard"
+      ]
+    },
+    {
+      "id": 575,
+      "name": "I'm your son",
+      "activity": "The Hueycoatl",
+      "steps": [
+        "Equip two pieces of Hueycoatl armour before engaging and retain both through the fight.",
+        "Match protection prayers, dodge slam waves and help damage the active tail and body.",
+        "Finish with the required armour worn; simply carrying two pieces in your inventory does not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/I%27m_your_son",
+        "https://oldschool.runescape.wiki/w/The_Hueycoatl"
+      ]
+    },
+    {
+      "id": 576,
+      "name": "Hueycoatl Speed-Trialist",
+      "activity": "The Hueycoatl",
+      "steps": [
+        "Prepare boosts and coordinate fast damage on the tail before the attempt.",
+        "Maintain body damage while handling projectile prayers and tail-slam waves safely.",
+        "Complete the Hueycoatl kill within 2:30; avoid long pauses when the active target changes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hueycoatl_Speed-Trialist",
+        "https://oldschool.runescape.wiki/w/The_Hueycoatl"
+      ]
+    },
+    {
+      "id": 577,
+      "name": "Hueycoatl Speed-Chaser",
+      "activity": "The Hueycoatl",
+      "steps": [
+        "Start with no more than five players and arrange the group's tail and body damage before engaging.",
+        "Keep prayer changes and slam dodges quick so the team maintains damage.",
+        "Finish within 2:30 with the group-size restriction met; adding extra helpers invalidates this version."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hueycoatl_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/The_Hueycoatl"
+      ]
+    },
+    {
+      "id": 578,
+      "name": "Hueycoatl Speed-Runner",
+      "activity": "The Hueycoatl",
+      "steps": [
+        "Limit the attempt to no more than three players and coordinate boosts and tail damage.",
+        "Keep damage going through target changes while matching projectile prayers and dodging slams.",
+        "Finish within 2:30; a larger group cannot earn this version of the speed task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hueycoatl_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/The_Hueycoatl"
+      ]
+    },
+    {
+      "id": 579,
+      "name": "Amoxliatl Champion",
+      "activity": "Amoxliatl",
+      "steps": [
+        "Bring melee gear and Protect from Magic; attack Amoxliatl while leaving newly formed icy pools.",
+        "Reactivate magic protection when she disables prayers, and destroy unstable ice before it explodes.",
+        "Finish one kill while keeping your route clear of icy tiles."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Amoxliatl",
+        "https://oldschool.runescape.wiki/w/Amoxliatl_Champion"
+      ]
+    },
+    {
+      "id": 580,
+      "name": "Amoxliatl Adept",
+      "activity": "Amoxliatl",
+      "steps": [
+        "Use a sustainable melee setup, protect from magic and move off each newly formed icy pool.",
+        "Destroy unstable ice and restore protection after prayer-disabling attacks; build to 20 total kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Amoxliatl",
+        "https://oldschool.runescape.wiki/w/Amoxliatl_Adept"
+      ]
+    },
+    {
+      "id": 581,
+      "name": "Amoxliatl Speed-Trialist",
+      "activity": "Amoxliatl",
+      "steps": [
+        "Boost before engaging and use a quick melee setup to maintain damage between ice attacks.",
+        "Move onto clean tiles and destroy unstable ice promptly so it cannot heal the boss.",
+        "Finish Amoxliatl in under one minute."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Amoxliatl",
+        "https://oldschool.runescape.wiki/w/Amoxliatl_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 582,
+      "name": "Amoxliatl Speed-Chaser",
+      "activity": "Amoxliatl",
+      "steps": [
+        "Prepare boosts and burst melee damage before the fight; keep the opening attack sequence efficient.",
+        "Continue attacking from clean tiles and prevent unstable ice from exploding and restoring health.",
+        "Finish in under 30 seconds; unnecessary target changes or lost attacks can spoil the timer."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Amoxliatl",
+        "https://oldschool.runescape.wiki/w/Amoxliatl_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 583,
+      "name": "Nagua Negation",
+      "activity": "Amoxliatl",
+      "steps": [
+        "Keep Protect from Magic active, including immediately after prayer-disabling attacks.",
+        "Move away from the tile where each icy pool forms and destroy unstable ice before it explodes.",
+        "Finish with no damage at all; avoiding specials while taking an ordinary hit is still a failure."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Amoxliatl",
+        "https://oldschool.runescape.wiki/w/Nagua_Negation"
+      ]
+    },
+    {
+      "id": 584,
+      "name": "Temotli Triumph",
+      "activity": "Amoxliatl",
+      "steps": [
+        "Equip glacial temotli as your only attacking weapon and remove passive damage sources.",
+        "Protect from magic, leave icy pools and destroy unstable ice using the permitted weapon.",
+        "Finish Amoxliatl without another weapon switch; a different temotli or ordinary melee weapon does not qualify."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Amoxliatl",
+        "https://oldschool.runescape.wiki/w/Temotli_Triumph"
+      ]
+    },
+    {
+      "id": 585,
+      "name": "Without Ralos' Light",
+      "activity": "Amoxliatl",
+      "steps": [
+        "Keep all prayers off before and throughout the encounter, including offensive prayers.",
+        "Dodge the icicle that can drain prayer points and keep clear of icy pools; bring enough healing for unprotected ordinary attacks.",
+        "Finish without losing any prayer points; merely avoiding prayer use is insufficient if an attack drains them."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Amoxliatl",
+        "https://oldschool.runescape.wiki/w/Without_Ralos%27_Light"
+      ]
+    },
+    {
+      "id": 586,
+      "name": "Kemo Makti",
+      "activity": "Amoxliatl",
+      "steps": [
+        "Bring supplies for ten kills before entering Amoxliatl's chamber.",
+        "Move off icy pools, restore magic protection after it is disabled and destroy unstable ice on each kill.",
+        "Remain in the chamber until the tenth kill; leaving to bank breaks the streak."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Amoxliatl",
+        "https://oldschool.runescape.wiki/w/Kemo_Makti"
+      ]
+    },
+    {
+      "id": 587,
+      "name": "Totally Shattered",
+      "activity": "Amoxliatl",
+      "steps": [
+        "Keep attacking Amoxliatl from clean tiles until unstable ice appears.",
+        "Switch immediately to destroy every unstable ice block before it explodes; dodging its explosion alone does not satisfy this task.",
+        "Resume boss damage and repeat until she dies with no unstable ice having shattered."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Amoxliatl",
+        "https://oldschool.runescape.wiki/w/Totally_Shattered"
+      ]
+    },
+    {
+      "id": 588,
+      "name": "Perfect Royal Titans",
+      "activity": "Royal Titans",
+      "steps": [
+        "Use positioning that avoids both Titans' melee attacks rather than tanking them with prayers.",
+        "Keep clear of elemental explosions, icicle and fire spawns, and the pulse attack throughout the fight.",
+        "Finish the Titans without any avoidable damage; coordinate both players' movement if fighting as a duo."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Royal_Titans",
+        "https://oldschool.runescape.wiki/w/Royal_Titans"
+      ]
+    },
+    {
+      "id": 589,
+      "name": "Royal Titan Champion",
+      "activity": "Royal Titans",
+      "steps": [
+        "Bring a melee setup and elemental spell options to deal with the fight's hazards.",
+        "Avoid melee attacks and ground hazards, damage each Titan in its vulnerable phases and build to ten total completed kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Royal_Titan_Champion",
+        "https://oldschool.runescape.wiki/w/Royal_Titans"
+      ]
+    },
+    {
+      "id": 590,
+      "name": "Royal Titan Adept",
+      "activity": "Royal Titans",
+      "steps": [
+        "Use a repeatable setup with melee damage and spells for ice and fire hazards.",
+        "Handle the elemental spawns and finish both Titans on each attempt; accumulate 25 completed kills in total."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Royal_Titan_Adept",
+        "https://oldschool.runescape.wiki/w/Royal_Titans"
+      ]
+    },
+    {
+      "id": 591,
+      "name": "One by one",
+      "activity": "Royal Titans",
+      "steps": [
+        "Choose which Titan to kill first and keep all damage on that target until it dies.",
+        "Avoid area attacks, thralls or a teammate's hits reaching the other Titan early.",
+        "Only begin damaging the second Titan after the first is dead, then finish the encounter."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/One_by_one",
+        "https://oldschool.runescape.wiki/w/Royal_Titans"
+      ]
+    },
+    {
+      "id": 592,
+      "name": "Royal Titan Speed-Runner",
+      "activity": "Royal Titans",
+      "steps": [
+        "Boost and prepare melee damage and elemental spells before starting.",
+        "Clear hazards promptly and maintain attacks while the Titans are vulnerable; keep target changes deliberate.",
+        "Finish both Titans in under 1:30; a quick first Titan alone does not meet the timer."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Royal_Titan_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Royal_Titans"
+      ]
+    },
+    {
+      "id": 593,
+      "name": "Titan Killer",
+      "activity": "Royal Titans",
+      "steps": [
+        "Enter one instance with your intended team and supplies for 15 encounters.",
+        "Keep that same instance occupied for all 15 kills; do not add players midway or leave to resupply.",
+        "Any join resets the progress and leaving breaks the attempt, so complete the full sequence together."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Royal_Titans",
+        "https://oldschool.runescape.wiki/w/Titan_Killer"
+      ]
+    },
+    {
+      "id": 594,
+      "name": "Elemental Company",
+      "activity": "Royal Titans",
+      "steps": [
+        "Keep all attacks on the Titans and never click an elemental to attack it.",
+        "Avoid area attacks and uncontrolled damage that could strike elementals; dodge their hazards instead.",
+        "Finish both Titans with no elemental attacked during the encounter."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Elemental_Company",
+        "https://oldschool.runescape.wiki/w/Royal_Titans"
+      ]
+    },
+    {
+      "id": 595,
+      "name": "I need room",
+      "activity": "Royal Titans",
+      "steps": [
+        "Bring water spells for fires and fire spells for icicles before entering.",
+        "Prioritise each new hazard immediately and clear every fire and icicle before it naturally disappears.",
+        "Finish both Titans without letting even one timed hazard expire uncleared."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/I_need_room",
+        "https://oldschool.runescape.wiki/w/Royal_Titans"
+      ]
+    },
+    {
+      "id": 596,
+      "name": "No time to pray",
+      "activity": "Royal Titans",
+      "steps": [
+        "Disable all prayers before the fight and keep them off, including offensive prayers.",
+        "Avoid melee and ground hazards by moving, and bring enough food for the unprotected encounter.",
+        "Finish both Titans without losing any prayer points."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/No_time_to_pray",
+        "https://oldschool.runescape.wiki/w/Royal_Titans"
+      ]
+    },
+    {
+      "id": 597,
+      "name": "Let them fight",
+      "activity": "Royal Titans",
+      "steps": [
+        "Keep the Titans alive while elemental spawns accumulate; do not kill the elementals yourself.",
+        "Position elementals where the Titans' attacks can kill them, while staying clear of those attacks yourself.",
+        "Count ten elemental deaths caused by the Titans before finishing both bosses."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Let_them_fight",
+        "https://oldschool.runescape.wiki/w/Royal_Titans"
+      ]
+    },
+    {
+      "id": 598,
+      "name": "It takes too long",
+      "activity": "Royal Titans",
+      "steps": [
+        "Damage both Titans down to finishing range without killing either during an earlier phase.",
+        "Keep them alive until a charging phase offers a shared finishing window, and coordinate the two kills if in a duo.",
+        "Kill both during that same charging phase; finishing the second in a later phase does not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/It_takes_too_long",
+        "https://oldschool.runescape.wiki/w/Royal_Titans"
+      ]
+    },
+    {
+      "id": 599,
+      "name": "Yama Adept",
+      "activity": "Yama",
+      "steps": [
+        "Bring your combat switches and supplies, with a plan for dodging shadow and fire hazards.",
+        "Attack the judge with the correct style when exiled, then return to the arena promptly.",
+        "Finish Yama once, keeping enough supplies for the final attack pressure."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yama",
+        "https://oldschool.runescape.wiki/w/Yama_Adept"
+      ]
+    },
+    {
+      "id": 600,
+      "name": "Yama Veteran",
+      "activity": "Yama",
+      "steps": [
+        "Use a reliable Yama setup and practise shadow positioning, fire dodges and the exile return.",
+        "Switch to the correct style for the judge and finish the fight; accumulate 50 total kills rather than staying for all 50 in one trip."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yama",
+        "https://oldschool.runescape.wiki/w/Yama_Veteran"
+      ]
+    },
+    {
+      "id": 601,
+      "name": "Yama Speed-Trialist",
+      "activity": "Yama",
+      "steps": [
+        "Prepare boosts and consistent damage for four Yama kills, including quick judge-style switches.",
+        "Keep movement and exile returns efficient while avoiding unnecessary pauses in damage.",
+        "Make the average of your last four kills under 3:38; one fast kill cannot offset an unfinished four-kill sample."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yama",
+        "https://oldschool.runescape.wiki/w/Yama_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 602,
+      "name": "Yama Speed-Chaser",
+      "activity": "Yama",
+      "steps": [
+        "Plan four efficient kills with boosts, damage switches and judge attacks ready.",
+        "Keep attacking between safe hazard dodges and return from each exile quickly.",
+        "Bring the average time of your last four kills below 3:00; aim for four consistent times rather than one lucky attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yama",
+        "https://oldschool.runescape.wiki/w/Yama_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 603,
+      "name": "Yama Speed-Runner",
+      "activity": "Yama",
+      "steps": [
+        "Use a practised setup and plan your damage, exile switches and final-phase movement across four kills.",
+        "Minimise lost attacks without taking reckless shadow or fire hits that force extra healing.",
+        "Finish with a last-four-kill average below 2:34; the individual boss timer is only one part of that average."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Yama",
+        "https://oldschool.runescape.wiki/w/Yama_Speed-Runner"
+      ]
+    },
+    {
+      "id": 604,
+      "name": "No toppings, no drinks, thanks",
+      "activity": "Yama",
+      "steps": [
+        "Have everyone bring plain pizzas as their only healing and leave all potions out of the attempt.",
+        "Remove healing effects such as blood spells or a blood fury; no player may use a different healing source.",
+        "Handle Yama's mechanics and finish with the whole team obeying both restrictions throughout."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/No_toppings%2C_no_drinks%2C_thanks",
+        "https://oldschool.runescape.wiki/w/Yama"
+      ]
+    },
+    {
+      "id": 605,
+      "name": "Shadow dancer",
+      "activity": "Yama",
+      "steps": [
+        "For each shadow crash, stay within one tile of its centre rather than running far across the arena.",
+        "Dodge the shadow impact using the nearby safe position and repeat for every crash.",
+        "Finish Yama without a shadow hit or leaving that allowed distance during a crash."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Shadow_dancer",
+        "https://oldschool.runescape.wiki/w/Yama"
+      ]
+    },
+    {
+      "id": 606,
+      "name": "Fire fighter",
+      "activity": "Yama",
+      "steps": [
+        "Dodge every fire hazard and reserve special-attack energy for void flares.",
+        "Damage and kill each void flare using special attacks only; do not slip in ordinary attacks while energy is low.",
+        "Finish Yama without any fire hit, maintaining the flare restriction throughout."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fire_fighter",
+        "https://oldschool.runescape.wiki/w/Yama"
+      ]
+    },
+    {
+      "id": 607,
+      "name": "Back so soon?",
+      "activity": "Yama",
+      "steps": [
+        "On each exile, inspect the judge's protection and use a style it is not protecting against.",
+        "Avoid repeated damage while returning: each separate exile allows at most one damage instance.",
+        "Finish Yama with no wrong-style judge attack and no exile exceeding that limit."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Back_so_soon%3F",
+        "https://oldschool.runescape.wiki/w/Yama"
+      ]
+    },
+    {
+      "id": 608,
+      "name": "Contract Choreographer",
+      "activity": "Yama",
+      "steps": [
+        "Stay within one tile of each shadow crash's centre while dodging its impact; never take a shadow or fire hit.",
+        "Use only special attacks to kill void flares and attack the judge with the correct style.",
+        "Take at most one damage instance per exile and avoid all other avoidable damage while finishing Yama."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Contract_Choreographer",
+        "https://oldschool.runescape.wiki/w/Yama"
+      ]
+    },
+    {
+      "id": 609,
+      "name": "Contractually Unbound",
+      "activity": "Yama",
+      "steps": [
+        "Take a non-standard contract and prepare your setup for its elevated conditions before engaging.",
+        "Keep the contract's extra restrictions active through Yama's arena and exile phases, rather than satisfying only its ordinary completion.",
+        "Finish Yama with the elevated conditions completed for that contract."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Contractually_Unbound",
+        "https://oldschool.runescape.wiki/w/Yama"
+      ]
+    },
+    {
+      "id": 610,
+      "name": "Doom Adept",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Enter the delve with supplies and combat switches for consecutive encounters.",
+        "Kill grubs before absorption and handle the boss's charge and acid hazards as you progress.",
+        "Reach delve level three and defeat Doom there; a level-one kill alone does not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_Adept",
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl"
+      ]
+    },
+    {
+      "id": 611,
+      "name": "Doom Veteran",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Prepare enough supplies and switches to continue through the delve sequence.",
+        "Prioritise grubs and maintain a clear route around acid while resolving charge attacks.",
+        "Defeat Doom at delve level eight; stop only after that level's kill is complete."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_Veteran",
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl"
+      ]
+    },
+    {
+      "id": 612,
+      "name": "It's Dark Down Here",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Pack a sustained delve setup and conserve supplies through the earlier levels.",
+        "Handle grubs, acid and charge mechanics reliably rather than trading health for unnecessary attacks.",
+        "Continue to level sixteen and defeat Doom there; reaching the level without its kill is insufficient."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+        "https://oldschool.runescape.wiki/w/It%27s_Dark_Down_Here"
+      ]
+    },
+    {
+      "id": 613,
+      "name": "Exposed Doom",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Bring Doom to finishing range, then stop damage until its melee charge begins.",
+        "Keep your melee finishing attack ready and land it during that charge window.",
+        "Kill Doom before the phase ends; merely interrupting the charge earlier in the fight does not meet the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+        "https://oldschool.runescape.wiki/w/Exposed_Doom"
+      ]
+    },
+    {
+      "id": 614,
+      "name": "Mokhaiotl Drift",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Attempt at delve level eight or higher with boosts and burst damage ready.",
+        "Maintain damage from the opening and resolve hazards without long pauses.",
+        "Kill Doom before its first burrow finishes; a fast later burrow is not a replacement for that opening window."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+        "https://oldschool.runescape.wiki/w/Mokhaiotl_Drift"
+      ]
+    },
+    {
+      "id": 615,
+      "name": "Grub Patrol",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Commit to clearing delve levels one through eight and make grubs your immediate priority each time.",
+        "Intercept and kill every grub before it reaches absorption, even if this costs boss damage.",
+        "Finish level eight with no grub absorbed anywhere in the sequence; one missed grub spoils all eight levels."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+        "https://oldschool.runescape.wiki/w/Grub_Patrol"
+      ]
+    },
+    {
+      "id": 616,
+      "name": "Perfect Doom",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Prepare a safe route and grub response before starting the eight-level sequence.",
+        "Avoid all boss damage and every acid tile, while killing grubs before they are absorbed.",
+        "Complete levels one through eight cleanly; correcting a mistake on a later level does not restore the attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+        "https://oldschool.runescape.wiki/w/Perfect_Doom"
+      ]
+    },
+    {
+      "id": 617,
+      "name": "The Praying Mantis",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Start with full prayer and a setup designed to conserve it through eight levels.",
+        "Use no prayer restoration from potions, equipment effects, special attacks or other sources; turn prayers off between needed uses.",
+        "Defeat Doom on every level from one through eight without restoring a prayer point anywhere in the sequence."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+        "https://oldschool.runescape.wiki/w/The_Praying_Mantis"
+      ]
+    },
+    {
+      "id": 618,
+      "name": "Duel of Mokhaiotl",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Choose a one-handed melee weapon for all boss damage across levels one through eight.",
+        "Remove thralls, recoil and other non-qualifying boss damage; do not use a two-handed special weapon midway.",
+        "Complete the eight levels with only one-handed melee damage dealt to Doom."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+        "https://oldschool.runescape.wiki/w/Duel_of_Mokhaiotl"
+      ]
+    },
+    {
+      "id": 619,
+      "name": "Darkness Is Your Ally?",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Remove all demonbane equipment before beginning and leave it out of every switch.",
+        "Use ordinary weapons through levels one to eight, including grub-handling and special-attack switches.",
+        "Finish the sequence without equipping a demonbane weapon even briefly; simply avoiding its attacks is not enough."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Darkness_Is_Your_Ally%3F",
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl"
+      ]
+    },
+    {
+      "id": 620,
+      "name": "Mine's Better",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Equip an actual shield and pair it with one-handed weapons before starting level one.",
+        "Keep the shield worn through every boss, grub and special-attack switch; two-handed weapons would remove it.",
+        "Defeat levels one through eight without ever taking the shield off."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+        "https://oldschool.runescape.wiki/w/Mine%27s_Better"
+      ]
+    },
+    {
+      "id": 621,
+      "name": "Doom Crawler",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Boost before engaging level-one Doom and prepare your opening damage sequence.",
+        "Handle the first hazards without dropping unnecessary attacks, then finish in under 30 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_Crawler",
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl"
+      ]
+    },
+    {
+      "id": 622,
+      "name": "Doom Chaser",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Prepare supplies and an efficient route through levels one to eight before starting.",
+        "Kill grubs promptly and handle charge and acid mechanics without extended pauses in damage.",
+        "Finish the complete eight-level sequence in under 10:00; eight individually fast kills can still lose time between levels."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_Chaser",
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl"
+      ]
+    },
+    {
+      "id": 623,
+      "name": "Doom Racer",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Use a practised eight-level setup with boosts and special attacks planned around safe damage windows.",
+        "Keep grub handling and movement efficient, and minimise delays between delves.",
+        "Complete levels one through eight in under 7:15 using the full sequence timer."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_Racer",
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl"
+      ]
+    },
+    {
+      "id": 624,
+      "name": "Mopping up",
+      "activity": "Doom of Mokhaiotl",
+      "steps": [
+        "Let at least eight acid splats accumulate along a route you can clear during one Volatile Earth attack.",
+        "Use the Volatile Earth objects to create the earthen shield and choose its path through those splats.",
+        "Clear all eight in that one attack; smaller clears across multiple attacks are not added together."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+        "https://oldschool.runescape.wiki/w/Mopping_up"
+      ]
+    },
+    {
+      "id": 625,
+      "name": "Shellbane Adept",
+      "activity": "Shellbane gryphon",
+      "steps": [
+        "Bring a tortugan shield, melee supplies and protection prayers to the Shellbane cave.",
+        "Move away from spit and whirlwind targets while keeping your defensive setup equipped; work towards 25 total kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Shellbane_Adept",
+        "https://oldschool.runescape.wiki/w/Shellbane_gryphon"
+      ]
+    },
+    {
+      "id": 626,
+      "name": "Shellbane Veteran",
+      "activity": "Shellbane gryphon",
+      "steps": [
+        "Use a sustainable melee setup with your tortugan shield and supplies for the cave.",
+        "React to spit, whirlwinds and knockback rather than staying on one tile throughout; accumulate 50 total Shellbane kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Shellbane_Veteran",
+        "https://oldschool.runescape.wiki/w/Shellbane_gryphon"
+      ]
+    },
+    {
+      "id": 627,
+      "name": "Perfect Shellbane",
+      "activity": "Shellbane gryphon",
+      "steps": [
+        "Wear a tortugan shield and enough worn weight to handle the knockback counter, then keep melee protection active.",
+        "Move clear of corrosive spit and whirlwinds; react promptly when the boss offers the counter opportunity.",
+        "Finish without taking any damage, including ordinary hits caused by losing the shield or prayer."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Shellbane",
+        "https://oldschool.runescape.wiki/w/Shellbane_gryphon"
+      ]
+    },
+    {
+      "id": 628,
+      "name": "Shellbane Speedrunner",
+      "activity": "Shellbane gryphon",
+      "steps": [
+        "Prepare all boosts and supplies before entering the cave; the timer includes time spent there between kills.",
+        "Keep reactions to spit, whirlwinds and knockback quick so you can resume attacking safely.",
+        "Complete ten kills within 12:30 of entering; banking or delaying the first fight wastes that shared window."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Shellbane_Speedrunner",
+        "https://oldschool.runescape.wiki/w/Shellbane_gryphon"
+      ]
+    },
+    {
+      "id": 629,
+      "name": "Shellbane Survivor",
+      "activity": "Shellbane gryphon",
+      "steps": [
+        "Pack food and prayer supplies for 25 kills before entering the cave.",
+        "Keep the tortugan shield equipped and avoid spit and whirlwind targets to conserve supplies.",
+        "Stay inside until the twenty-fifth kill; leaving early breaks this stamina attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Shellbane_Survivor",
+        "https://oldschool.runescape.wiki/w/Shellbane_gryphon"
+      ]
+    },
+    {
+      "id": 630,
+      "name": "Dry Cleaning",
+      "activity": "Shellbane gryphon",
+      "steps": [
+        "Leave inventory space to unequip every item, and let corrosive spit actually coat your armour.",
+        "Unequip all gear, taking the tortugan shield off last; wait for the message that your armour stops corroding.",
+        "Re-equip the shield first, then the rest, and finish the kill; merely dodging the spit is insufficient."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dry_Cleaning",
+        "https://oldschool.runescape.wiki/w/Shellbane_gryphon"
+      ]
+    },
+    {
+      "id": 631,
+      "name": "Featherweight Fighter",
+      "activity": "Shellbane gryphon",
+      "steps": [
+        "Check that your worn gear weighs less than 40 kg before entering and keep every switch under that limit.",
+        "Bring extra healing for the lighter setup; dodge spit and whirlwinds instead of adding heavy gear to counter knockback.",
+        "Complete five kills without leaving the cave while keeping the worn-weight restriction met."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Featherweight_Fighter",
+        "https://oldschool.runescape.wiki/w/Shellbane_gryphon"
+      ]
+    },
+    {
+      "id": 632,
+      "name": "Brutus Novice",
+      "activity": "Brutus",
+      "steps": [
+        "Prepare a weapon and a simple damage setup before fighting Brutus.",
+        "Engage and keep attacking while managing your health; complete one kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Brutus",
+        "https://oldschool.runescape.wiki/w/Brutus_Novice"
+      ]
+    },
+    {
+      "id": 633,
+      "name": "Brutus Champion",
+      "activity": "Brutus",
+      "steps": [
+        "Use a repeatable weapon setup and carry enough healing for several attempts.",
+        "Kill Brutus until your total reaches ten; you can replenish supplies between kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Brutus",
+        "https://oldschool.runescape.wiki/w/Brutus_Champion"
+      ]
+    },
+    {
+      "id": 634,
+      "name": "Brutus Speed-Trialist",
+      "activity": "Brutus",
+      "steps": [
+        "Boost and prepare your strongest immediate hit or special attack before engaging Brutus.",
+        "Deliver the finishing damage in under two seconds; slow setup after the first attack consumes the entire window."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Brutus",
+        "https://oldschool.runescape.wiki/w/Brutus_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 635,
+      "name": "Beef vs Beef",
+      "activity": "Brutus",
+      "steps": [
+        "Unequip every item before fighting Brutus and leave food and potions unused.",
+        "Fight unarmed, keeping equipment slots empty throughout the attempt.",
+        "Finish without equipping or consuming anything; even a temporary weapon switch breaks the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Beef_vs_Beef",
+        "https://oldschool.runescape.wiki/w/Brutus"
+      ]
+    },
+    {
+      "id": 636,
+      "name": "Smarter than a Cow",
+      "activity": "Brutus",
+      "steps": [
+        "Prepare a burst finish or use distance to keep Brutus from reaching an attack opportunity.",
+        "Kill him before he attacks you; keep moving if needed without accidentally letting him into range.",
+        "An attack blocked to zero still fails this task, so do not rely on protection prayers as the solution."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Brutus",
+        "https://oldschool.runescape.wiki/w/Smarter_than_a_Cow"
+      ]
+    },
+    {
+      "id": 637,
+      "name": "Maggot Squasher",
+      "activity": "Maggot King",
+      "steps": [
+        "Enter with an attacking setup and supplies ready; keep your movement controlled through the arena.",
+        "Respond to the boss's special attacks before resuming damage and finish one Maggot King kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Maggot_Squasher"
+      ]
+    },
+    {
+      "id": 638,
+      "name": "Maggot Exterminator",
+      "activity": "Maggot King",
+      "steps": [
+        "Use a reliable damage setup and conserve supplies by handling arena hazards promptly.",
+        "Complete 25 Maggot King kills in total; replenish supplies when needed because this is not a single-trip target."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Maggot_Exterminator"
+      ]
+    },
+    {
+      "id": 639,
+      "name": "Camping the King",
+      "activity": "Maggot King",
+      "steps": [
+        "Bring enough supplies for twelve kills before entering the arena.",
+        "Use controlled movement and deal with each dangerous mechanic before returning to boss damage.",
+        "Stay in the arena until the twelfth kill; leaving to bank breaks the streak."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Camping_the_King"
+      ]
+    },
+    {
+      "id": 640,
+      "name": "Maggot King Speed Chaser",
+      "activity": "Maggot King",
+      "steps": [
+        "Prepare boosts and supplies before entering the arena; the nine-minute timer starts on entry.",
+        "Keep the first five fights efficient and avoid long pauses for looting or preparation between them.",
+        "Complete all five kills within nine minutes without relying on five separate combat-only timers."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Maggot_King_Speed_Chaser"
+      ]
+    },
+    {
+      "id": 641,
+      "name": "Trying to fit in",
+      "activity": "Maggot King",
+      "steps": [
+        "Bring qualifying Vampyrium weapons, such as a rune halberd or dragon battleaxe, and keep outside-region weapons out of your switches.",
+        "Manually cast fire spells without equipping a staff if using magic; switch to a permitted melee weapon for punish windows.",
+        "Handle larvae and finish the Maggot King using only qualifying weapons, including any damaging special attacks."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Trying_to_fit_in"
+      ]
+    },
+    {
+      "id": 642,
+      "name": "King-sized clobbering",
+      "activity": "Maggot King",
+      "steps": [
+        "Keep a melee weapon ready even if you use another style for ordinary damage.",
+        "React to every melee-punish window and land the required melee attack before the opportunity ends.",
+        "Finish without missing a single punish; focusing only on the last window does not satisfy the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/King-sized_clobbering"
+      ]
+    },
+    {
+      "id": 643,
+      "name": "Digging in",
+      "activity": "Maggot King",
+      "steps": [
+        "Plan a compact route before engaging and favour a position that needs only short dodges.",
+        "Count movement in tiles rather than clicks; long paths and automatic approaches can consume the allowance quickly.",
+        "Finish with no more than 40 tiles of movement across the whole fight."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Digging_in"
+      ]
+    },
+    {
+      "id": 644,
+      "name": "Cordoned Off",
+      "activity": "Maggot King",
+      "steps": [
+        "Start on the back row and use a weapon that can attack from there without pulling you forward.",
+        "Handle movement by staying along that row; avoid attack clicks that automatically step closer to the boss.",
+        "Finish without moving beyond the back row at any point."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cordoned_Off"
+      ]
+    },
+    {
+      "id": 645,
+      "name": "Perfect Maggot King",
+      "activity": "Maggot King",
+      "steps": [
+        "Dodge every avoidable attack and interrupt the boss's healing opportunities before returning to damage.",
+        "Prevent larvae reaching their healing opportunity and keep your route clear of arena hazards.",
+        "Finish with no avoidable damage and no boss healing anywhere in the fight."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Maggot_King"
+      ]
+    },
+    {
+      "id": 646,
+      "name": "Mad Angel Adept",
+      "activity": "Mad Angel",
+      "steps": [
+        "Bring a reliable attack setup and enough supplies to practise the Mad Angel's special attacks.",
+        "Respond to sweep, smite and blast mechanics, then resume damage safely; accumulate 25 total kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mad_Angel_Adept"
+      ]
+    },
+    {
+      "id": 647,
+      "name": "Mad Angel Veteran",
+      "activity": "Mad Angel",
+      "steps": [
+        "Use a setup you can sustain and practise the enhanced attack openings after special mechanics.",
+        "Keep each kill controlled through enrage and build to 50 total kills; they need not be in one arena visit."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mad_Angel_Veteran"
+      ]
+    },
+    {
+      "id": 648,
+      "name": "Perfect Mad Angel",
+      "activity": "Mad Angel",
+      "steps": [
+        "Watch each sweep, smite and blast cue and resolve it before taking another ordinary attack.",
+        "Keep the correct protection active for smites, dodge sweeps and handle blast rebounds safely.",
+        "Finish with no avoidable damage; healing through a special does not preserve the attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Mad_Angel"
+      ]
+    },
+    {
+      "id": 649,
+      "name": "This Is Madness",
+      "activity": "Mad Angel",
+      "steps": [
+        "Bring supplies for fifteen kills before entering the Mad Angel arena.",
+        "Handle her special attacks deliberately to conserve health and prayer through repeated enrage phases.",
+        "Stay until fifteen kills are complete; leaving the arena to replenish supplies breaks the streak."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/This_Is_Madness"
+      ]
+    },
+    {
+      "id": 650,
+      "name": "Mad Angel Speed-Runner",
+      "activity": "Mad Angel",
+      "steps": [
+        "Prepare boosts and supplies before entering; the ten-minute clock starts at the arena entrance.",
+        "Use safe enhanced attack openings and keep pauses between the first five kills short.",
+        "Finish five kills within ten minutes of entry; a fast final kill alone is insufficient."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mad_Angel_Speed-Runner"
+      ]
+    },
+    {
+      "id": 651,
+      "name": "Dancing Queen",
+      "activity": "Mad Angel",
+      "steps": [
+        "Leave the Mad Angel alive long enough to enter enrage; use a weapon quick enough to take consecutive openings.",
+        "Dodge each sweep from the safe side, then immediately use its enhanced attack opportunity.",
+        "Land six consecutive sweep-enhanced attacks during enrage; avoid an ordinary hit breaking the sequence."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dancing_Queen"
+      ]
+    },
+    {
+      "id": 652,
+      "name": "Smite Fight",
+      "activity": "Mad Angel",
+      "steps": [
+        "Keep the Mad Angel alive into enrage and prepare a quick attack sequence for the smites.",
+        "Use the correct protection prayer on each smite and attack in the resulting enhanced windows.",
+        "Land three consecutive smite-enhanced attacks during enrage; unenhanced attacks do not count towards the three."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Smite_Fight"
+      ]
+    },
+    {
+      "id": 653,
+      "name": "Juggling Act",
+      "activity": "Mad Angel",
+      "steps": [
+        "Reach the enrage phase with the Mad Angel still alive and your attack ready.",
+        "Position for each blast bounce, then land an attack before the next bounce.",
+        "Keep alternating bounce and attack through the sequence; bouncing everything first and attacking afterwards fails the condition."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Juggling_Act"
+      ]
+    },
+    {
+      "id": 654,
+      "name": "The Pen Is Mightier",
+      "activity": "Mad Angel",
+      "steps": [
+        "Leave the weapon slot empty before engaging. Bring runes for manually cast spells and, if available, thralls; off-hand equipment can stay equipped.",
+        "Cast directly from the spellbook without equipping a staff, and use the boss mechanics' empowered unarmed attacks when appropriate.",
+        "Finish with the weapon slot empty throughout; do not equip a staff or special-attack weapon even briefly."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/The_Pen_Is_Mightier"
+      ]
+    }
+  ]
+}

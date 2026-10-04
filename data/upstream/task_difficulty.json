@@ -1,0 +1,3293 @@
+{
+  "version": "2026-07-05",
+  "source": "data/curation/tasks_master.csv + scaling.csv (Difficulty = boss difficulty + keyword offsets)",
+  "tasks": {
+    "0": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "1": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "2": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "3": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "4": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "5": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "6": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "7": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "8": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "9": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "10": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "11": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "12": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "13": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "14": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "15": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "16": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "17": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "18": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "19": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "20": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "21": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "22": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "23": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "24": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "25": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "26": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "27": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "28": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "29": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "30": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "31": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "32": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "33": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "34": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "35": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "36": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "37": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "38": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "39": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "40": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "41": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "42": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "43": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "44": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "45": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "46": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "47": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "48": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "49": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "50": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "51": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "52": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "53": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.5
+    },
+    "54": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "55": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "56": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "57": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "58": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "59": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "60": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "61": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "62": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "63": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "64": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "65": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "66": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "67": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "68": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "69": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "70": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "71": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "72": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "73": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "74": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "75": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "76": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "77": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "78": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "79": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "80": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "81": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "82": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "83": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "84": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "85": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "86": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "87": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "88": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "89": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "90": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "91": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "92": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "93": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "94": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "95": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "96": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "97": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "98": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "99": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "100": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "101": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "102": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 20.0
+    },
+    "103": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "104": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "105": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "106": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 9.0
+    },
+    "107": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "108": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 22.0
+    },
+    "109": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "110": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "111": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "112": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "113": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "114": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "115": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "116": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "117": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "118": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 18.0
+    },
+    "119": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "120": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "121": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "122": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "123": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "124": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "125": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "126": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "127": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "128": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "129": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "130": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "131": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "132": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "133": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "134": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "135": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.2
+    },
+    "136": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.1
+    },
+    "137": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "138": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "139": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "140": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "141": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "142": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "143": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 16.0
+    },
+    "144": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "145": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "146": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "147": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "148": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "149": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "150": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "151": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "152": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "153": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "154": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "155": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "156": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "157": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.3
+    },
+    "158": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.3
+    },
+    "159": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "160": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "161": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "162": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "163": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "164": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "165": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "166": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "167": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "168": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "169": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "170": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "171": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "172": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "173": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "174": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "175": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "176": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "177": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "178": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "179": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "180": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "181": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "182": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "183": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "184": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "185": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "186": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "187": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "188": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "189": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "190": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "191": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "192": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "193": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "194": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "195": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "196": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "197": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "198": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "199": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "200": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "201": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "202": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "203": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "204": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "205": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "206": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "207": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "208": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "209": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "210": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "211": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "212": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "213": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "214": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "215": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "216": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "217": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "218": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "219": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "220": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "221": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "222": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "223": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "224": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "225": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "226": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "227": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "228": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "229": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "230": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "231": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "232": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 15.0
+    },
+    "233": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "234": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "235": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "236": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "237": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "238": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "239": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "240": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "241": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "242": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "243": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 15.0
+    },
+    "244": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "245": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "246": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "247": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "248": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "249": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "250": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "251": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "252": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "253": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "254": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "255": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "256": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "257": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "258": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "259": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "260": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "261": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "262": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "263": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "264": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "265": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "266": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "267": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "268": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.3
+    },
+    "269": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.3
+    },
+    "270": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "271": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "272": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "273": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "274": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "275": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "276": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "277": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "278": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "279": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "280": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "281": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "282": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "283": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "284": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "285": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "286": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "287": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "288": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "289": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "290": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "291": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 14.0
+    },
+    "292": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "293": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 7.0
+    },
+    "294": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "295": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "296": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "297": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "298": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "299": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "300": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "301": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "302": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "303": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "304": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "305": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "306": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "307": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "308": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "309": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "310": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "311": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "312": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "313": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "314": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "315": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "316": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "317": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "318": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "319": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "320": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "321": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "322": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "323": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "324": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "325": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "326": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "327": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "328": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "329": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "330": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "331": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "332": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "333": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "334": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "335": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "336": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "337": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "338": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "339": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "340": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "341": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "342": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 20.0
+    },
+    "343": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 30.0
+    },
+    "344": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 25.0
+    },
+    "345": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 40.0
+    },
+    "346": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 30.0
+    },
+    "347": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 40.0
+    },
+    "348": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 20.0
+    },
+    "349": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 22.0
+    },
+    "350": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 40.0
+    },
+    "351": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 22.0
+    },
+    "352": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 25.0
+    },
+    "353": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "354": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "355": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "356": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "357": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "358": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "359": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "360": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "361": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "362": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "363": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "364": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "365": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "366": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "367": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "368": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "369": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "370": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "371": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "372": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "373": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "374": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "375": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "376": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "377": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "378": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "379": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "380": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "381": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "382": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 14.0
+    },
+    "383": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "384": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 11.0
+    },
+    "385": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "386": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "387": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "388": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "389": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "390": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "391": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "392": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "393": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "394": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "395": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "396": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "397": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "398": {
+      "difficulty": 1,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "399": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "400": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "401": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "402": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "403": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 22.0
+    },
+    "404": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "405": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 7.0
+    },
+    "406": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "407": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "408": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "409": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 7.0
+    },
+    "410": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "411": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "412": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "413": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "414": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "415": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "416": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "417": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "418": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "419": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "420": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "421": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "422": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "423": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "424": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "425": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "426": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "427": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "428": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "429": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "430": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "431": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "432": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "433": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "434": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "435": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "436": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "437": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "438": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "439": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "440": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 7.0
+    },
+    "441": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "442": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "443": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "444": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "445": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "446": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "447": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "448": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "449": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "450": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "451": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "452": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "453": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "454": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "455": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "456": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "457": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "458": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "459": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "460": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "461": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "462": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "463": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "464": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "465": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "466": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "467": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "468": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "469": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "470": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "471": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "472": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "473": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "474": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "475": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "476": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "477": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "478": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "479": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "480": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "481": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "482": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "483": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "484": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 15.0
+    },
+    "485": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "486": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "487": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 14.0
+    },
+    "488": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "489": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "490": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "491": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "492": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "493": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "494": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "495": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "496": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 16.0
+    },
+    "497": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "498": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "499": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "500": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "501": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "502": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 7.0
+    },
+    "503": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "504": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 14.0
+    },
+    "505": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 30.0
+    },
+    "506": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "507": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "508": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "509": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 15.0
+    },
+    "510": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "511": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 20.0
+    },
+    "512": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "513": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "514": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "515": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "516": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "517": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 7.0
+    },
+    "518": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "519": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "520": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "521": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "522": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "523": {
+      "difficulty": 2,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "524": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "525": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "526": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "527": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "528": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "529": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "530": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "531": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "532": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "533": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "534": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "535": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "536": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "537": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "538": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 18.0
+    },
+    "539": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "540": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "541": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "542": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "543": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 40.0
+    },
+    "544": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "545": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "546": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "547": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 15.0
+    },
+    "548": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "549": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "550": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "551": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "552": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "553": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "554": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "555": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "556": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "557": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "558": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "559": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "560": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "561": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "562": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "563": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "564": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "565": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "566": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "567": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "568": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "569": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "570": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "571": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "572": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "573": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "574": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "575": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "576": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "577": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "578": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "579": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "580": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "581": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "582": {
+      "difficulty": 6,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "583": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "584": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "585": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "586": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "587": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "588": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "589": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "590": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "591": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "592": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "593": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "594": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "595": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "596": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "597": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "598": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "599": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "600": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "601": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "602": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 10.0
+    },
+    "603": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 20.0
+    },
+    "604": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "605": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "606": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "607": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "608": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 15.0
+    },
+    "609": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "610": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "611": {
+      "difficulty": 8,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "612": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 15.0
+    },
+    "613": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "614": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "615": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "616": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 20.0
+    },
+    "617": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "618": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "619": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "620": {
+      "difficulty": 9,
+      "reason": "research",
+      "attempts": 5.0
+    },
+    "621": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "622": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 8.0
+    },
+    "623": {
+      "difficulty": 10,
+      "reason": "research",
+      "attempts": 15.0
+    },
+    "624": {
+      "difficulty": 7,
+      "reason": "research",
+      "attempts": 6.0
+    },
+    "625": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.2
+    },
+    "626": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.1
+    },
+    "627": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 12.0
+    },
+    "628": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "629": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.5
+    },
+    "630": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 1.5
+    },
+    "631": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 3.0
+    },
+    "632": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "633": {
+      "difficulty": 3,
+      "reason": "research",
+      "attempts": 1.0
+    },
+    "634": {
+      "difficulty": 5,
+      "reason": "research",
+      "attempts": 4.0
+    },
+    "635": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "636": {
+      "difficulty": 4,
+      "reason": "research",
+      "attempts": 2.0
+    },
+    "637": {
+      "difficulty": 8,
+      "boss": 8,
+      "reason": "kill count"
+    },
+    "638": {
+      "difficulty": 8,
+      "boss": 8,
+      "reason": "kill count"
+    },
+    "639": {
+      "difficulty": 9,
+      "boss": 8,
+      "bump": 0.5,
+      "reason": "stamina floor"
+    },
+    "640": {
+      "difficulty": 9,
+      "boss": 8,
+      "bump": 1.0,
+      "reason": "speed"
+    },
+    "641": {
+      "difficulty": 8,
+      "boss": 8,
+      "bump": 0.4,
+      "reason": "restriction floor"
+    },
+    "642": {
+      "difficulty": 9,
+      "boss": 8,
+      "bump": 0.8,
+      "reason": "mechanic"
+    },
+    "643": {
+      "difficulty": 8,
+      "boss": 8,
+      "bump": 0.4,
+      "reason": "restriction floor"
+    },
+    "644": {
+      "difficulty": 8,
+      "boss": 8,
+      "bump": 0.4,
+      "reason": "restriction floor"
+    },
+    "645": {
+      "difficulty": 9,
+      "boss": 8,
+      "bump": 1.0,
+      "reason": "perfection floor"
+    },
+    "646": {
+      "difficulty": 3,
+      "boss": 3,
+      "reason": "kill count"
+    },
+    "647": {
+      "difficulty": 3,
+      "boss": 3,
+      "reason": "kill count"
+    },
+    "648": {
+      "difficulty": 3,
+      "reason": "research"
+    },
+    "649": {
+      "difficulty": 4,
+      "boss": 3,
+      "bump": 0.5,
+      "reason": "stamina floor"
+    },
+    "650": {
+      "difficulty": 4,
+      "boss": 3,
+      "bump": 1.0,
+      "reason": "speed"
+    },
+    "651": {
+      "difficulty": 4,
+      "boss": 3,
+      "bump": 0.8,
+      "reason": "mechanic"
+    },
+    "652": {
+      "difficulty": 4,
+      "boss": 3,
+      "bump": 0.8,
+      "reason": "mechanic"
+    },
+    "653": {
+      "difficulty": 4,
+      "boss": 3,
+      "bump": 0.8,
+      "reason": "mechanic"
+    },
+    "654": {
+      "difficulty": 4,
+      "boss": 3,
+      "bump": 0.7,
+      "reason": "gear/style"
+    }
+  }
+}

@@ -1,0 +1,3172 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "2026-10-04",
+  "tasks": [
+    {
+      "id": 220,
+      "name": "I Can't Reach That",
+      "activity": "Scorpia",
+      "steps": [
+        "Bring freezing spells and a magic weapon; keep Scorpia outside melee range.",
+        "Freeze her again after each freeze ends, and finish the kill without letting her reach you."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/I_Can%27t_Reach_That",
+        "https://oldschool.runescape.wiki/w/Scorpia"
+      ]
+    },
+    {
+      "id": 221,
+      "name": "Guardians No More",
+      "activity": "Scorpia",
+      "steps": [
+        "Fight Scorpia until her guardians appear, then stop attacking the guardians.",
+        "Freeze or separate them from Scorpia to prevent healing; kill Scorpia while both guardians remain alive or have despawned."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Guardians_No_More",
+        "https://oldschool.runescape.wiki/w/Scorpia"
+      ]
+    },
+    {
+      "id": 222,
+      "name": "Fragment of Seren Speed-Trialist",
+      "activity": "Fragment of Seren",
+      "steps": [
+        "Use the Memory of Seren in the Pool of Dreams to start the repeat fight; prepare magic gear and healing supplies.",
+        "Destroy healing pillars quickly and identify the real Seren among her clones.",
+        "Keep attacking between specials and finish in less than 4 minutes; heal before her large unavoidable hit."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fragment_of_Seren",
+        "https://oldschool.runescape.wiki/w/Fragment_of_Seren_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 223,
+      "name": "A Frozen Foe from the Past",
+      "activity": "Skeletal Wyvern",
+      "steps": [
+        "Enter the Asgarnian Ice Dungeon with 72 Slayer and a suitable wyvern shield equipped, such as an elemental or mind shield.",
+        "Keep the shield equipped while killing one Skeletal Wyvern; protection prayers alone do not replace breath protection."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Frozen_Foe_from_the_Past",
+        "https://oldschool.runescape.wiki/w/Skeletal_Wyvern"
+      ]
+    },
+    {
+      "id": 224,
+      "name": "Zulrah Adept",
+      "activity": "Zulrah",
+      "steps": [
+        "Bring venom protection, food and ranged/magic gear to Zul-Andra; start the fight from the boat.",
+        "Move to safe tiles as Zulrah changes position, switch protection prayers for the incoming attacks, and avoid venom clouds.",
+        "Accumulate 25 kills; bank between attempts as needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zulrah",
+        "https://oldschool.runescape.wiki/w/Zulrah_Adept"
+      ]
+    },
+    {
+      "id": 225,
+      "name": "Zulrah Veteran",
+      "activity": "Zulrah",
+      "steps": [
+        "Prepare venom protection and ranged/magic switches before boarding at Zul-Andra.",
+        "Follow Zulrah's rotations, move out of clouds and protect against the incoming attack style.",
+        "Reach 75 total kills; the kills do not need to be in one trip."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zulrah",
+        "https://oldschool.runescape.wiki/w/Zulrah_Veteran"
+      ]
+    },
+    {
+      "id": 226,
+      "name": "Zulrah Master",
+      "activity": "Zulrah",
+      "steps": [
+        "Take venom protection and enough supplies for reliable Zulrah kills.",
+        "Learn the safe positions and prayer changes for each rotation before trying longer trips.",
+        "Accumulate 150 kills, banking whenever needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zulrah",
+        "https://oldschool.runescape.wiki/w/Zulrah_Master"
+      ]
+    },
+    {
+      "id": 227,
+      "name": "Snake Rebound",
+      "activity": "Zulrah",
+      "steps": [
+        "Bring Vengeance on the Lunar spellbook and a way to survive Zulrah's next hit.",
+        "Lower Zulrah's health, then stop attacking and remove passive damage that could finish her.",
+        "Cast Vengeance and let Zulrah's own hit trigger the reflected killing blow."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Snake_Rebound",
+        "https://oldschool.runescape.wiki/w/Zulrah"
+      ]
+    },
+    {
+      "id": 228,
+      "name": "Snake. Snake!? Snaaaaaake!",
+      "activity": "Zulrah",
+      "steps": [
+        "Keep at least three snakelings alive long enough to group them together; bring an area attack.",
+        "Hit the grouped snakelings with one area attack so three die simultaneously; separate kills do not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Snake._Snake%21%3F_Snaaaaaake%21",
+        "https://oldschool.runescape.wiki/w/Zulrah"
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Perfect Zulrah",
+      "activity": "Zulrah",
+      "steps": [
+        "Use the correct protection against the green phase; move away from the crimson phase's targeted melee strikes.",
+        "Avoid venom clouds and prevent snakelings from damaging you throughout the kill.",
+        "Finish Zulrah with none of the listed damage; blue-phase damage is permitted by this task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Zulrah",
+        "https://oldschool.runescape.wiki/w/Zulrah"
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Zulrah Speed-Trialist",
+      "activity": "Zulrah",
+      "steps": [
+        "Attempt this while not on a Zulrah Slayer assignment; prepare boosts and ranged/magic switches before entry.",
+        "Attack promptly whenever Zulrah emerges and switch gear while she submerges.",
+        "Finish in less than 1 minute 20 seconds without losing attacks to avoidable damage or slow movement."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zulrah",
+        "https://oldschool.runescape.wiki/w/Zulrah_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 231,
+      "name": "Zulrah Speed-Chaser",
+      "activity": "Zulrah",
+      "steps": [
+        "Start off a Zulrah Slayer task, with boosts and your switches ready.",
+        "Keep attacks going through each rotation and use movement between phases to change equipment.",
+        "Finish in less than 1 minute; restart attempts with slow openings rather than forcing a poor run."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zulrah",
+        "https://oldschool.runescape.wiki/w/Zulrah_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 232,
+      "name": "Zulrah Speed-Runner",
+      "activity": "Zulrah",
+      "steps": [
+        "Ensure no Zulrah Slayer assignment is active; prepare boosts and your most effective available weapons.",
+        "Minimise missed attacks and use special attacks where they improve damage.",
+        "Finish in less than 54 seconds; a favourable rotation and strong hits may require repeated attempts."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zulrah",
+        "https://oldschool.runescape.wiki/w/Zulrah_Speed-Runner"
+      ]
+    },
+    {
+      "id": 233,
+      "name": "Dagannoth Supreme Champion",
+      "activity": "Dagannoth Supreme",
+      "steps": [
+        "Bring melee gear for Supreme and protection against the other Dagannoth Kings.",
+        "Limit how many kings can attack you together, then kill Supreme with melee.",
+        "Accumulate 10 kills; do not accidentally fight Prime with melee or Rex with ranged."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Supreme",
+        "https://oldschool.runescape.wiki/w/Dagannoth_Supreme_Champion"
+      ]
+    },
+    {
+      "id": 234,
+      "name": "Dagannoth Supreme Adept",
+      "activity": "Dagannoth Supreme",
+      "steps": [
+        "Take melee for Supreme, with food and prayer restoration for the kings' room.",
+        "Control your position to reduce simultaneous attacks and finish Supreme with melee.",
+        "Reach 25 total Supreme kills; banking between trips is allowed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Supreme",
+        "https://oldschool.runescape.wiki/w/Dagannoth_Supreme_Adept"
+      ]
+    },
+    {
+      "id": 235,
+      "name": "Death to the Archer King",
+      "activity": "Dagannoth Supreme",
+      "steps": [
+        "Keep Prime and Rex alive while you lower Supreme's health.",
+        "Draw attacks from both other kings and protect against the most dangerous incoming attacks.",
+        "Finish Supreme while Prime and Rex are both attacking you; safespotting either away breaks the required setup."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Supreme",
+        "https://oldschool.runescape.wiki/w/Death_to_the_Archer_King"
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Rapid Succession",
+      "activity": "Dagannoth Supreme",
+      "steps": [
+        "Bring melee for Supreme, ranged for Prime and magic for Rex; lower all three to finishing-hit health.",
+        "Stop attacking a king before it dies until the other two are also ready.",
+        "Finish all three within 9 seconds of the first death, switching styles promptly."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Supreme",
+        "https://oldschool.runescape.wiki/w/Rapid_Succession"
+      ]
+    },
+    {
+      "id": 237,
+      "name": "Theatre of Blood Veteran",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Enter normal Theatre of Blood with a team and supplies for all six rooms.",
+        "Assign Nylocas styles and communicate Sotetseg's maze and Verzik mechanics.",
+        "Complete 25 raids; failed runs do not add a completion."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood_Veteran"
+      ]
+    },
+    {
+      "id": 238,
+      "name": "Theatre of Blood Master",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Run normal Theatre with reliable room roles and all three attack styles available.",
+        "Conserve supplies by handling adds and movement mechanics before continuing boss damage.",
+        "Accumulate 75 raid completions; this task has no speed or deathless restriction."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood_Master"
+      ]
+    },
+    {
+      "id": 239,
+      "name": "Theatre of Blood Grandmaster",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Choose a consistent normal Theatre team and prepare supplies for the whole raid.",
+        "Keep roles clear for add control, the maze and Verzik so runs finish reliably.",
+        "Reach 150 full completions."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood_Grandmaster"
+      ]
+    },
+    {
+      "id": 240,
+      "name": "Two-Down",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Prepare damage boosts and special attacks before entering Bloat's room.",
+        "Stay out of his sight while he walks, then attack during his first and second shutdowns.",
+        "Finish him before the third shutdown begins; leave his stomp area as each attack window ends."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies",
+        "https://oldschool.runescape.wiki/w/Two-Down"
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Pop It",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Tell the team not to freeze any Nylocas during Verzik.",
+        "Move away from approaching explosive Nylocas and handle them without allowing anyone to take their damage.",
+        "Finish Verzik with no frozen Nylocas and no team member damaged by one."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pop_It",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 242,
+      "name": "A Timely Snack",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Agree who will receive Sotetseg's large ball attacks and keep the team away from the target.",
+        "Prepare the target's health and timed healing for at least three unshared balls; ordinary stacking to split them fails this task.",
+        "Complete the fight with no deaths, including during the mazes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Timely_Snack",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Perfect Theatre",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Agree a deathless normal Theatre run with all six room-perfection conditions before starting.",
+        "Prevent Maiden's blood/heals, Bloat's flies/debris/stomp and wrong-style Nylocas hits; preserve every pillar.",
+        "Run Sotetseg's maze and prayers cleanly, prevent Xarpus damage/excess exhumed heals, and avoid prohibited Verzik damage.",
+        "Every player must satisfy all six perfect tasks in this one run; any death fails it."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Theatre",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Perfect Maiden",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Protect against Maiden's attacks and move off blood trails before they damage anyone.",
+        "Freeze and kill Matomenos before they reach Maiden and heal her.",
+        "Keep every teammate clear of bloodspawn projectiles and trails until Maiden dies."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Maiden",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Perfect Bloat",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Enter Bloat's room only when his direction and line of sight are safe for the team.",
+        "Move around the central obstacle out of his sight and dodge falling body parts.",
+        "Attack during shutdowns, then retreat before the stomp; nobody may take flies, debris or stomp damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Bloat",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Perfect Nylocas",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Assign melee, ranged and magic roles; attack each Nylocas only with its matching colour/style.",
+        "Kill pillar attackers promptly so no pillar collapses.",
+        "For Vasilias, switch weapon and protection prayer to its current colour before every attack; every teammate must avoid wrong-style hits and off-prayer damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Nylocas",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Perfect Sotetseg",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Protect against Sotetseg's incoming style and move clear of the tornado.",
+        "Have the selected player communicate the maze route and have everyone follow its safe tiles.",
+        "Finish with no team member taking off-prayer damage or stepping on an incorrect maze tile."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Sotetseg",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Perfect Xarpus",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Cover exhumeds during Xarpus's opening phase so none heals him more than twice.",
+        "During the poison phase, move away from targeted tiles without stepping into existing pools.",
+        "After he screeches, stop attacking whenever he looks toward you; nobody may take Xarpus damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Xarpus",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Perfect Verzik",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Use pillars and Dawnbringer safely during Verzik's first phase, then dodge the second phase's bounce and projectiles.",
+        "Handle Nylocas, lightning, webs, yellow attacks and tornadoes without anyone taking their damage.",
+        "In spider form, protect correctly against regular magic/ranged attacks; only that correctly protected regular damage is allowed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Verzik",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Can't Drain This",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Agree that every teammate disables all prayers before Maiden starts; do not use quick prayers or offensive prayers.",
+        "Avoid blood trails, kill healing Nylocas and use food to sustain the fight.",
+        "Finish without any teammate losing a prayer point; drinking a restore after a loss does not undo the failure."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Can%27t_Drain_This",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Can You Dance?",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Give every teammate a melee weapon before Xarpus; remove ranged/magic weapons from the planned switches.",
+        "Cover exhumeds, then attack with melee while moving away from poison tiles.",
+        "Stop attacking when he looks toward you in the final phase; nobody may use a ranged or magic weapon."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Can_You_Dance%3F",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Morytania Only",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Check the whole team's weapon loadouts: only Barrows weapons may be equipped, with Dawnbringer the sole exception.",
+        "Bring suitable Barrows weapons for all Nylocas colours; never equip an ordinary staff or special-attack weapon by habit.",
+        "Complete the entire normal Theatre with the restriction maintained in every room."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Morytania_Only",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Back in My Day...",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Have every teammate bank their Scythe of Vitur before entering normal Theatre.",
+        "Use other melee weapons and the usual ranged/magic switches as required by the rooms.",
+        "Finish the full raid without anyone ever equipping a scythe."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Back_in_My_Day...",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Theatre (Duo) Speed-Runner",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Start normal Theatre as a duo and assign add, maze and Verzik responsibilities before entry.",
+        "Use attack windows fully and move between rooms without idle inventory management.",
+        "Complete the raid in less than 26 minutes; avoid deaths and mechanics that prolong phases."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_%28Duo%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Theatre (Trio) Speed-Chaser",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Form a normal Theatre trio with fixed Nylocas roles and coordinated specials.",
+        "Keep room transitions quick and handle healing adds immediately.",
+        "Finish in less than 20 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_%28Trio%29_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Theatre (Trio) Speed-Runner",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Enter normal Theatre as a trio with roles and burst-damage plans agreed.",
+        "Avoid lost attacks during Bloat shutdowns, Nylocas changes and Verzik phases.",
+        "Complete in less than 17 minutes 30 seconds, including efficient room transitions."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_%28Trio%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Theatre (4-Scale) Speed-Chaser",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Use a four-player normal Theatre team with assigned styles and mechanics roles.",
+        "Coordinate damage and add control so no room waits on one unfinished mechanic.",
+        "Finish in less than 17 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_%284-Scale%29_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 258,
+      "name": "Theatre (4-Scale) Speed-Runner",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Start a four-player normal Theatre run with a rehearsed room plan.",
+        "Keep attack windows busy and minimise time spent moving or reorganising supplies.",
+        "Complete in less than 15 minutes; recoverable mistakes can still cost the time target."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_%284-Scale%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 259,
+      "name": "Theatre (5-Scale) Speed-Chaser",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Form a five-player normal Theatre team and divide Nylocas/add responsibilities.",
+        "Use coordinated specials and prompt room transitions to maintain the pace.",
+        "Finish in less than 16 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_%285-Scale%29_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Theatre (5-Scale) Speed-Runner",
+      "activity": "Theatre of Blood",
+      "steps": [
+        "Prepare a five-player normal Theatre run with fixed responsibilities and efficient switches.",
+        "Keep everyone attacking through safe damage windows and move immediately after each room.",
+        "Complete in less than 14 minutes 15 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_%285-Scale%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 261,
+      "name": "Thermonuclear Veteran",
+      "activity": "Thermonuclear Smoke Devil",
+      "steps": [
+        "Enter the Smoke Devil Dungeon with the Slayer level and active assignment needed for repeated Thermonuclear kills; wear a facemask or Slayer helmet.",
+        "Use your strongest effective attacks and sustain the damage with food; protection prayers do not fully prevent his attacks.",
+        "Accumulate 20 kills, restocking between trips as needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Thermonuclear_Smoke_Devil",
+        "https://oldschool.runescape.wiki/w/Thermonuclear_Veteran"
+      ]
+    },
+    {
+      "id": 262,
+      "name": "Hazard Prevention",
+      "activity": "Thermonuclear Smoke Devil",
+      "steps": [
+        "Prepare burst damage, then attack and step underneath Thermonuclear Smoke Devil between your attacks to limit his attack opportunities.",
+        "Keep the movement cycle going until he dies; anyone being hit fails the attempt, so do not rely on protection prayers alone."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hazard_Prevention",
+        "https://oldschool.runescape.wiki/w/Thermonuclear_Smoke_Devil"
+      ]
+    },
+    {
+      "id": 263,
+      "name": "Spec'd Out",
+      "activity": "Thermonuclear Smoke Devil",
+      "steps": [
+        "Disable auto-retaliate and prepare enough special-attack weapons/energy for the kill.",
+        "Deal every damaging attack with a weapon special; stop attacking when energy runs out and let it regenerate.",
+        "Keep ordinary attacks and passive damage out of the attempt until Thermonuclear Smoke Devil dies."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Spec%27d_Out",
+        "https://oldschool.runescape.wiki/w/Thermonuclear_Smoke_Devil"
+      ]
+    },
+    {
+      "id": 264,
+      "name": "Venenatis Adept",
+      "activity": "Venenatis",
+      "steps": [
+        "Prepare a crush weapon, supplies and an escape plan before entering Venenatis's Wilderness lair.",
+        "Change protection prayers for her ranged/magic attacks, clear spiderlings and move out of webs.",
+        "Reach 10 Venenatis kills; her room is dangerous Wilderness multicombat, so bank loot regularly."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Venenatis",
+        "https://oldschool.runescape.wiki/w/Venenatis_Adept"
+      ]
+    },
+    {
+      "id": 265,
+      "name": "Venenatis Veteran",
+      "activity": "Venenatis",
+      "steps": [
+        "Bring crush gear and supplies to Venenatis's Wilderness lair.",
+        "Handle her alternating ranged/magic attacks, remove spiderlings and avoid damaging webs.",
+        "Accumulate 20 kills; bank between trips to limit carried loot and supplies at risk."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Venenatis",
+        "https://oldschool.runescape.wiki/w/Venenatis_Veteran"
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Vet'ion Adept",
+      "activity": "Vet'ion",
+      "steps": [
+        "Use a crush weapon against Vet'ion and move out of the lightning markers and shield attacks.",
+        "Kill both summoned hellhounds whenever they make Vet'ion immune, then continue through his second form.",
+        "Reach 10 kills; protection prayers do not replace dodging the lightning."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vet%27ion_Adept",
+        "https://oldschool.runescape.wiki/w/Vet'ion"
+      ]
+    },
+    {
+      "id": 267,
+      "name": "Vet'eran",
+      "activity": "Vet'ion",
+      "steps": [
+        "Fight Vet'ion with crush, avoiding lightning and his shield attack in both forms.",
+        "Switch to his hellhounds whenever they grant him immunity, then return to the boss.",
+        "Accumulate 20 kills, banking between trips through his Wilderness lair."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vet%27eran",
+        "https://oldschool.runescape.wiki/w/Vet'ion"
+      ]
+    },
+    {
+      "id": 268,
+      "name": "Vorkath Veteran",
+      "activity": "Vorkath",
+      "steps": [
+        "Prepare dragonfire and venom protection and a way to kill the zombified spawn.",
+        "Move away from the large fireball, keep walking on clear tiles during acid, and destroy each spawn promptly.",
+        "Accumulate 50 Vorkath kills; bank whenever needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vorkath",
+        "https://oldschool.runescape.wiki/w/Vorkath_Veteran"
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Vorkath Master",
+      "activity": "Vorkath",
+      "steps": [
+        "Take dragonfire/venom protection, food and runes for Crumble Undead or another spawn-killing method.",
+        "Dodge the large fireball and keep moving during acid specials.",
+        "Reach 100 total kills with consistent safe mechanics rather than forcing long trips."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vorkath",
+        "https://oldschool.runescape.wiki/w/Vorkath_Master"
+      ]
+    },
+    {
+      "id": 270,
+      "name": "The Walk",
+      "activity": "Vorkath",
+      "steps": [
+        "Turn run off and find a clear line of tiles when Vorkath starts his acid special.",
+        "Use a fast weapon and a practiced attack-walk cycle to attack without pausing for the rapid fireballs.",
+        "Land 12 hits during the acid special without stepping on acid or being hit by rapid fire."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/The_Walk",
+        "https://oldschool.runescape.wiki/w/Vorkath"
+      ]
+    },
+    {
+      "id": 271,
+      "name": "Zombie Destroyer",
+      "activity": "Vorkath",
+      "steps": [
+        "Bring a weapon or spell capable of quickly killing the zombified spawn; do not use Crumble Undead.",
+        "When Vorkath freezes you, switch to the spawn and kill it before it reaches you.",
+        "Focus on the spawn rather than Vorkath until it is dead."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vorkath",
+        "https://oldschool.runescape.wiki/w/Zombie_Destroyer"
+      ]
+    },
+    {
+      "id": 272,
+      "name": "Dodging the Dragon",
+      "activity": "Vorkath",
+      "steps": [
+        "Pack supplies and protection for five kills in one visit; do not leave Vorkath's area between them.",
+        "Dodge every large fireball, keep moving through clear acid tiles and kill each zombified spawn before it explodes.",
+        "Finish five consecutive kills with no damage from his special attacks."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dodging_the_Dragon",
+        "https://oldschool.runescape.wiki/w/Vorkath"
+      ]
+    },
+    {
+      "id": 273,
+      "name": "Stick 'em With the Pointy End",
+      "activity": "Vorkath",
+      "steps": [
+        "Equip a melee weapon for all damage dealt to Vorkath and prepare dragonfire/venom protection.",
+        "Use melee for the boss throughout the kill; handle acid and large fireballs with movement.",
+        "Crumble Undead can still be used on the separate zombified spawn; do not accidentally cast it or another spell at Vorkath."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Stick_%27em_With_the_Pointy_End",
+        "https://oldschool.runescape.wiki/w/Vorkath"
+      ]
+    },
+    {
+      "id": 274,
+      "name": "Faithless Encounter",
+      "activity": "Vorkath",
+      "steps": [
+        "Disable every prayer before waking Vorkath; prepare sufficient dragonfire protection and food for an unprotected fight.",
+        "Dodge fireballs and acid, and kill zombified spawns promptly.",
+        "Finish without losing any prayer points; restoring drained points afterward does not repair a failed attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Faithless_Encounter",
+        "https://oldschool.runescape.wiki/w/Vorkath"
+      ]
+    },
+    {
+      "id": 275,
+      "name": "The Fremennik Way",
+      "activity": "Vorkath",
+      "steps": [
+        "Remove your weapon and prepare melee boosts, protection and ample healing for a long unarmed fight.",
+        "Damage Vorkath only with your fists; avoid damaging specials, recoil and thralls.",
+        "Keep dodging acid/fireballs and use Crumble Undead on the separate spawn while completing the fist-only boss kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/The_Fremennik_Way",
+        "https://oldschool.runescape.wiki/w/Vorkath"
+      ]
+    },
+    {
+      "id": 276,
+      "name": "Vorkath Speed-Chaser",
+      "activity": "Vorkath",
+      "steps": [
+        "Prepare boosts, dragonfire/venom protection and specials before waking Vorkath.",
+        "Keep attacks going between specials and kill zombified spawns promptly so they do not delay damage.",
+        "Finish the kill in less than 1 minute 15 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vorkath",
+        "https://oldschool.runescape.wiki/w/Vorkath_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 277,
+      "name": "Vorkath Speed-Runner",
+      "activity": "Vorkath",
+      "steps": [
+        "Start fully prepared with boosts and the most effective damage setup available.",
+        "Minimise missed attacks, destroy spawns promptly and maintain a safe attack-walk cycle during acid if practised.",
+        "Finish in less than 54 seconds; repeat attempts when low damage makes the timer unattainable."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Vorkath",
+        "https://oldschool.runescape.wiki/w/Vorkath_Speed-Runner"
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Extended Encounter",
+      "activity": "Vorkath",
+      "steps": [
+        "Pack enough food, prayer restoration and dragonfire/venom protection for ten kills before entering.",
+        "Avoid unnecessary special-attack damage and track remaining supplies after each kill.",
+        "Kill Vorkath ten times without leaving his area; a bank trip breaks this attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Extended_Encounter",
+        "https://oldschool.runescape.wiki/w/Vorkath"
+      ]
+    },
+    {
+      "id": 279,
+      "name": "Wintertodt Novice",
+      "activity": "Wintertodt",
+      "steps": [
+        "Take an axe, tinderbox, hammer and warm clothing to Wintertodt; manage your warmth with available healing.",
+        "Chop bruma roots, feed the brazier and repair or relight it when needed.",
+        "Stay until Wintertodt is subdued five times."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wintertodt",
+        "https://oldschool.runescape.wiki/w/Wintertodt_Novice"
+      ]
+    },
+    {
+      "id": 280,
+      "name": "Wintertodt Champion",
+      "activity": "Wintertodt",
+      "steps": [
+        "Prepare warm equipment and tools for chopping, lighting and repairing braziers.",
+        "Feed roots or kindling to working braziers and keep your warmth high enough to survive.",
+        "Complete ten Wintertodt subdues; they need not be in a single visit."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Wintertodt",
+        "https://oldschool.runescape.wiki/w/Wintertodt_Champion"
+      ]
+    },
+    {
+      "id": 281,
+      "name": "Mummy!",
+      "activity": "Wintertodt",
+      "steps": [
+        "Collect a rejuvenation potion for the Wintertodt arena.",
+        "Wait until a pyromancer falls, then use the potion on that fallen pyromancer.",
+        "Healing one that is still standing does not satisfy this particular task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mummy%21",
+        "https://oldschool.runescape.wiki/w/Wintertodt"
+      ]
+    },
+    {
+      "id": 282,
+      "name": "Handyman",
+      "activity": "Wintertodt",
+      "steps": [
+        "Bring or collect a hammer in the Wintertodt arena.",
+        "When a brazier is destroyed, click it to repair the broken structure.",
+        "Relighting an intact brazier is a different action and does not complete this repair task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Handyman",
+        "https://oldschool.runescape.wiki/w/Wintertodt"
+      ]
+    },
+    {
+      "id": 283,
+      "name": "Can We Fix It?",
+      "activity": "Wintertodt",
+      "steps": [
+        "Watch the state of all four braziers while the Wintertodt fight runs.",
+        "Repair broken braziers promptly so at least one is never broken.",
+        "Stay through the subdue without all four being broken simultaneously."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Can_We_Fix_It%3F",
+        "https://oldschool.runescape.wiki/w/Wintertodt"
+      ]
+    },
+    {
+      "id": 284,
+      "name": "Leaving No One Behind",
+      "activity": "Wintertodt",
+      "steps": [
+        "Prepare rejuvenation potions and watch every pyromancer's health.",
+        "Heal weakened pyromancers before they fall; coordinate coverage with other players.",
+        "Subdue Wintertodt without any pyromancer falling at any point."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Leaving_No_One_Behind",
+        "https://oldschool.runescape.wiki/w/Wintertodt"
+      ]
+    },
+    {
+      "id": 285,
+      "name": "Cosy",
+      "activity": "Wintertodt",
+      "steps": [
+        "Equip four items recognised as warm clothing before starting Wintertodt.",
+        "Keep all four equipped while feeding and maintaining the brazier.",
+        "Finish a subdue without replacing a warm piece with an unrecognised item."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cosy",
+        "https://oldschool.runescape.wiki/w/Wintertodt"
+      ]
+    },
+    {
+      "id": 286,
+      "name": "Why Fletch?",
+      "activity": "Wintertodt",
+      "steps": [
+        "Choose a slower Wintertodt game and fletch roots into kindling for more points per inventory.",
+        "Feed braziers, repair/relight them and heal pyromancers while managing your warmth.",
+        "Reach at least 3000 points in that one fight before Wintertodt is subdued."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Why_Fletch%3F",
+        "https://oldschool.runescape.wiki/w/Wintertodt"
+      ]
+    },
+    {
+      "id": 287,
+      "name": "A Slithery Encounter",
+      "activity": "Wyrm",
+      "steps": [
+        "Enter Karuulm Slayer Dungeon with 62 Slayer; wear boots of stone, brimstone or granite unless you have the elite Kourend & Kebos Diary exemption.",
+        "Attack a Wyrm with ranged from outside melee distance, use Protect from Magic if available and finish one kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Slithery_Encounter",
+        "https://oldschool.runescape.wiki/w/Wyrm"
+      ]
+    },
+    {
+      "id": 288,
+      "name": "Chambers of Xeric: CM Master",
+      "activity": "Chambers of Xeric: Challenge Mode",
+      "steps": [
+        "Select Chambers of Xeric Challenge Mode and prepare all three attack styles and supplies for its fixed room route.",
+        "Handle the stronger combat rooms and finish Olm rather than leaving after an individual room.",
+        "Accumulate ten Challenge Mode completions."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_CM_Master",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_Challenge_Mode"
+      ]
+    },
+    {
+      "id": 289,
+      "name": "Chambers of Xeric: CM Grandmaster",
+      "activity": "Chambers of Xeric: Challenge Mode",
+      "steps": [
+        "Enter Chambers of Xeric Challenge Mode with a repeatable room plan and sufficient supplies.",
+        "Assign team jobs for combat rooms and Olm, or use your established solo route.",
+        "Finish 25 Challenge Mode raids; ordinary Chambers completions do not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_CM_Grandmaster",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_Challenge_Mode"
+      ]
+    },
+    {
+      "id": 290,
+      "name": "Immortal Raid Team",
+      "activity": "Chambers of Xeric: Challenge Mode",
+      "steps": [
+        "Enter Chambers Challenge Mode with a team that has agreed on safe room roles and sufficient healing.",
+        "Prepare extra supplies before Olm and protect/move correctly through his specials.",
+        "Complete the entire raid without any teammate dying; a death in an earlier room also fails it."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_Challenge_Mode",
+        "https://oldschool.runescape.wiki/w/Immortal_Raid_Team"
+      ]
+    },
+    {
+      "id": 291,
+      "name": "Immortal Raider",
+      "activity": "Chambers of Xeric: Challenge Mode",
+      "steps": [
+        "Start Chambers Challenge Mode alone and bring equipment for the full fixed room route.",
+        "Prepare enough healing and prayer supplies before Olm rather than rushing into his chamber.",
+        "Complete the solo raid without dying anywhere."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_Challenge_Mode",
+        "https://oldschool.runescape.wiki/w/Immortal_Raider"
+      ]
+    },
+    {
+      "id": 292,
+      "name": "Dust Seeker",
+      "activity": "Chambers of Xeric: Challenge Mode",
+      "steps": [
+        "Start Challenge Mode and check the target time shown for your team size.",
+        "Assign room and Olm responsibilities and prepare supplies without unnecessary delays.",
+        "Finish the raid before the displayed target; the qualifying time depends on scale."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_Challenge_Mode",
+        "https://oldschool.runescape.wiki/w/Dust_Seeker"
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Chambers of Xeric: CM (Solo) Speed-Chaser",
+      "activity": "Chambers of Xeric: Challenge Mode",
+      "steps": [
+        "Start a solo Chambers Challenge Mode run and plan the fixed route and supply preparation.",
+        "Use effective styles in each room and keep Olm attacks going while handling specials.",
+        "Complete the full solo raid in less than 45 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_CM_%28Solo%29_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_Challenge_Mode"
+      ]
+    },
+    {
+      "id": 294,
+      "name": "Chambers of Xeric: CM (Solo) Speed-Runner",
+      "activity": "Chambers of Xeric: Challenge Mode",
+      "steps": [
+        "Prepare a solo Challenge Mode route with efficient gear changes and minimal supply-preparation time.",
+        "Avoid extra Tekton/Vasa cycles and minimise lost attacks at Olm.",
+        "Finish in less than 38 minutes 30 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_CM_%28Solo%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_Challenge_Mode"
+      ]
+    },
+    {
+      "id": 295,
+      "name": "Chambers of Xeric: CM (5-Scale) Speed-Chaser",
+      "activity": "Chambers of Xeric: Challenge Mode",
+      "steps": [
+        "Form a five-player Chambers Challenge Mode team and assign combat-room, supply and Olm roles.",
+        "Coordinate damage and add control; move together to the next room promptly.",
+        "Finish the five-player raid in less than 30 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_CM_%285-Scale%29_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_Challenge_Mode"
+      ]
+    },
+    {
+      "id": 296,
+      "name": "Chambers of Xeric: CM (5-Scale) Speed-Runner",
+      "activity": "Chambers of Xeric: Challenge Mode",
+      "steps": [
+        "Enter Chambers Challenge Mode with five players and a rehearsed room route.",
+        "Share preparation jobs and coordinate burst damage so bosses do not gain extra healing cycles.",
+        "Finish in less than 25 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_CM_%285-Scale%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_Challenge_Mode"
+      ]
+    },
+    {
+      "id": 297,
+      "name": "Chambers of Xeric: CM (Trio) Speed-Chaser",
+      "activity": "Chambers of Xeric: Challenge Mode",
+      "steps": [
+        "Start a trio Chambers Challenge Mode run with fixed room and Olm responsibilities.",
+        "Keep supply preparation short and avoid waiting on an unfinished combat mechanic.",
+        "Complete the trio raid in less than 35 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_CM_%28Trio%29_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_Challenge_Mode"
+      ]
+    },
+    {
+      "id": 298,
+      "name": "Chambers of Xeric: CM (Trio) Speed-Runner",
+      "activity": "Chambers of Xeric: Challenge Mode",
+      "steps": [
+        "Form a trio for Chambers Challenge Mode and agree efficient room/supply roles before entry.",
+        "Maintain damage during safe windows and move straight through the fixed route.",
+        "Finish in less than 27 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_CM_%28Trio%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric%3A_Challenge_Mode"
+      ]
+    },
+    {
+      "id": 299,
+      "name": "Chambers of Xeric Veteran",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Prepare all three attack styles and the tools needed for Chambers rooms.",
+        "Clear the selected route, gather sufficient supplies and defeat Great Olm.",
+        "Accumulate 25 complete normal Chambers raids."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric_Veteran"
+      ]
+    },
+    {
+      "id": 300,
+      "name": "Chambers of Xeric Master",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Choose normal Chambers layouts you can clear consistently and take equipment for every room in the route.",
+        "Prepare supplies before Olm and handle his specials without forcing unsafe damage.",
+        "Reach 75 raid completions; individual room kills do not count as a raid."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric_Master"
+      ]
+    },
+    {
+      "id": 301,
+      "name": "Chambers of Xeric Grandmaster",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Use a reliable normal Chambers solo route or team with clear room responsibilities.",
+        "Conserve supplies and finish Olm on each run before leaving.",
+        "Accumulate 150 full raid completions."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric_Grandmaster"
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Perfectly Balanced",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Identify the three Vanguards and use the effective attack style for each.",
+        "Rotate targets to keep their health bars close together rather than bursting one down first.",
+        "Finish all three without their health difference causing a reset; stop high-damage attacks when one falls too far behind."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Perfectly_Balanced"
+      ]
+    },
+    {
+      "id": 303,
+      "name": "Together We'll Fall",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Lower all three Vanguards together while keeping their health balanced to avoid resets.",
+        "Bring each to finishing-hit health before killing the first.",
+        "Kill the other two within 10 seconds of the first death; coordinate target changes with teammates."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Together_We%27ll_Fall"
+      ]
+    },
+    {
+      "id": 304,
+      "name": "No Time for Death",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Leave every Deathly Mage and Ranger alive and prepare enough health to cross the tightrope under attack.",
+        "Cross, collect the keystone and use it to open the barrier.",
+        "Do not attack the enemies or leave passive damage on them; crossing with them alive can deal heavy damage at once."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/No_Time_for_Death"
+      ]
+    },
+    {
+      "id": 305,
+      "name": "Putting It Olm on the Line",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Start a solo Chambers raid with enough scoring rooms to exceed 40,000 points.",
+        "Complete scoring combat and puzzle actions and avoid deaths, which remove points.",
+        "Check your personal points before finishing Olm and complete the raid above 40,000."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Putting_It_Olm_on_the_Line"
+      ]
+    },
+    {
+      "id": 306,
+      "name": "A Not So Special Lizard",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Run Chambers solo and enter Olm's penultimate hand phase with a practised special-skipping movement cycle.",
+        "For a four-tick melee weapon, maintain the 4:1 head-turn cycle so Crystal Burst, lightning, teleports and left-hand healing never occur.",
+        "Finish both hands without breaking the cycle; rushing damage into his head does not skip this hand phase."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Not_So_Special_Lizard",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies"
+      ]
+    },
+    {
+      "id": 307,
+      "name": "Mutta-diet",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Bring an axe into the Muttadile room and cut down the meat tree before either Muttadile can heal from it.",
+        "Control their attacks while chopping, then kill the baby and adult.",
+        "Neither may recover hitpoints from the tree during the encounter."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Mutta-diet"
+      ]
+    },
+    {
+      "id": 308,
+      "name": "Redemption Enthusiast",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Keep Vespula airborne and direct your damage into the Abyssal Portal.",
+        "Manage your health, prayer and nearby threats without damaging Vespula enough to make her land.",
+        "Destroy the portal while she remains airborne; killing Vespula first does not qualify."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Redemption_Enthusiast"
+      ]
+    },
+    {
+      "id": 309,
+      "name": "Stop Drop and Roll",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Prepare ranged damage for Vasa and an effective melee switch for the crystal he targets.",
+        "Break that crystal promptly so he returns to the room, then resume damage immediately.",
+        "Kill Vasa before his second teleport attack; slow crystal kills lose the required window."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Stop_Drop_and_Roll"
+      ]
+    },
+    {
+      "id": 310,
+      "name": "Anvil No More",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Prepare melee damage and defence-reducing specials before engaging Tekton.",
+        "Keep damage going during his first attack window and move away from his marked attacks.",
+        "Finish before his second return to the anvil after the fight starts; extra anvil cycles fail the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Anvil_No_More",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies"
+      ]
+    },
+    {
+      "id": 311,
+      "name": "Dancing with Statues",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Equip a pickaxe on a crush attack style to damage a Stone Guardian.",
+        "Move away from falling-rock shadows while contributing enough damage for kill-credit.",
+        "Finish your credited Guardian kill without taking falling-rock damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Dancing_with_Statues"
+      ]
+    },
+    {
+      "id": 312,
+      "name": "Undying Raid Team",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Agree a deathless normal Chambers run with the whole team before starting.",
+        "Handle combat rooms safely and prepare sufficient supplies before Olm.",
+        "Complete the raid with no deaths from any player, including earlier rooms."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Undying_Raid_Team"
+      ]
+    },
+    {
+      "id": 313,
+      "name": "Undying Raider",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Start a normal Chambers raid alone with gear and supplies appropriate for the selected rooms.",
+        "Prepare extra healing before Olm and prioritise survival through his specials.",
+        "Complete the entire solo raid without dying."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Undying_Raider"
+      ]
+    },
+    {
+      "id": 314,
+      "name": "Shayzien Specialist",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Take protection against Shaman poison, such as full tier-five Shayzien armour, and attack from outside melee range.",
+        "Protect against ranged attacks; move away from jumps and exploding spawns from every Shaman in the room.",
+        "Receive kill-credit for one Shaman without taking damage from any of them."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Shayzien_Specialist"
+      ]
+    },
+    {
+      "id": 315,
+      "name": "Playing with Lasers",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Before activating the first crystal, plan each orb path and place the required crabs.",
+        "Use melee to colour a crab red, magic for blue and ranged for green; set the colour before the orb reaches it.",
+        "After the first activation, direct every orb into a remaining crystal; avoid intercepting it or sending it through an incompatible crab."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Playing_with_Lasers"
+      ]
+    },
+    {
+      "id": 316,
+      "name": "Cryo No More",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Feed and light the braziers to make the Ice Demon attackable; prepare a fire spell or another damage weapon.",
+        "Move clear of the targeted ice/snowball impact area after every attack; protection prayer alone does not remove its damage.",
+        "Receive kill-credit while taking no damage during the encounter."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Cryo_No_More"
+      ]
+    },
+    {
+      "id": 317,
+      "name": "Perfect Olm (Solo)",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Run Olm solo and move clear of crystal bursts/bombs, fire walls and teleport damage; use the correct protection for prayer orbs.",
+        "Cover healing pools, avoid repeated damage from the same acid pool and finish both hands close together so neither regenerates.",
+        "Finish the head while maintaining all these conditions throughout the kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Perfect_Olm_%28Solo%29"
+      ]
+    },
+    {
+      "id": 318,
+      "name": "Perfect Olm (Trio)",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Enter Olm as a trio and assign hand/head responsibilities and calls for teleports, fire and orbs.",
+        "Keep every player clear of crystal bursts/bombs and damaging walls; cover healing pools and avoid repeated damage from the same acid pool.",
+        "Finish both hands close together to prevent regeneration, then finish the head with no listed failure by anyone."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Perfect_Olm_%28Trio%29"
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Blind Spot",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Use effective melee attacks against Tekton and move out of his melee swings instead of relying on prayer to prevent all damage.",
+        "Dodge the marked projectiles when he returns to his anvil.",
+        "Finish the kill without taking any damage; an unprotected hit or anvil projectile ruins the attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Blind_Spot",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies"
+      ]
+    },
+    {
+      "id": 320,
+      "name": "Blizzard Dodger",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Keep Protect from Missiles disabled throughout the Ice Demon encounter.",
+        "Light/feed the braziers, then move out of every targeted snowball or ice impact area.",
+        "Receive kill-credit without ever activating that forbidden prayer; other prayers remain available."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Blizzard_Dodger",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies"
+      ]
+    },
+    {
+      "id": 321,
+      "name": "Kill It with Fire",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Bring runes and a suitable standard-spellbook fire spell into the Ice Demon room.",
+        "Lower his health, then stop other damage and cast the fire spell for the finishing blow.",
+        "Do not let a weapon hit or thrall finish him before the fire spell lands."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies",
+        "https://oldschool.runescape.wiki/w/Kill_It_with_Fire"
+      ]
+    },
+    {
+      "id": 322,
+      "name": "Chambers of Xeric (Solo) Speed-Chaser",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Start normal Chambers solo and choose a route you can clear quickly with little preparation.",
+        "Keep the effective damage style ready for every room and minimise lost attacks at Olm.",
+        "Complete the full raid in less than 21 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric_%28Solo%29_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 323,
+      "name": "Chambers of Xeric (Solo) Speed-Runner",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Prepare a fast solo Chambers layout and an efficient supply plan before the run.",
+        "Avoid prolonged boss cycles, unnecessary backtracking and downtime during Olm.",
+        "Finish in less than 17 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric_%28Solo%29_Speed-Runner"
+      ]
+    },
+    {
+      "id": 324,
+      "name": "Chambers of Xeric (5-Scale) Speed-Chaser",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Enter normal Chambers with five players and divide room, supply and Olm jobs.",
+        "Coordinate damage so no room stalls on unfinished adds or crystals.",
+        "Complete the five-player raid in less than 15 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric_%285-Scale%29_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 325,
+      "name": "Chambers of Xeric (5-Scale) Speed-Runner",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Start a five-player normal Chambers run with a rehearsed route and supply plan.",
+        "Share preparation work and keep everyone attacking during safe boss windows.",
+        "Finish in less than 12 minutes 30 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric_%285-Scale%29_Speed-Runner"
+      ]
+    },
+    {
+      "id": 326,
+      "name": "Chambers of Xeric (Trio) Speed-Chaser",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Form a normal Chambers trio with clear room and Olm roles.",
+        "Keep preparation and transitions short; coordinate damage on targets that delay room completion.",
+        "Finish the trio raid in less than 16 minutes 30 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric_%28Trio%29_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 327,
+      "name": "Chambers of Xeric (Trio) Speed-Runner",
+      "activity": "Chambers of Xeric",
+      "steps": [
+        "Start normal Chambers as a trio with an efficient layout and rehearsed damage plan.",
+        "Minimise supply preparation, backtracking and missed Olm attacks.",
+        "Complete the raid in less than 14 minutes 30 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+        "https://oldschool.runescape.wiki/w/Chambers_of_Xeric_%28Trio%29_Speed-Runner"
+      ]
+    },
+    {
+      "id": 328,
+      "name": "Zalcano Veteran",
+      "activity": "Zalcano",
+      "steps": [
+        "Bring a pickaxe to Zalcano, mine tephra, refine it and imbue it at the room's stations.",
+        "Throw imbued tephra to break her armour, then mine her while she is vulnerable.",
+        "Dodge rocks and damaging symbols while accumulating 25 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Zalcano",
+        "https://oldschool.runescape.wiki/w/Zalcano_Veteran"
+      ]
+    },
+    {
+      "id": 329,
+      "name": "Perfect Zalcano",
+      "activity": "Zalcano",
+      "steps": [
+        "Prepare supplies for five Zalcano kills without leaving the chamber.",
+        "Move off falling-rock shadows, away from exploding mining rocks and clear of Zalcano as she powers up.",
+        "Never stand in a red symbol and complete five consecutive kills without any listed damage or an exit."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Zalcano",
+        "https://oldschool.runescape.wiki/w/Zalcano"
+      ]
+    },
+    {
+      "id": 330,
+      "name": "Team Player",
+      "activity": "Zalcano",
+      "steps": [
+        "Watch for a golem during Zalcano's armoured phase and attack it before it reaches her.",
+        "Collect the imbued tephra it drops; this pickup is the task's objective."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Team_Player",
+        "https://oldschool.runescape.wiki/w/Zalcano"
+      ]
+    },
+    {
+      "id": 331,
+      "name": "The Spurned Hero",
+      "activity": "Zalcano",
+      "steps": [
+        "During Zalcano's armour phase, obtain and throw imbued tephra efficiently; use safe blue symbols when possible.",
+        "Mine her promptly during each vulnerable phase.",
+        "Get the most damage of any player when she dies; a solo kill removes competition but still requires completing the fight."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/The_Spurned_Hero",
+        "https://oldschool.runescape.wiki/w/Zalcano"
+      ]
+    },
+    {
+      "id": 332,
+      "name": "K'ril Tsutsaroth Adept",
+      "activity": "K'ril Tsutsaroth",
+      "steps": [
+        "Bring a damage setup, protection and healing for K'ril and his three bodyguards.",
+        "Handle the boss and minions, clear the room after each kill and restock when necessary.",
+        "Accumulate 50 kills; god-aligned gear does not make his boss-room bodyguards harmless."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/K%27ril_Tsutsaroth_Adept",
+        "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth"
+      ]
+    },
+    {
+      "id": 333,
+      "name": "K'ril Tsutsaroth Veteran",
+      "activity": "K'ril Tsutsaroth",
+      "steps": [
+        "Prepare a repeatable K'ril method and supplies for damage from the boss and bodyguards.",
+        "Clear minions between boss respawns and keep health/prayer high enough for the next kill.",
+        "Reach 100 total kills, banking between trips as needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/K%27ril_Tsutsaroth_Veteran",
+        "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth"
+      ]
+    },
+    {
+      "id": 334,
+      "name": "Yarr No More",
+      "activity": "K'ril Tsutsaroth",
+      "steps": [
+        "Use a method that avoids K'ril's prayer-smashing special, such as keeping Protect from Melee off and sustaining damage safely.",
+        "Maintain damage and receive kill-credit before he uses the special.",
+        "If the special occurs, the attempt has failed; food and positioning remain necessary without melee protection."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth",
+        "https://oldschool.runescape.wiki/w/Yarr_No_More"
+      ]
+    },
+    {
+      "id": 335,
+      "name": "Demonic Showdown",
+      "activity": "K'ril Tsutsaroth",
+      "steps": [
+        "Lower K'ril's health while controlling the bodyguards, then kill all three bodyguards.",
+        "Finish K'ril before any bodyguard respawns.",
+        "Check every bodyguard is dead at the killing blow; merely damaging all three does not qualify."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demonic_Showdown",
+        "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth"
+      ]
+    },
+    {
+      "id": 336,
+      "name": "The Bane of Demons",
+      "activity": "K'ril Tsutsaroth",
+      "steps": [
+        "Rent a private K'ril instance and bring the runes/spellbook for demonbane spells.",
+        "Disable auto-retaliate and damage K'ril only with demonbane spells; do not use a normal staff attack or weapon special.",
+        "Finish the kill within that private instance while maintaining the spell restriction."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth",
+        "https://oldschool.runescape.wiki/w/The_Bane_of_Demons"
+      ]
+    },
+    {
+      "id": 337,
+      "name": "Demonic Defence",
+      "activity": "K'ril Tsutsaroth",
+      "steps": [
+        "Start a private K'ril instance with a ranged or magic method that keeps you outside his melee reach.",
+        "Keep moving on the method's route while attacking, handling bodyguards separately.",
+        "Kill K'ril without any of his melee hits landing; protection prayers alone do not replace the required avoidance."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demonic_Defence",
+        "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth"
+      ]
+    },
+    {
+      "id": 338,
+      "name": "Demon Whisperer",
+      "activity": "K'ril Tsutsaroth",
+      "steps": [
+        "Use a private K'ril instance and a practised method for separating bodyguard attacks and switching protection prayers.",
+        "Handle all three bodyguards while maintaining boss damage and safe positioning.",
+        "Finish without being hit by any bodyguard; a Zamorak item does not stop them attacking inside the boss room."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demon_Whisperer",
+        "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth"
+      ]
+    },
+    {
+      "id": 339,
+      "name": "Demonbane Weaponry II",
+      "activity": "K'ril Tsutsaroth",
+      "steps": [
+        "Bring a demonbane weapon you can wield and keep it ready for the finish.",
+        "Lower K'ril's health with your normal method, then stop other damage and equip the demonbane weapon.",
+        "Land the killing blow with that weapon before a thrall or another attack finishes him."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demonbane_Weaponry_II",
+        "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth"
+      ]
+    },
+    {
+      "id": 340,
+      "name": "Ash Collector",
+      "activity": "K'ril Tsutsaroth",
+      "steps": [
+        "Pack enough healing, prayer restoration and a sustainable damage method before renting a private K'ril instance.",
+        "Kill the bodyguards between respawns and conserve supplies across twenty boss kills.",
+        "Remain inside the room for all twenty kills; leaving to bank breaks the attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Ash_Collector",
+        "https://oldschool.runescape.wiki/w/K'ril_Tsutsaroth"
+      ]
+    },
+    {
+      "id": 341,
+      "name": "Half-Way There",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "Progress through Inferno waves until a Jal-Zek mage appears.",
+        "Use Protect from Magic against its attacks while managing the other wave enemies.",
+        "Kill one Jal-Zek; completing the whole Inferno is not required for this task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Half-Way_There",
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+      ]
+    },
+    {
+      "id": 342,
+      "name": "Inferno Grandmaster",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "Prepare a reliable Inferno setup with supplies for the waves and Zuk.",
+        "Preserve pillars during the waves, then stay behind Zuk's moving shield and handle the sets/Jad/healers.",
+        "Accumulate five full Inferno completions."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Inferno_Grandmaster",
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+      ]
+    },
+    {
+      "id": 343,
+      "name": "The Floor Is Lava",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "Prioritise each Jal-ImKot melee enemy before it has time to dig to you.",
+        "Kill it promptly or manage its access to you instead of leaving it trapped behind a pillar for a long time.",
+        "Complete the entire Inferno and kill Zuk without any Jal-ImKot digging on any wave."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/The_Floor_Is_Lava",
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+      ]
+    },
+    {
+      "id": 344,
+      "name": "Playing with Jads",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "During triple Jad, keep the other two alive while bringing them close to finishing-hit health.",
+        "Once the first Jad dies, kill the remaining two within 30 seconds.",
+        "Continue switching protection prayers and managing healers; taking unprotected Jad attacks to gain damage is unsafe."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Playing_with_Jads",
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+      ]
+    },
+    {
+      "id": 345,
+      "name": "No Luck Required",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "Stay inside Zuk's moving shield protection whenever he can attack.",
+        "Protect correctly against every JalTok-Jad attack while still following the shield.",
+        "Finish Zuk without him attacking you and without taking damage from any Jad in the run."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/No_Luck_Required",
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+      ]
+    },
+    {
+      "id": 346,
+      "name": "Nibblers, Begone!",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "Kill the nibblers attacking pillars promptly at the start of each Inferno wave.",
+        "Protect and reposition against the other enemies without letting nibblers destroy a pillar.",
+        "Reach wave 67 with the pillars preserved, then finish Zuk."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nibblers%2C_Begone%21",
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+      ]
+    },
+    {
+      "id": 347,
+      "name": "Wasn't Even Close",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "Start the Inferno with supplies to maintain a health buffer above 50.",
+        "Heal before incoming damage could drop your health below 50 rather than waiting for a low-health warning.",
+        "Complete every wave and kill Zuk without ever crossing below the threshold."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk",
+        "https://oldschool.runescape.wiki/w/Wasn%27t_Even_Close"
+      ]
+    },
+    {
+      "id": 348,
+      "name": "Budget Setup",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "Bank the Twisted bow before entering the Inferno and prepare other ranged weapons for Jad/Zuk.",
+        "Complete the waves using your alternative setup and manage pillar enemies normally.",
+        "Finish Zuk without equipping a Twisted bow anywhere in the Inferno."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Budget_Setup",
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+      ]
+    },
+    {
+      "id": 349,
+      "name": "Nibbler Chaser",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "Bring chinchompas to hit grouped nibblers and use ranged or melee weapons for the other wave enemies.",
+        "Do not cast offensive, healing or utility spells during any wave; use supplies and prayer for sustain.",
+        "Complete the Inferno and kill Zuk without casting a magic spell."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chinchompa_(weapon)",
+        "https://oldschool.runescape.wiki/w/Nibbler_Chaser",
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Facing Jad Head-on II",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "Keep ranged and magic weapons unequipped through waves 1-68; use melee weapons and manually cast spells for nibblers without a staff or wand.",
+        "Remove enough negative-magic armour for manual spells to land, and manage Jad positioning and overhead prayers without a forbidden weapon.",
+        "Wait until Zuk's wave-69 cutscene starts, then equip your ranged weapon and finish Zuk."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Facing_Jad_Head-on_II",
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+      ]
+    },
+    {
+      "id": 351,
+      "name": "Jad? What Are You Doing Here?",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "When the JalTok-Jad spawns during Zuk, leave it alive and direct damage into Zuk.",
+        "Protect against that Jad's attacks while keeping inside the moving shield.",
+        "Finish Zuk without killing the wave-69 Jad; avoid stray attacks that could finish it."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Jad%3F_What_Are_You_Doing_Here%3F",
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+      ]
+    },
+    {
+      "id": 352,
+      "name": "Inferno Speed-Runner",
+      "activity": "TzKal-Zuk",
+      "steps": [
+        "Prepare an efficient Inferno wave plan and damage setup before starting.",
+        "Clear nibblers and dangerous wave enemies promptly without unnecessary waiting, then handle Zuk's sets and healers efficiently.",
+        "Complete the entire Inferno in less than 65 minutes while preserving safe prayers and shield movement."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Inferno_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/TzKal-Zuk"
+      ]
+    },
+    {
+      "id": 353,
+      "name": "Tempoross Novice",
+      "activity": "Tempoross",
+      "steps": [
+        "Take a harpoon, rope and buckets to Tempoross; fish harpoonfish and load the ship's cannons.",
+        "When his energy is depleted, fish the spirit pool to reduce his essence.",
+        "Accumulate five subdues while avoiding fire, waves and torrent attacks."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tempoross",
+        "https://oldschool.runescape.wiki/w/Tempoross_Novice"
+      ]
+    },
+    {
+      "id": 354,
+      "name": "Tempoross Champion",
+      "activity": "Tempoross",
+      "steps": [
+        "Prepare Tempoross tools, fish harpoonfish and use cannons to drain his energy.",
+        "Fish the spirit pool during vulnerability and repeat the cycle until he is subdued.",
+        "Complete ten subdues; separate fights count toward the total."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tempoross",
+        "https://oldschool.runescape.wiki/w/Tempoross_Champion"
+      ]
+    },
+    {
+      "id": 355,
+      "name": "Dress Like You Mean It",
+      "activity": "Tempoross",
+      "steps": [
+        "Equip all four pieces of a recognised angler or spirit angler outfit before the fight.",
+        "Fish, load cannons and fish the spirit pool while keeping the complete outfit on.",
+        "Finish the Tempoross subdue wearing the full set."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dress_Like_You_Mean_It",
+        "https://oldschool.runescape.wiki/w/Tempoross"
+      ]
+    },
+    {
+      "id": 356,
+      "name": "Master of Buckets",
+      "activity": "Tempoross",
+      "steps": [
+        "Fill buckets at a water pump and watch where lightning starts fires.",
+        "Use water on at least five separate fires yourself during one fight.",
+        "Refill buckets as needed; another player's extinguishes do not add to your five."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Master_of_Buckets",
+        "https://oldschool.runescape.wiki/w/Tempoross"
+      ]
+    },
+    {
+      "id": 357,
+      "name": "Calm Before the Storm",
+      "activity": "Tempoross",
+      "steps": [
+        "Carry a hammer and watch a mast or totem pole for damage during Tempoross.",
+        "Click the damaged structure to repair it before another player does.",
+        "Repairing either kind of structure completes the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Calm_Before_the_Storm",
+        "https://oldschool.runescape.wiki/w/Tempoross"
+      ]
+    },
+    {
+      "id": 358,
+      "name": "Why Cook?",
+      "activity": "Tempoross",
+      "steps": [
+        "Use a long or solo Tempoross fight to build personal points with cooked fish, extinguishes and repairs.",
+        "Watch the points/reward-permit display and continue scoring before the final subdue.",
+        "Finish that single fight with ten reward permits awarded; permits from previous games do not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tempoross",
+        "https://oldschool.runescape.wiki/w/Why_Cook%3F"
+      ]
+    },
+    {
+      "id": 359,
+      "name": "The Lone Angler",
+      "activity": "Tempoross",
+      "steps": [
+        "Enter a Tempoross fight alone and keep water and tethering equipment ready.",
+        "Move out of fire and cannon torrents, and tether to a mast or totem before each wave.",
+        "Subdue Tempoross without being hit by any fire, torrent or wave."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tempoross",
+        "https://oldschool.runescape.wiki/w/The_Lone_Angler"
+      ]
+    },
+    {
+      "id": 360,
+      "name": "Fire in the Hole!",
+      "activity": "Tempoross",
+      "steps": [
+        "Load harpoonfish into each of the two cannons on the first ship.",
+        "Cross to the other ship and load both of its cannons as well.",
+        "Personally use all four cannons so attacks come from both sides; one cannon on each ship is insufficient."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fire_in_the_Hole%21",
+        "https://oldschool.runescape.wiki/w/Tempoross"
+      ]
+    },
+    {
+      "id": 361,
+      "name": "The II Jad Challenge",
+      "activity": "TzHaar-Ket-Rak's Challenges",
+      "steps": [
+        "Select TzHaar-Ket-Rak's second challenge with supplies and a weapon ready for two Jads.",
+        "Read each Jad's attack animation and switch overhead prayers for their staggered attacks.",
+        "Kill both, managing their healers without missing the next protection switch."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/The_II_Jad_Challenge",
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak's_Challenges"
+      ]
+    },
+    {
+      "id": 362,
+      "name": "The IV Jad Challenge",
+      "activity": "TzHaar-Ket-Rak's Challenges",
+      "steps": [
+        "Start the fourth TzHaar-Ket-Rak challenge, ready to track four Jads' attack animations.",
+        "Protect against each staggered attack and focus damage on one Jad at a time to reduce the pressure.",
+        "Handle healers while keeping the prayer sequence intact and complete the challenge."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/The_IV_Jad_Challenge",
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak's_Challenges"
+      ]
+    },
+    {
+      "id": 363,
+      "name": "The VI Jad Challenge",
+      "activity": "TzHaar-Ket-Rak's Challenges",
+      "steps": [
+        "Select the sixth challenge and prepare to follow six Jads' staggered attack animations.",
+        "Keep the correct overhead for every incoming attack; focus one Jad and control its healers.",
+        "Kill all six without letting damage actions distract you from the next prayer switch."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/The_VI_Jad_Challenge",
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak's_Challenges"
+      ]
+    },
+    {
+      "id": 364,
+      "name": "TzHaar-Ket-Rak's Speed-Trialist",
+      "activity": "TzHaar-Ket-Rak's Challenges",
+      "steps": [
+        "Select the first challenge with boosts and specials ready before the fight.",
+        "Attack the single Jad continuously between prayer switches and control healers promptly.",
+        "Complete the challenge in less than 45 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak%27s_Speed-Trialist",
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak's_Challenges"
+      ]
+    },
+    {
+      "id": 365,
+      "name": "TzHaar-Ket-Rak's Speed-Chaser",
+      "activity": "TzHaar-Ket-Rak's Challenges",
+      "steps": [
+        "Select the third TzHaar-Ket-Rak challenge with boosts and supplies ready.",
+        "Track the three Jads' staggered attacks while focusing one down and handling its healers.",
+        "Finish the challenge in less than 3 minutes; prayer switches must continue during damage actions."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak%27s_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak's_Challenges"
+      ]
+    },
+    {
+      "id": 366,
+      "name": "TzHaar-Ket-Rak's Speed-Runner",
+      "activity": "TzHaar-Ket-Rak's Challenges",
+      "steps": [
+        "Start the fifth challenge and prepare to follow five staggered Jad attack animations.",
+        "Focus one Jad at a time, control its healers and keep damage going between overhead switches.",
+        "Complete the challenge in less than 5 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak%27s_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak's_Challenges"
+      ]
+    },
+    {
+      "id": 367,
+      "name": "Facing Jad Head-on III",
+      "activity": "TzHaar-Ket-Rak's Challenges",
+      "steps": [
+        "Select the second challenge with melee weapons only for damaging the Jads.",
+        "Position next to your target while still reading both Jads' attack animations and switching prayers.",
+        "Finish both with melee; do not use a ranged/magic switch to pull healers by habit."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Facing_Jad_Head-on_III",
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak's_Challenges"
+      ]
+    },
+    {
+      "id": 368,
+      "name": "Facing Jad Head-on IV",
+      "activity": "TzHaar-Ket-Rak's Challenges",
+      "steps": [
+        "Enter the fourth challenge with a melee-only damage setup.",
+        "Move into melee reach of one Jad at a time and protect correctly against the four staggered attack animations.",
+        "Kill all four using only melee while handling healers without forbidden attacks."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Facing_Jad_Head-on_IV",
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak's_Challenges"
+      ]
+    },
+    {
+      "id": 369,
+      "name": "Supplies? Who Needs 'em?",
+      "activity": "TzHaar-Ket-Rak's Challenges",
+      "steps": [
+        "Equip your weapon, armour and any required ammunition, then empty every inventory slot before the third challenge.",
+        "Do not pick up or carry supplies during the fight.",
+        "Defeat the three Jads by maintaining protection prayers and using your equipped setup; inventory food or a spare weapon fails the restriction."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Supplies%3F_Who_Needs_%27em%3F",
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak's_Challenges"
+      ]
+    },
+    {
+      "id": 370,
+      "name": "It Wasn't a Fluke",
+      "activity": "TzHaar-Ket-Rak's Challenges",
+      "steps": [
+        "Prepare for both the fifth and sixth Jad challenges before beginning the sequence.",
+        "Complete challenge five, then challenge six without a failed attempt between them.",
+        "Continue tracking staggered attacks and handling healers in both fights; one successful challenge by itself is insufficient."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/It_Wasn%27t_a_Fluke",
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak's_Challenges"
+      ]
+    },
+    {
+      "id": 371,
+      "name": "Multi-Style Specialist",
+      "activity": "TzHaar-Ket-Rak's Challenges",
+      "steps": [
+        "Bring melee, ranged and magic weapons into the third challenge and assign one style to each Jad.",
+        "Damage the first Jad only with its assigned style, then change styles for each remaining Jad.",
+        "Complete all three with a different style per Jad while maintaining the overhead prayer sequence."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Multi-Style_Specialist",
+        "https://oldschool.runescape.wiki/w/TzHaar-Ket-Rak's_Challenges"
+      ]
+    },
+    {
+      "id": 372,
+      "name": "Stop Right There!",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "Enter Hard Mode Theatre and assign someone to kill Maiden's bloodspawns promptly.",
+        "Prioritise those bloodspawns before they leave repeated trails; continue controlling the healing Matomenos.",
+        "Finish Maiden with no more than 15 blood trails created; leaving spawns alive loses the allowance quickly."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Stop_Right_There%21",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 373,
+      "name": "Personal Space",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "Start Hard Mode Bloat with at least three people in the room and assign separate movement lanes/attack tiles.",
+        "Keep checking teammate positions while following Bloat and dodging debris.",
+        "Finish with nobody standing on another player at any point, including shutdown attack windows."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Personal_Space",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 374,
+      "name": "Royal Affairs",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "In Hard Mode Nylocas, prepare the effective attack style as each Prinkipas appears.",
+        "Have the team focus it immediately and kill it before its first style change.",
+        "Repeat for every Prinkipas before finishing the room; switching after it changes does not rescue the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Royal_Affairs",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 375,
+      "name": "Harder Mode I",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "Agree that every Sotetseg ball target handles the ball alone; keep other players away and prepare timed healing.",
+        "Protect correctly against all other attacks and follow every maze tile accurately.",
+        "Finish Hard Mode Sotetseg with no shared balls, deaths, other attack damage or incorrect maze steps by anyone."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Harder_Mode_I",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 376,
+      "name": "Harder Mode II",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "In Hard Mode Xarpus, leave the exhumeds uncovered until they heal him all the way to full health.",
+        "After that, dodge all poison attacks and stop attacking whenever he looks toward you.",
+        "Finish the fight without anyone taking damage; preventing his initial healing fails this task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Harder_Mode_II",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 377,
+      "name": "Nylo Sniper",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "In Hard Mode Verzik, have everyone keep clear of approaching Nylocas and attack them from a safe distance.",
+        "Avoid walking next to one while moving between boss attacks or specials.",
+        "Finish Verzik without any teammate triggering a Nylocas explosion by proximity."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nylo_Sniper",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 378,
+      "name": "Team Work Makes the Dream Work",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "Keep at least two players alive until Hard Mode Verzik uses a yellow power blast while tornadoes are active.",
+        "Have every player reach a safe yellow position while keeping clear of their chasing tornado.",
+        "Everyone must survive that blast without damage; attempting it with only one survivor does not qualify."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Team_Work_Makes_the_Dream_Work",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 379,
+      "name": "Harder Mode III",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "Tell the entire team to switch to ranged or magic before Hard Mode Verzik enters phase three.",
+        "Never attack her with a melee weapon during that phase, including weapon specials.",
+        "Handle webs, yellows and tornadoes while finishing the fight with allowed styles."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Harder_Mode_III",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 380,
+      "name": "Pack Like a Yak",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "Pack supplies for the entire Hard Mode Theatre raid and tell everyone to avoid purchasing from any supply chest.",
+        "Handle each room cleanly with no deaths and keep transitions/preparation quick.",
+        "Finish inside the displayed challenge time with zero purchases and zero deaths by the whole team."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pack_Like_a_Yak",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 381,
+      "name": "Hard Mode? Completed It",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "Start Hard Mode Theatre and check the challenge time for the chosen team scale.",
+        "Assign room responsibilities and keep boss damage and room transitions efficient.",
+        "Complete the raid within that challenge time; the relevant target depends on scale."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hard_Mode%3F_Completed_It",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 382,
+      "name": "Theatre: HM (Trio) Speed-Runner",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "Form a trio for Hard Mode Theatre with rehearsed add, maze and Verzik roles.",
+        "Maintain damage in safe windows and minimise idle time between rooms.",
+        "Finish with an overall time under 23 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre%3A_HM_%28Trio%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 383,
+      "name": "Theatre: HM (4-Scale) Speed-Runner",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "Enter Hard Mode Theatre with four players and agree room responsibilities before starting.",
+        "Coordinate specials and add control, then move promptly after each room.",
+        "Complete the raid with an overall time under 21 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre%3A_HM_%284-Scale%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 384,
+      "name": "Theatre: HM (5-Scale) Speed-Runner",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "Prepare a five-player Hard Mode Theatre team and efficient plans for all six rooms.",
+        "Keep damage windows busy and eliminate delays from adds, healing mechanics and transitions.",
+        "Finish with an overall time under 19 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre%3A_HM_%285-Scale%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 385,
+      "name": "Theatre of Blood: HM Grandmaster",
+      "activity": "Theatre of Blood: Hard Mode",
+      "steps": [
+        "Enter Hard Mode Theatre with supplies and a team prepared for its additional room mechanics.",
+        "Complete all six rooms and defeat Verzik before leaving.",
+        "Accumulate 50 Hard Mode completions; normal and Entry Mode runs do not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_HM_Grandmaster",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Hard_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 386,
+      "name": "Anticoagulants",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "Start Entry Mode Maiden and watch for each bloodspawn appearing in the arena.",
+        "Stop boss damage when necessary and kill each spawn immediately.",
+        "Defeat Maiden without any bloodspawn surviving longer than 10 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Anticoagulants",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 387,
+      "name": "Appropriate Tools",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "Have every teammate equip a salve amulet before entering Entry Mode Bloat.",
+        "Keep the amulet equipped while following him safely and attacking during shutdowns.",
+        "Finish Bloat with every teammate meeting the equipment condition."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Appropriate_Tools",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 388,
+      "name": "They Won't Expect This",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "After Entry Mode Maiden, walk around to Bloat's opposite entrance before entering his room.",
+        "Enter from that far side rather than the normal forward entrance.",
+        "Check Bloat's position first so the alternate entry does not put you directly in his sight."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies",
+        "https://oldschool.runescape.wiki/w/They_Won%27t_Expect_This"
+      ]
+    },
+    {
+      "id": 389,
+      "name": "Chally Time",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "Bring a halberd with a damaging special and save enough special-attack energy.",
+        "Lower Entry Mode Bloat's health during shutdowns, then stop ordinary attacks.",
+        "Use the halberd special as your final attack; do not let another hit or passive damage finish him first."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chally_Time",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 390,
+      "name": "Nylocas, On the Rocks",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "Bring Ice Barrage runes on Ancient Magicks to Entry Mode Nylocas.",
+        "Wait for four Nylocas close enough to fit within one spell's area, then target the group.",
+        "Freeze all four with that single cast; separate casts or a lower ice spell do not satisfy the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nylocas%2C_On_the_Rocks",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 391,
+      "name": "Just To Be Safe",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "Enter Entry Mode Sotetseg with at least two players and agree a shared-ball meeting tile.",
+        "When the big ball comes, have the entire team group together so everyone shares its damage.",
+        "Survive that shared ball and finish Sotetseg; leaving even one teammate out misses the condition."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Just_To_Be_Safe",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 392,
+      "name": "Don't Look at Me!",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "During Entry Mode Xarpus's final phase, watch the direction he looks before attacking.",
+        "Stop attacking immediately when he turns toward you, and resume only while he looks elsewhere.",
+        "Everyone must avoid reflected damage throughout the kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Don%27t_Look_at_Me%21",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 393,
+      "name": "No-Pillar",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "Use Dawnbringer in Entry Mode Verzik's pillar phase while sheltering safely from her attacks.",
+        "Rotate protection between pillars before one loses its remaining health, and keep phase-one damage going.",
+        "Finish the pillar phase without any pillar being destroyed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/No-Pillar",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 394,
+      "name": "Attack, Step, Wait",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "During Entry Mode Verzik phase two, attack and step back out of her bounce range before her next attack.",
+        "Keep the movement rhythm even while handling Nylocas and lightning.",
+        "Everyone must survive that phase without being bounced; standing adjacent after an attack is the usual failure."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Attack%2C_Step%2C_Wait",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 395,
+      "name": "Pass It On",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "Run Entry Mode Verzik with a teammate and agree who will receive the green ball.",
+        "When targeted, move close enough to that teammate to pass the ball, then separate as needed.",
+        "Make one successful transfer rather than trying to tank it alone."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Pass_It_On",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 396,
+      "name": "Theatre of Blood: SM Speed-Chaser",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "Start Entry Mode Theatre with efficient style switches and a room plan.",
+        "Kill healing/priority adds promptly, use Bloat shutdowns and move quickly between encounters.",
+        "Complete the whole raid in less than 17 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_SM_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 397,
+      "name": "Theatre of Blood: SM Adept",
+      "activity": "Theatre of Blood: Entry Mode",
+      "steps": [
+        "Select Entry Mode Theatre and bring all three attack styles plus healing supplies.",
+        "Complete Maiden, Bloat, Nylocas, Sotetseg and Xarpus, then defeat Verzik's three phases.",
+        "Finish the raid once; leaving before Verzik dies does not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_Entry_Mode",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood%3A_SM_Adept",
+        "https://oldschool.runescape.wiki/w/Theatre_of_Blood/Strategies"
+      ]
+    },
+    {
+      "id": 398,
+      "name": "Into the Den of Giants",
+      "activity": "Giants",
+      "steps": [
+        "Enter the Giants' Den cave in Shayzien; bring a combat weapon and food.",
+        "Kill one Hill Giant, one Moss Giant and one Fire Giant inside that same cave.",
+        "Giants killed elsewhere do not satisfy this location-specific task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Giants",
+        "https://oldschool.runescape.wiki/w/Into_the_Den_of_Giants"
+      ]
+    },
+    {
+      "id": 399,
+      "name": "Sit Back and Relax",
+      "activity": "Other: Sit Back and Relax",
+      "steps": [
+        "Use the Arceuus spellbook with a Book of the dead and runes for a resurrection spell.",
+        "Summon a thrall while fighting an NPC and allow it to attack your target.",
+        "Deal 100 total damage through undead thralls, resummoning after expiry; your own weapon damage does not count toward that total."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Sit_Back_and_Relax",
+        "https://oldschool.runescape.wiki/w/Special:Search?search=Sit+Back+and+Relax"
+      ]
+    },
+    {
+      "id": 400,
+      "name": "Phosani's Veteran",
+      "activity": "Phosani's Nightmare",
+      "steps": [
+        "Prepare melee boss damage, magic for totems and a parasite-weakening supply such as a Sanfew serum.",
+        "Match Phosani's attack animations with protection prayers, move clear of specials and remove husks/parasites quickly.",
+        "Charge the totems and handle sleepwalkers before finishing one kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phosani%27s_Veteran",
+        "https://oldschool.runescape.wiki/w/Phosani's_Nightmare"
+      ]
+    },
+    {
+      "id": 401,
+      "name": "Phosani's Master",
+      "activity": "Phosani's Nightmare",
+      "steps": [
+        "Bring melee and magic switches plus supplies to weaken parasites and restore prayer.",
+        "Avoid spores, handle husks/parasites and change protection prayers promptly through each phase.",
+        "Accumulate five Phosani kills; separate visits are allowed for this count task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phosani%27s_Master",
+        "https://oldschool.runescape.wiki/w/Phosani's_Nightmare"
+      ]
+    },
+    {
+      "id": 402,
+      "name": "Phosani's Grandmaster",
+      "activity": "Phosani's Nightmare",
+      "steps": [
+        "Use a consistent Phosani setup with melee for the boss, magic for totems and parasite-weakening supplies.",
+        "Prioritise correct prayers and dangerous adds so kills remain sustainable.",
+        "Reach 25 total kills, banking between attempts when needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phosani%27s_Grandmaster",
+        "https://oldschool.runescape.wiki/w/Phosani's_Nightmare"
+      ]
+    },
+    {
+      "id": 403,
+      "name": "Perfect Phosani's Nightmare",
+      "activity": "Phosani's Nightmare",
+      "steps": [
+        "Weaken parasites and protect correctly against boss attacks; move clear of every avoidable special.",
+        "Stay clear of spores so they never slow your attacks, and kill sleepwalkers before they reach Phosani.",
+        "Finish with damage only from husks, power blasts and weakened parasites; any other damage fails the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Phosani%27s_Nightmare",
+        "https://oldschool.runescape.wiki/w/Phosani's_Nightmare"
+      ]
+    },
+    {
+      "id": 404,
+      "name": "Phosani's Speedchaser",
+      "activity": "Phosani's Nightmare",
+      "steps": [
+        "Prepare boosts and efficient melee/magic switches before entering Phosani's dream.",
+        "Keep boss and totem damage going while removing priority adds; avoid spores that slow attacks.",
+        "Finish within 7 minutes 30 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phosani%27s_Speedchaser",
+        "https://oldschool.runescape.wiki/w/Phosani's_Nightmare"
+      ]
+    },
+    {
+      "id": 405,
+      "name": "Phosani's Speedrunner",
+      "activity": "Phosani's Nightmare",
+      "steps": [
+        "Use a practised Phosani route with quick boss/totem switches and boosts ready.",
+        "Avoid spores and handle parasites, husks and sleepwalkers promptly without losing attack opportunities.",
+        "Finish within 6 minutes; unnecessary add delays or slow totem charging can cost the target."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Phosani%27s_Speedrunner",
+        "https://oldschool.runescape.wiki/w/Phosani's_Nightmare"
+      ]
+    },
+    {
+      "id": 406,
+      "name": "Crush Hour",
+      "activity": "Phosani's Nightmare",
+      "steps": [
+        "Bring a crush setup capable of one-hitting the husks and weakened parasites, plus a Sanfew serum or other parasite-weakening supply.",
+        "Weaken each parasite before it emerges and kill every husk and parasite with one hit.",
+        "Keep lower-damage attacks and thralls from damaging those adds first; any add needing a second hit fails the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crush_Hour",
+        "https://oldschool.runescape.wiki/w/Phosani's_Nightmare"
+      ]
+    },
+    {
+      "id": 407,
+      "name": "I Would Simply React",
+      "activity": "Phosani's Nightmare",
+      "steps": [
+        "In Phosani's prayer-disabling phase, react to the attack animation before switching to the required protection prayer.",
+        "Avoid leaving the correct protection active early where her attack can disable it.",
+        "Finish the kill without your prayer ever being disabled; reactivating it afterward does not undo a failure."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/I_Would_Simply_React",
+        "https://oldschool.runescape.wiki/w/Phosani's_Nightmare"
+      ]
+    },
+    {
+      "id": 408,
+      "name": "Dreamland Express",
+      "activity": "Phosani's Nightmare",
+      "steps": [
+        "Keep a quick weapon ready as Phosani enters her final desperation phase.",
+        "Prioritise every spawned sleepwalker immediately and kill it before it reaches her.",
+        "Continue attacking Phosani between walker spawns and finish with none reaching her in that phase."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dreamland_Express",
+        "https://oldschool.runescape.wiki/w/Phosani's_Nightmare"
+      ]
+    },
+    {
+      "id": 409,
+      "name": "Can't Wake Up",
+      "activity": "Phosani's Nightmare",
+      "steps": [
+        "Pack prayer restoration, parasite-weakening supplies and healing for five kills before entering Phosani's dream.",
+        "Conserve supplies through clean prayers/movement and use useful supply drops without exiting.",
+        "Complete five consecutive kills while remaining in the dream; leaving to bank breaks the sequence."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Can%27t_Wake_Up",
+        "https://oldschool.runescape.wiki/w/Phosani's_Nightmare"
+      ]
+    },
+    {
+      "id": 410,
+      "name": "Nex Veteran",
+      "activity": "Nex",
+      "steps": [
+        "Enter Nex with a team and supplies for all five phases.",
+        "Follow her phase cues, kill the named minion when it becomes vulnerable and dodge the special attacks.",
+        "Deal enough damage for kill-credit and finish one Nex kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nex",
+        "https://oldschool.runescape.wiki/w/Nex_Veteran"
+      ]
+    },
+    {
+      "id": 411,
+      "name": "Nex Master",
+      "activity": "Nex",
+      "steps": [
+        "Prepare a consistent Nex team, effective ranged/melee weapons and sufficient healing/prayer supplies.",
+        "Follow phase changes and minion calls while avoiding dashes, shadows, blood healing and ice specials.",
+        "Accumulate 25 credited kills, banking between trips as needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nex",
+        "https://oldschool.runescape.wiki/w/Nex_Master"
+      ]
+    },
+    {
+      "id": 412,
+      "name": "Nex Survivors",
+      "activity": "Nex",
+      "steps": [
+        "Agree safe Nex roles and keep every player supplied and healthy through all phases.",
+        "Move out of dashes/shadows, handle blood and ice mechanics, and kill vulnerable minions promptly.",
+        "Finish with nobody dying; one teammate's death fails the whole team condition."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nex",
+        "https://oldschool.runescape.wiki/w/Nex_Survivors"
+      ]
+    },
+    {
+      "id": 413,
+      "name": "A siphon will solve this",
+      "activity": "Nex",
+      "steps": [
+        "When Nex begins Blood Siphon, stop attacking her until the healing period ends.",
+        "Kill blood reavers before a later siphon can heal her from their remaining health.",
+        "Resume damage only after the siphon and finish the kill without it restoring any Nex health."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_siphon_will_solve_this",
+        "https://oldschool.runescape.wiki/w/Nex"
+      ]
+    },
+    {
+      "id": 414,
+      "name": "Contain this!",
+      "activity": "Nex",
+      "steps": [
+        "During Nex's ice phase, move outside the containment icicles before they erupt.",
+        "Free an imprisoned teammate by breaking an icicle and have them escape before the prison detonates.",
+        "Finish with no player taking damage from any ice special; tanking a prison blast does not qualify."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Contain_this%21",
+        "https://oldschool.runescape.wiki/w/Nex"
+      ]
+    },
+    {
+      "id": 415,
+      "name": "There is no escape!",
+      "activity": "Nex",
+      "steps": [
+        "Watch Nex's facing and the Smoke Dash cue during her smoke phase.",
+        "Move every player out of the aisle she is about to charge through.",
+        "Finish the kill without anyone being hit by a dash; being protected from ordinary attacks is insufficient."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nex",
+        "https://oldschool.runescape.wiki/w/There_is_no_escape%21"
+      ]
+    },
+    {
+      "id": 416,
+      "name": "Nex Trio",
+      "activity": "Nex",
+      "steps": [
+        "Start the Nex fight with no more than three players present.",
+        "Coordinate minion switches and mechanics carefully so the small team preserves its supplies.",
+        "Finish the kill at that qualifying starting scale; starting with four then losing a player does not qualify."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nex",
+        "https://oldschool.runescape.wiki/w/Nex_Trio"
+      ]
+    },
+    {
+      "id": 417,
+      "name": "Nex Duo",
+      "activity": "Nex",
+      "steps": [
+        "Start Nex with no more than two players and supplies for a long fight.",
+        "Coordinate damage, minion priority and ice-prison rescues while avoiding her other specials.",
+        "Finish the kill with the starting-scale restriction met; deaths after a larger start do not make it a duo attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nex",
+        "https://oldschool.runescape.wiki/w/Nex_Duo"
+      ]
+    },
+    {
+      "id": 418,
+      "name": "I should see a doctor",
+      "activity": "Nex",
+      "steps": [
+        "Have a player acquire Nex's coughing infection during the smoke phase.",
+        "Track that player's cough status through the fight and avoid finishing while nobody is coughing.",
+        "Kill Nex while at least one player is still coughing."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/I_should_see_a_doctor",
+        "https://oldschool.runescape.wiki/w/Nex"
+      ]
+    },
+    {
+      "id": 419,
+      "name": "Perfect Nex",
+      "activity": "Nex",
+      "steps": [
+        "Keep every teammate outside Nex's Smoke Dash route and move off Shadow Smash markers.",
+        "Stop damage during Blood Siphon and remove reavers before they heal her.",
+        "Avoid containment and rescue ice-prison targets before damage; complete all four conditions together in one Nex kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nex",
+        "https://oldschool.runescape.wiki/w/Perfect_Nex"
+      ]
+    },
+    {
+      "id": 420,
+      "name": "Shadows Move...",
+      "activity": "Nex",
+      "steps": [
+        "Watch for Shadow Smash markers under players during Nex's shadow phase.",
+        "Move off each marked tile before it erupts and avoid moving onto another player's marker.",
+        "Finish with no teammate hit by Shadow Smash."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nex",
+        "https://oldschool.runescape.wiki/w/Shadows_Move..."
+      ]
+    },
+    {
+      "id": 421,
+      "name": "Tombs Speed Runner",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Choose normal Tombs of Amascut raid level 150-299 and prepare a quick path order for your chosen team size.",
+        "Keep puzzle time and boss transitions short, and use safe damage windows efficiently.",
+        "Complete the full normal raid within 18 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tombs_Speed_Runner",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 422,
+      "name": "Tombs Speed Runner II",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Set invocations to Expert Mode, raid level at least 300, and choose a route your team can execute quickly.",
+        "Assign puzzle jobs and keep boss damage going without delays from failed mechanics.",
+        "Complete the expert raid within 20 minutes at the chosen group size."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tombs_Speed_Runner_II",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 423,
+      "name": "Tombs Speed Runner III",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Form an eight-player team and set an Expert Mode raid level of at least 300.",
+        "Assign puzzle, add and boss responsibilities so all eight contribute without waiting.",
+        "Complete the expert raid within 18 minutes with the required group size."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tombs_Speed_Runner_III",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 424,
+      "name": "You are not prepared",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Remove outside consumable supplies before entering Tombs; plan to use only supplies obtained inside the raid.",
+        "Manage health carefully before the Helpful Spirit and share internal supplies as needed.",
+        "Complete the whole raid with no deaths and nobody consuming outside supplies."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies",
+        "https://oldschool.runescape.wiki/w/You_are_not_prepared"
+      ]
+    },
+    {
+      "id": 425,
+      "name": "Helpful spirit who?",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Bring enough of your own supplies for the entire Tombs raid.",
+        "Do not use Helpful Spirit supplies or honey locusts, even in an emergency.",
+        "Finish with no deaths anywhere; consuming a restricted supply or one teammate dying fails the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Helpful_spirit_who%3F",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 426,
+      "name": "Resourceful Raider",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Enable On a diet and Dehydration and enter an Expert raid at level 300 or above.",
+        "Bring permitted healing: a blood fury for melee sustain and, if available, a sun-Keris, Saradomin godsword or toxic blowpipe healing special.",
+        "Pack prayer potions or super restores; reserve Prayer for sun-Keris healing and choose Power supplies instead of nectar or ambrosia.",
+        "Complete the raid without any player dying; food and HP-restoring potions cannot be used."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Resourceful_Raider",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 427,
+      "name": "But... Damage",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Check every party member's equipment and switches; exclude any item at tier 75 or above.",
+        "Use qualifying lower-tier weapons and armour throughout every room, including special-attack switches.",
+        "Complete the raid without anyone wearing or holding forbidden equipment at any point."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/But..._Damage",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 428,
+      "name": "Chompington",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Use melee attacks only against Zebak; remove ranged/magic damage and thralls from your plan.",
+        "Change protection prayers for his ranged/magic projectiles, dodge waves and blood, and shelter behind a cleared rock during roars.",
+        "Finish Zebak without dying; his basic attacks do not all use one style."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chompington",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 429,
+      "name": "Fancy feet",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Enter with at least two players and activate Insanity before the raid.",
+        "During Wardens phase three, attack only with melee while moving to the safe left/right/centre lanes and clearing skulls.",
+        "Remember Insanity resumes the slam sequence after skulls; continue through enrage without dying or using forbidden attacks."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fancy_feet",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 430,
+      "name": "Hardcore Raiders",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Start Tombs with at least two players and agree safe path and boss roles.",
+        "Top up health/prayer between rooms and handle specials before pursuing extra damage.",
+        "Complete the entire raid with no death by anyone; recovering from a wipe still fails this task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hardcore_Raiders",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 431,
+      "name": "Hardcore Tombs",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Start Tombs alone with supplies and an invocation setup you can complete reliably.",
+        "Handle every path and Wardens without rushing low-health situations.",
+        "Complete the solo raid without dying anywhere."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hardcore_Tombs",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 432,
+      "name": "Perfect Het",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Set the Het mirrors so the light reaches the shielded core while keeping yourself out of the beam and moving orbs.",
+        "Have a pickaxe ready and mine the core immediately after its first exposure.",
+        "Destroy it in that single exposure with no beam or orb damage taken."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Het",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 433,
+      "name": "Perfect Akkha",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Start Akkha with at least two players and all Akkha invocations enabled.",
+        "Match weapons to his unprotected style and overheads to his attacks; clear shadows before their timers explode.",
+        "Have everyone avoid memory, detonate and orb damage, including enrage orbs, and never hit him with a wrong style."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Akkha",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 434,
+      "name": "Perfection of Het",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Use a group of at least two and all Akkha invocations for this combined Het/Akkha attempt.",
+        "Solve Het with no beam/orb damage and destroy the core on its first exposure.",
+        "At Akkha, keep every player's style/prayer correct, clear shadow timers and avoid all special/enrage orbs in the same raid."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfection_of_Het",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 435,
+      "name": "Perfect Apmeken",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Enter Apmeken with at least two players and divide baboon styles and danger-response jobs.",
+        "Act on vent, pillar and corruption calls before they trigger; keep clear of venom and volatile baboons.",
+        "Complete the room in less than three minutes with none of those failures by anyone."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Apmeken",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 436,
+      "name": "Perfect Ba-Ba",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Start Ba-Ba with at least two players and every Ba-Ba invocation active; leave all sarcophagi closed.",
+        "Use the correct protection for ordinary attacks and move out of slams and falling-rock markers.",
+        "Handle rubble safely and break/pass rolling boulders without anyone taking listed damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Ba-Ba",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 437,
+      "name": "Perfection of Apmeken",
+      "activity": "Tombs of Amascut: Expert Mode",
+      "steps": [
+        "Use at least two players and all Ba-Ba invocations for this combined Apmeken/Ba-Ba run.",
+        "Clear Apmeken by responding to every danger and avoiding venom and volatile baboons; this combined task has no three-minute room limit.",
+        "Leave sarcophagi closed and complete Ba-Ba with correct protection and no slam, boulder, rubble or falling-rock damage by anyone.",
+        "Complete both clean rooms during the same raid; they do not need to be consecutive."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfection_of_Apmeken",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut%3A_Expert_Mode",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 438,
+      "name": "Perfect Crondis",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Plan the Crondis water route and assign someone to kill crocodiles before they reach the tree.",
+        "Fill containers, move around the room's obstacles without spilling water, and deliver each load promptly.",
+        "Complete the room in under one minute with no crocodile reaching the tree and nobody losing carried water."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Crondis",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    },
+    {
+      "id": 439,
+      "name": "Perfect Zebak",
+      "activity": "Tombs of Amascut",
+      "steps": [
+        "Enable every Zebak invocation before entry and have everyone protect against his ranged/magic projectiles.",
+        "Avoid poison, blood spawns and waves; use safe rocks for roar cover.",
+        "Push no more than two jugs over the entire fight; destroy stationary ones when needed and finish with no listed damage by anyone."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Zebak",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut",
+        "https://oldschool.runescape.wiki/w/Tombs_of_Amascut/Strategies"
+      ]
+    }
+  ]
+}

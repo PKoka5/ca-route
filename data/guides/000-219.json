@@ -1,0 +1,2879 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "2026-10-04",
+  "tasks": [
+    {
+      "id": 0,
+      "name": "Noxious Foe",
+      "activity": "Aberrant Spectre",
+      "steps": [
+        "Equip a nose peg or Slayer helmet before attacking an Aberrant Spectre.",
+        "Use Protect from Magic and kill one spectre in the Slayer Tower. Keep the protective headgear equipped."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Aberrant_Spectre",
+        "https://oldschool.runescape.wiki/w/Noxious_Foe"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Abyssal Adept",
+      "activity": "Abyssal Sire",
+      "steps": [
+        "Stun the Sire with a shadow spell, destroy its respiratory systems, then fight the boss while avoiding pools and the explosion.",
+        "Repeat until you have 20 kills. Restock between trips; these kills do not need to be consecutive."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Abyssal_Adept",
+        "https://oldschool.runescape.wiki/w/Abyssal_Sire"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Abyssal Veteran",
+      "activity": "Abyssal Sire",
+      "steps": [
+        "Use shadow spells for the respiratory phase; destroy all systems before fighting the Sire itself. Move away from pools and its explosion.",
+        "Repeat until you have 50 kills, banking whenever food, prayer or runes run low."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Abyssal_Sire",
+        "https://oldschool.runescape.wiki/w/Abyssal_Veteran"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "They Grow Up Too Fast",
+      "activity": "Abyssal Sire",
+      "steps": [
+        "Complete the respiratory phase, then kill each summoned Spawn promptly instead of ignoring the adds.",
+        "Keep clearing new Spawns before they mature into Scions, and finish the Sire without letting any mature."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Abyssal_Sire",
+        "https://oldschool.runescape.wiki/w/They_Grow_Up_Too_Fast"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Respiratory Runner",
+      "activity": "Abyssal Sire",
+      "steps": [
+        "Prepare your respiratory-system weapon and position before stunning the Sire.",
+        "Stun once, then destroy every respiratory system during that stun. Finish the kill without casting another stun."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Abyssal_Sire",
+        "https://oldschool.runescape.wiki/w/Respiratory_Runner"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Don't Whip Me",
+      "activity": "Abyssal Sire",
+      "steps": [
+        "Stun the Sire before attacking its respiratory systems and attack them from outside tentacle reach.",
+        "Keep away from the external tentacles throughout the kill. Protection prayer does not make a tentacle hit acceptable."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Abyssal_Sire",
+        "https://oldschool.runescape.wiki/w/Don%27t_Whip_Me"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Demonic Rebound",
+      "activity": "Abyssal Sire",
+      "steps": [
+        "Bring Vengeance runes on the Lunar spellbook and keep enough Hitpoints to survive the explosion.",
+        "Cast Vengeance for the Sire explosion, deliberately survive the hit, and let the reflected damage strike the Sire."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Abyssal_Sire",
+        "https://oldschool.runescape.wiki/w/Demonic_Rebound"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Don't Stop Moving",
+      "activity": "Abyssal Sire",
+      "steps": [
+        "Keep run energy available for the later phases and move as a miasma pool appears beneath you.",
+        "Continue attacking from clear tiles until the Sire dies; do not cross an active pool to regain attack range."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Abyssal_Sire",
+        "https://oldschool.runescape.wiki/w/Don%27t_Stop_Moving"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Perfect Sire",
+      "activity": "Abyssal Sire",
+      "steps": [
+        "Stun before clearing respiratory systems; stay outside external tentacle reach and use the correct protection prayer against the Sire.",
+        "Move off miasma pools immediately and retreat from the explosion. Finish without damage from any listed mechanic."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Abyssal_Sire",
+        "https://oldschool.runescape.wiki/w/Perfect_Sire"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kree'arra Adept",
+      "activity": "Kree'arra",
+      "steps": [
+        "Bring Ranged equipment, prayer restoration and food. Use Protect from Missiles while fighting Kree'arra.",
+        "Clear the bodyguards between kills and repeat until 50 kills. Bank when supplies run low."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kree%27arra_Adept",
+        "https://oldschool.runescape.wiki/w/Kree'arra"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Kree'arra Veteran",
+      "activity": "Kree'arra",
+      "steps": [
+        "Use a repeatable Ranged method with Protect from Missiles and enough ammunition, food and prayer restoration.",
+        "Clear bodyguards after each kill and restock between trips until you reach 100 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kree%27arra_Veteran",
+        "https://oldschool.runescape.wiki/w/Kree'arra"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Collateral Damage",
+      "activity": "Kree'arra",
+      "steps": [
+        "Enter a private instance with chinchompas and position a bodyguard beside Kree'arra.",
+        "Attack the bodyguard so the chinchompa explosions also damage Kree'arra. Never directly attack Kree'arra during this kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chinchompa_(weapon)",
+        "https://oldschool.runescape.wiki/w/Collateral_Damage",
+        "https://oldschool.runescape.wiki/w/Kree'arra"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Airborne Showdown",
+      "activity": "Kree'arra",
+      "steps": [
+        "Lower Kree'arra's health, then stop damaging him while you kill Flight Kilisa, Flockleader Geerin and Wingman Skree.",
+        "Finish Kree'arra while all three bodyguards are still dead; check that none has respawned before your final hit."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Airborne_Showdown",
+        "https://oldschool.runescape.wiki/w/Kree'arra"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Swoop No More",
+      "activity": "Kree'arra",
+      "steps": [
+        "Use a private instance, Ranged attacks and protection prayers; keep attacking Kree'arra while avoiding melee contact.",
+        "Deal with Flight Kilisa without taking a melee hit. Neither Kree'arra nor any bodyguard may deal melee damage to you."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kree'arra",
+        "https://oldschool.runescape.wiki/w/Swoop_No_More"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "The Worst Ranged Weapon",
+      "activity": "Kree'arra",
+      "steps": [
+        "Bring a salamander and its matching tar, plus food and prayer restoration for a slower kill.",
+        "Deal every hit on Kree'arra with the salamander. Disable recoil and do not use thralls or damaging special-attack switches."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kree'arra",
+        "https://oldschool.runescape.wiki/w/The_Worst_Ranged_Weapon"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Feather Hunter",
+      "activity": "Kree'arra",
+      "steps": [
+        "Enter a private instance with enough ammunition, food and prayer restoration for an extended trip.",
+        "Kill Kree'arra 30 times in that room, clearing bodyguards between kills. Do not leave to bank before kill 30."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Feather_Hunter",
+        "https://oldschool.runescape.wiki/w/Kree'arra"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "General Graardor Adept",
+      "activity": "General Graardor",
+      "steps": [
+        "Bring a reliable solo or team setup. Use Ranged kiting or a designated melee tank to control Graardor's melee attacks.",
+        "Clear the bodyguards between kills and bank as needed until you have 50 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/General_Graardor",
+        "https://oldschool.runescape.wiki/w/General_Graardor_Adept"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "General Graardor Veteran",
+      "activity": "General Graardor",
+      "steps": [
+        "Use a practised Ranged kiting method or a team with a designated tank; handle the bodyguards after every kill.",
+        "Restock when necessary and repeat until 100 kills. They can be spread across separate trips."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/General_Graardor",
+        "https://oldschool.runescape.wiki/w/General_Graardor_Veteran"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Ourg Freezer",
+      "activity": "General Graardor",
+      "steps": [
+        "Bring a binding or ice spell and lower Graardor's health before your final burst of damage.",
+        "Land an immobilizing spell, then finish Graardor before the immobilization ends."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/General_Graardor",
+        "https://oldschool.runescape.wiki/w/Ourg_Freezer"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Ourg Freezer II",
+      "activity": "General Graardor",
+      "steps": [
+        "Prepare a Ranged or Magic setup with immobilization and enough space to keep Graardor from reaching you.",
+        "Control his movement from the start and kill him without allowing an attack on any player. Damage blocked by prayer still does not satisfy the restriction."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/General_Graardor",
+        "https://oldschool.runescape.wiki/w/Ourg_Freezer_II"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "General Showdown",
+      "activity": "General Graardor",
+      "steps": [
+        "Lower Graardor's health, then stop hitting him and kill Sergeant Strongstack, Steelwill and Grimspike.",
+        "Land the final hit on Graardor while all three bodyguards are dead; do not assume they cannot respawn."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/General_Graardor",
+        "https://oldschool.runescape.wiki/w/General_Showdown"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Defence Matters",
+      "activity": "General Graardor",
+      "steps": [
+        "Enter a private instance and use positioning and appropriate protection prayers to prevent all bodyguard damage.",
+        "Complete two consecutive Graardor kills in that instance, including safe cleanup of the bodyguards. Do not leave between kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Defence_Matters",
+        "https://oldschool.runescape.wiki/w/General_Graardor"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Keep Away",
+      "activity": "General Graardor",
+      "steps": [
+        "Use a private instance and a practised kiting or immobilization method to keep Graardor away.",
+        "Control all three bodyguards as well as the boss. Any damage from either the boss or a bodyguard invalidates the attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/General_Graardor",
+        "https://oldschool.runescape.wiki/w/Keep_Away"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Ourg Killer",
+      "activity": "General Graardor",
+      "steps": [
+        "Prepare food, prayer restoration, ammunition or runes for 15 kills before entering a private instance.",
+        "Use your repeatable Graardor method, clean up bodyguards and stay inside through all 15 kills. Leaving to restock breaks the run."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/General_Graardor",
+        "https://oldschool.runescape.wiki/w/Ourg_Killer"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Barrows Novice",
+      "activity": "Barrows",
+      "steps": [
+        "Bring a spade and supplies; search the mounds, fight the brothers and find the mound that leads into the tunnels.",
+        "Reach and open the central chest, then begin another run. Open the chest 10 times in total."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Barrows",
+        "https://oldschool.runescape.wiki/w/Barrows_Novice"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Barrows Champion",
+      "activity": "Barrows",
+      "steps": [
+        "Use Magic against the melee brothers and appropriate protection prayers against Ahrim and Karil; conserve supplies between crypts.",
+        "Navigate the tunnels and open the central chest on each run until you have opened it 25 times."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Barrows",
+        "https://oldschool.runescape.wiki/w/Barrows_Champion"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Can't Touch Me",
+      "activity": "Barrows",
+      "steps": [
+        "Bring Ranged or Magic plus a binding spell, and fight Dharok, Verac, Torag and Guthan from outside melee reach.",
+        "Keep them immobilized or behind a safespot until they die. A melee attack attempt can fail the task even if prayer blocks its damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Barrows",
+        "https://oldschool.runescape.wiki/w/Can%27t_Touch_Me"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Pray for Success",
+      "activity": "Barrows",
+      "steps": [
+        "Kill all six brothers without damage: protect against Ahrim's Magic and Karil's Ranged, and keep melee brothers at distance.",
+        "Safespot or immobilize Verac rather than relying solely on prayer. After all six die, loot the chest without taking brother damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Barrows",
+        "https://oldschool.runescape.wiki/w/Pray_for_Success"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Defence? What Defence?",
+      "activity": "Barrows",
+      "steps": [
+        "Choose a brother and prepare spells or a charged powered staff before opening his sarcophagus.",
+        "Deal only magical damage to that brother until he dies. Remove recoil effects and do not use other damage styles."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Barrows",
+        "https://oldschool.runescape.wiki/w/Defence%3F_What_Defence%3F"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Just Like That",
+      "activity": "Barrows",
+      "steps": [
+        "Bring a damaging special-attack weapon and start with a full special-attack bar before opening Karil's sarcophagus.",
+        "Damage Karil only with special attacks. Stop attacking between specials so a normal attack cannot land; wait for energy if needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Barrows",
+        "https://oldschool.runescape.wiki/w/Just_Like_That"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Faithless Crypt Run",
+      "activity": "Barrows",
+      "steps": [
+        "Drain your Prayer to zero before starting and bring food, defensive gear and Ranged or Magic for the melee brothers.",
+        "Kill all six and loot the chest while Prayer remains zero throughout. Do not use prayer-restoring potions or gear effects."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Barrows",
+        "https://oldschool.runescape.wiki/w/Faithless_Crypt_Run"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Reflecting on This Encounter",
+      "activity": "Basilisk Knight",
+      "steps": [
+        "Equip a mirror shield or V's shield before entering combat in Jormungand's Prison.",
+        "Kill one Basilisk Knight with Melee or Ranged while protecting against Magic. Keep the protective shield equipped."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Basilisk_Knight",
+        "https://oldschool.runescape.wiki/w/Reflecting_on_This_Encounter"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Big, Black and Fiery",
+      "activity": "Black Dragon",
+      "steps": [
+        "Bring an anti-dragon shield and appropriate antifire protection to an adult black dragon location such as Taverley Dungeon.",
+        "Kill an adult black dragon; a baby black dragon does not satisfy the named target. Keep dragonfire protection active."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Big%2C_Black_and_Fiery",
+        "https://oldschool.runescape.wiki/w/Black_Dragon"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "The Demonic Punching Bag",
+      "activity": "Bloodveld",
+      "steps": [
+        "Find a Bloodveld in the Slayer Tower and prepare Protect from Melee or a Ranged safespot.",
+        "Kill one Bloodveld. Its attacks use Magic-based accuracy, but Protect from Melee is the relevant protection prayer."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bloodveld",
+        "https://oldschool.runescape.wiki/w/The_Demonic_Punching_Bag"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Brutal, Big, Black and Firey",
+      "activity": "Brutal Black Dragon",
+      "steps": [
+        "Go to the Brutal Black Dragons in the Catacombs with antifire protection, dragonfire protection and a Ranged weapon.",
+        "Use Protect from Magic and stay out of melee reach while killing one Brutal Black Dragon. Recheck protection before attacking."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Brutal%2C_Big%2C_Black_and_Firey",
+        "https://oldschool.runescape.wiki/w/Brutal_Black_Dragon"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Bryophyta Novice",
+      "activity": "Bryophyta",
+      "steps": [
+        "Bring a mossy key, an axe or secateurs, food and poison protection on a members world.",
+        "Weaken each growthling, then use the axe or secateurs on it. Defeat Bryophyta after the adds are cleared and open her chest."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bryophyta",
+        "https://oldschool.runescape.wiki/w/Bryophyta_Novice",
+        "https://oldschool.runescape.wiki/w/Growthling"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Bryophyta Champion",
+      "activity": "Bryophyta",
+      "steps": [
+        "Gather five mossy keys and bring an axe or secateurs for the growthlings.",
+        "Clear the growthlings by weakening and finishing them with the tool, kill Bryophyta and open her chest. Repeat for five chest openings."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bryophyta",
+        "https://oldschool.runescape.wiki/w/Bryophyta_Champion",
+        "https://oldschool.runescape.wiki/w/Growthling"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Protection from Moss",
+      "activity": "Bryophyta",
+      "steps": [
+        "Bring a mossy key, a growthling-finishing tool and prayer restoration.",
+        "Keep Protect from Magic active when Bryophyta dies. Clear growthlings as they appear and finish the boss before prayer runs out."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bryophyta",
+        "https://oldschool.runescape.wiki/w/Protection_from_Moss"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Quick Cutter",
+      "activity": "Bryophyta",
+      "steps": [
+        "Bring an axe or secateurs, wait for all three growthlings, and reduce each to finishing health without using the tool yet.",
+        "Use the tool on all three in quick succession; the last must die within 3 seconds of the first."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bryophyta",
+        "https://oldschool.runescape.wiki/w/Growthling",
+        "https://oldschool.runescape.wiki/w/Quick_Cutter"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Preparation Is Key",
+      "activity": "Bryophyta",
+      "steps": [
+        "Use a free-to-play world for a simple attempt: Bryophyta cannot poison you there. On a members world, activate poison protection before entering and keep it active.",
+        "Use Protect from Magic, weaken growthlings and use an axe or secateurs to finish them. Kill Bryophyta without taking any poison damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bryophyta",
+        "https://oldschool.runescape.wiki/w/Preparation_Is_Key"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "A Slow Death",
+      "activity": "Bryophyta",
+      "steps": [
+        "On a members world, bring a weapon that can poison or venom Bryophyta and clear her growthlings.",
+        "Apply poison or venom, lower her health, then stop direct attacks and disable other damage sources so a poison or venom tick finishes her."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Slow_Death",
+        "https://oldschool.runescape.wiki/w/Bryophyta"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Fighting as Intended II",
+      "activity": "Bryophyta",
+      "steps": [
+        "Hop to a free-to-play world and use only equipment and supplies that work there. Bring a mossy key and an axe.",
+        "Weaken and finish the growthlings with the axe, then defeat Bryophyta while remaining on that free-to-play world."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Bryophyta",
+        "https://oldschool.runescape.wiki/w/Fighting_as_Intended_II"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Callisto Adept",
+      "activity": "Callisto",
+      "steps": [
+        "Use a reliable Callisto setup with food and an escape plan; the approach and fight involve Wilderness PvP risk.",
+        "Avoid bear traps and keep protection prayers ready while killing Callisto. Restock between trips until 10 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Callisto",
+        "https://oldschool.runescape.wiki/w/Callisto_Adept"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Callisto Veteran",
+      "activity": "Callisto",
+      "steps": [
+        "Prepare a repeatable Callisto method and risk only gear you can afford to lose in the Wilderness.",
+        "Dodge bear traps, handle the boss's attacks and bank before supplies run out. Repeat until 20 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Callisto",
+        "https://oldschool.runescape.wiki/w/Callisto_Veteran"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Skotizo Champion",
+      "activity": "Skotizo",
+      "steps": [
+        "Assemble a dark totem and use it on the central Catacombs altar to enter Skotizo's instance.",
+        "Fight Skotizo with appropriate protection prayers and destroy awakened altars when they hinder damage. Finish one kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Skotizo",
+        "https://oldschool.runescape.wiki/w/Skotizo_Champion"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Skotizo Adept",
+      "activity": "Skotizo",
+      "steps": [
+        "Gather five assembled dark totems and use one at the central Catacombs altar for each attempt.",
+        "Handle awakened altars and incoming attacks, then repeat the fight until you have five Skotizo kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Skotizo",
+        "https://oldschool.runescape.wiki/w/Skotizo_Adept"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Demonic Weakening",
+      "activity": "Skotizo",
+      "steps": [
+        "Watch all four altars while lowering Skotizo's health and destroy any that become active.",
+        "Before finishing Skotizo, confirm that no altar is active. Stop boss damage and clear a newly awakened altar if necessary."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demonic_Weakening",
+        "https://oldschool.runescape.wiki/w/Skotizo"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Demon Evasion",
+      "activity": "Skotizo",
+      "steps": [
+        "Use a practised method with protection prayers and positioning that prevents boss and summoned-creature damage.",
+        "Keep Skotizo at a safe distance when not protected from melee, manage awakened altars, and finish without taking any damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demon_Evasion",
+        "https://oldschool.runescape.wiki/w/Skotizo"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Demonbane Weaponry",
+      "activity": "Skotizo",
+      "steps": [
+        "Equip a qualifying demonbane weapon, such as Arclight, before beginning the Skotizo fight.",
+        "Handle awakened altars and protection prayers normally, keeping the demonbane weapon equipped when Skotizo dies."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demonbane_Weaponry",
+        "https://oldschool.runescape.wiki/w/Skotizo"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Up for the Challenge",
+      "activity": "Skotizo",
+      "steps": [
+        "Choose a conventional Ranged, Magic or non-demonbane Melee weapon and remove all demonbane switches from your setup.",
+        "Destroy awakened altars when needed and kill Skotizo without equipping any demonbane weapon at any point."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Skotizo",
+        "https://oldschool.runescape.wiki/w/Up_for_the_Challenge"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Precise Positioning",
+      "activity": "Skotizo",
+      "steps": [
+        "Bring chinchompas and lower Skotizo's health with your normal weapon while managing active altars.",
+        "Stop other damage sources, switch to chinchompas and let a chinchompa explosion deliver the final damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Precise_Positioning",
+        "https://oldschool.runescape.wiki/w/Skotizo"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Cerberus Veteran",
+      "activity": "Cerberus",
+      "steps": [
+        "Fight Cerberus with protection prayers, prayer restoration and enough run energy to move off lava pools.",
+        "Match protection prayers to the Summoned Souls when they attack. Bank as needed and repeat until 75 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cerberus",
+        "https://oldschool.runescape.wiki/w/Cerberus_Veteran"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Cerberus Master",
+      "activity": "Cerberus",
+      "steps": [
+        "Use a consistent Cerberus method: handle its attacks, switch prayers for Summoned Souls and move off lava.",
+        "Restock when food or prayer restoration runs low, and repeat until 150 kills across your trips."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cerberus",
+        "https://oldschool.runescape.wiki/w/Cerberus_Master"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Arooo No More",
+      "activity": "Cerberus",
+      "steps": [
+        "Prepare a high-damage finishing sequence and save damaging special attacks for the soul-summoning window.",
+        "Kill Cerberus before any Summoned Souls spawn. A kill where ghosts appear does not count, even if you avoid their attacks."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Arooo_No_More",
+        "https://oldschool.runescape.wiki/w/Cerberus"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Ghost Buster",
+      "activity": "Cerberus",
+      "steps": [
+        "Let Cerberus summon its souls and watch their attack order. Match blue to Magic, red to Melee and green to Missiles.",
+        "Successfully protect against at least six soul attacks before killing Cerberus; keep enough Prayer for every blocked attack."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cerberus",
+        "https://oldschool.runescape.wiki/w/Ghost_Buster"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Unrequired Antifire",
+      "activity": "Cerberus",
+      "steps": [
+        "Keep run energy available and move off the tiles targeted by Cerberus's lava attack.",
+        "Attack only from clear ground and finish the kill without lava-pool damage. Antifire does not replace moving away from lava."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Cerberus",
+        "https://oldschool.runescape.wiki/w/Unrequired_Antifire"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Anti-Bite Mechanics",
+      "activity": "Cerberus",
+      "steps": [
+        "Use Protect from Melee against Cerberus's melee attacks, including its opening attack sequence.",
+        "Time any prayer switches for Summoned Souls carefully and return to melee protection before the boss attacks. Take no melee damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Anti-Bite_Mechanics",
+        "https://oldschool.runescape.wiki/w/Cerberus"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Chaos Elemental Adept",
+      "activity": "Chaos Elemental",
+      "steps": [
+        "Take a conservative Wilderness setup with food and escape supplies; the Chaos Elemental is in deep multi-combat Wilderness.",
+        "Manage its teleports and equipment removal, keep attacking when safely positioned, and restock between trips until 10 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chaos_Elemental",
+        "https://oldschool.runescape.wiki/w/Chaos_Elemental_Adept"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Chaos Elemental Veteran",
+      "activity": "Chaos Elemental",
+      "steps": [
+        "Bring food and a safe escape plan for repeated Chaos Elemental fights in deep Wilderness.",
+        "Recover your position after teleports, re-equip displaced items if needed, and bank between trips until 25 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chaos_Elemental",
+        "https://oldschool.runescape.wiki/w/Chaos_Elemental_Veteran"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Hoarder",
+      "activity": "Chaos Elemental",
+      "steps": [
+        "Fill every inventory slot before fighting; use food that leaves a container behind, such as curry, to keep the inventory full.",
+        "Do not create a free inventory slot during the kill. Finish the Chaos Elemental without any equipped item being removed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chaos_Elemental",
+        "https://oldschool.runescape.wiki/w/Hoarder"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "The Flincher",
+      "activity": "Chaos Elemental",
+      "steps": [
+        "Set up a terrain-based flinching method before engaging; do not rely on one overhead prayer to block every Chaos Elemental attack.",
+        "Hide between attacks and only emerge to land a hit when it cannot retaliate. Finish with no damage from its attacks."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chaos_Elemental",
+        "https://oldschool.runescape.wiki/w/The_Flincher"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Chaos Fanatic Champion",
+      "activity": "Chaos Fanatic",
+      "steps": [
+        "Use Ranged and Protect from Magic, with food and a Wilderness escape plan.",
+        "Move away from the green explosion projectiles and repeat the fight until 10 kills, banking as needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chaos_Fanatic",
+        "https://oldschool.runescape.wiki/w/Chaos_Fanatic_Champion"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Chaos Fanatic Adept",
+      "activity": "Chaos Fanatic",
+      "steps": [
+        "Take Ranged equipment, Protect from Magic and a conservative Wilderness inventory.",
+        "Dodge each green explosion attack, restock safely between trips and reach 25 Chaos Fanatic kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chaos_Fanatic",
+        "https://oldschool.runescape.wiki/w/Chaos_Fanatic_Adept"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Sorry, What Was That?",
+      "activity": "Chaos Fanatic",
+      "steps": [
+        "Attempt the kill alone or coordinate with everyone nearby so another player cannot be caught by the special.",
+        "Move off the landing tiles when green explosion projectiles are thrown. Finish without the explosion hitting anyone."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chaos_Fanatic",
+        "https://oldschool.runescape.wiki/w/Sorry%2C_What_Was_That%3F"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Praying to the Gods",
+      "activity": "Chaos Fanatic",
+      "steps": [
+        "Bring food and start with restored Prayer. Use Protect from Magic and dodge green explosions; do not drink any potion that restores Prayer.",
+        "If Prayer runs low, restore it at the Wilderness Chaos Temple altar south of the Fanatic, then return. Complete ten kills without leaving the Wilderness or using a prayer-restoring potion."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chaos_Fanatic",
+        "https://oldschool.runescape.wiki/w/Praying_to_the_Gods",
+        "https://oldschool.runescape.wiki/w/Wilderness"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Corporeal Beast Veteran",
+      "activity": "Corporeal Beast",
+      "steps": [
+        "Bring an appropriate spear on Stab, food and protection prayers; use a coordinated group if available.",
+        "Avoid the dark core and complete 25 Corporeal Beast kills over as many trips as needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corporeal_Beast",
+        "https://oldschool.runescape.wiki/w/Corporeal_Beast_Veteran"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Corporeal Beast Master",
+      "activity": "Corporeal Beast",
+      "steps": [
+        "Use an appropriate Stab spear and a repeatable solo or team method; avoid standing beside the dark core.",
+        "Restock between trips and repeat until 50 Corporeal Beast kills. These kills need not be consecutive."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corporeal_Beast",
+        "https://oldschool.runescape.wiki/w/Corporeal_Beast_Master"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Hot on Your Feet",
+      "activity": "Corporeal Beast",
+      "steps": [
+        "Tell every teammate to leave the dark core alive and move away as it lands near them.",
+        "Keep repositioning so nobody takes core damage, and finish the Corporeal Beast without anyone killing the core."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corporeal_Beast",
+        "https://oldschool.runescape.wiki/w/Hot_on_Your_Feet"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Finding the Weak Spot",
+      "activity": "Corporeal Beast",
+      "steps": [
+        "Bring a halberd with a damaging special attack and enough special energy. Lower the Corporeal Beast's health first.",
+        "Coordinate the finish so no teammate lands another killing hit, then use the halberd special attack for the final damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corporeal_Beast",
+        "https://oldschool.runescape.wiki/w/Finding_the_Weak_Spot"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Chicken Killer",
+      "activity": "Corporeal Beast",
+      "steps": [
+        "Use a private or empty fight and prepare a self-sufficient solo setup with food, prayer restoration and any planned stat-reduction specials.",
+        "Handle the dark core yourself and kill the Corporeal Beast without another player assisting in the fight."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chicken_Killer",
+        "https://oldschool.runescape.wiki/w/Corporeal_Beast"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Crazy Archaeologist Champion",
+      "activity": "Crazy Archaeologist",
+      "steps": [
+        "Use Magic from a distance with Protect from Missiles and a Wilderness escape plan.",
+        "Move away from the Rain of Knowledge book explosions, then repeat and restock until 10 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crazy_Archaeologist",
+        "https://oldschool.runescape.wiki/w/Crazy_Archaeologist_Champion"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Crazy Archaeologist Adept",
+      "activity": "Crazy Archaeologist",
+      "steps": [
+        "Bring a Magic setup, Protect from Missiles and food; avoid standing in melee range.",
+        "Dodge the exploding books and bank between trips until 25 Crazy Archaeologist kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crazy_Archaeologist",
+        "https://oldschool.runescape.wiki/w/Crazy_Archaeologist_Adept"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Mage of the Ruins",
+      "activity": "Crazy Archaeologist",
+      "steps": [
+        "Bring spells or a charged powered staff and remove recoil or other non-Magic damage sources.",
+        "Damage the Crazy Archaeologist only with Magic, using Protect from Missiles and moving away from his exploding books."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crazy_Archaeologist",
+        "https://oldschool.runescape.wiki/w/Mage_of_the_Ruins"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "I'd Rather Not Learn",
+      "activity": "Crazy Archaeologist",
+      "steps": [
+        "Fight alone or coordinate with nearby players so everyone can dodge the special.",
+        "Move away when Rain of Knowledge begins and keep clear of the follow-up book explosions. Nobody may be hit by the special."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crazy_Archaeologist",
+        "https://oldschool.runescape.wiki/w/I%27d_Rather_Not_Learn"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "If Gorillas Could Fly",
+      "activity": "Demonic Gorilla",
+      "steps": [
+        "Bring two combat styles and switch away from whichever style the Demonic Gorilla protects against.",
+        "Match your protection prayer to its attacks, step away from falling boulders and complete one kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demonic_Gorilla",
+        "https://oldschool.runescape.wiki/w/If_Gorillas_Could_Fly"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Hitting Them Where It Hurts",
+      "activity": "Demonic Gorilla",
+      "steps": [
+        "Bring a demonbane weapon alongside a second style for the gorilla's protection-prayer switches.",
+        "Lower its health, wait until it is not protecting from your demonbane attack style, and land the finishing blow with that weapon."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Demonic_Gorilla",
+        "https://oldschool.runescape.wiki/w/Hitting_Them_Where_It_Hurts"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Deranged Archaeologist Novice",
+      "activity": "Deranged Archaeologist",
+      "steps": [
+        "Use Magic from range with Protect from Missiles in the Fossil Island swamp.",
+        "Move away from the exploding books when Learn to Read starts and repeat until 10 kills, banking as needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Deranged_Archaeologist",
+        "https://oldschool.runescape.wiki/w/Deranged_Archaeologist_Novice"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Deranged Archaeologist Champion",
+      "activity": "Deranged Archaeologist",
+      "steps": [
+        "Prepare Magic, food and Protect from Missiles for repeated Deranged Archaeologist fights.",
+        "Keep clear of Learn to Read book explosions and restock between trips until 25 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Deranged_Archaeologist",
+        "https://oldschool.runescape.wiki/w/Deranged_Archaeologist_Champion"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Mage of the Swamp",
+      "activity": "Deranged Archaeologist",
+      "steps": [
+        "Bring spells or a powered staff and disable recoil or other non-Magic damage sources.",
+        "Deal only Magic damage to the Deranged Archaeologist while using Protect from Missiles and dodging his books."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Deranged_Archaeologist",
+        "https://oldschool.runescape.wiki/w/Mage_of_the_Swamp"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "I'd Rather Be Illiterate",
+      "activity": "Deranged Archaeologist",
+      "steps": [
+        "Keep enough open ground to move when the Deranged Archaeologist starts Learn to Read.",
+        "Leave the initial book landing area and avoid the follow-up explosions too. Finish without that special hitting anyone."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Deranged_Archaeologist",
+        "https://oldschool.runescape.wiki/w/I%27d_Rather_Be_Illiterate"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "The Walking Volcano",
+      "activity": "Fire Giant",
+      "steps": [
+        "Find a Fire Giant in Brimhaven Dungeon; bring the axe and entry payment needed for that approach.",
+        "Use Protect from Melee or a Ranged or Magic safespot and kill one Fire Giant."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fire_Giant",
+        "https://oldschool.runescape.wiki/w/The_Walking_Volcano"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Galvek Speed-Trialist",
+      "activity": "Galvek",
+      "steps": [
+        "Use the Pool of Dreams in the Myths' Guild for a Galvek rematch. Prepare dragonfire protection, Ranged supplies and special energy.",
+        "Stay attacking between mechanics, switch to an appropriate finishing ammunition as his health falls, and dodge bombs and waves. Finish in under 3 minutes."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Galvek",
+        "https://oldschool.runescape.wiki/w/Galvek_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Grotesque Guardians Adept",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Bring Ranged for Dawn, Melee for Dusk and a rock hammer. Switch targets and styles as the phases change.",
+        "Avoid rockfalls, lightning and Dusk's prison, then repeat until 25 kills. Dawn cannot be killed with Melee."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians_Adept"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Grotesque Guardians Veteran",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Use Ranged against Dawn and Melee against Dusk, carrying the finishing tool and enough supplies for each trip.",
+        "Handle the transition attacks and prison, then repeat until 50 kills. Bank between trips whenever needed."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians_Veteran"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Don't Look at the Eclipse",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Watch Dusk's blinding attack and move out of its marked danger area rather than relying on prayer.",
+        "Continue the remaining phases and finish the Guardians without taking damage from that attack."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Don%27t_Look_at_the_Eclipse",
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Prison Break",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Keep run energy for Dusk's final phase and look for the opening when his prison surrounds you.",
+        "Leave through the opening immediately and finish the fight without prison damage. Do not run through the prison walls."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+        "https://oldschool.runescape.wiki/w/Prison_Break"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Granite Footwork",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Keep watching the floor while fighting Dusk, especially when Dawn starts dropping rocks.",
+        "Move off every rockfall landing area before impact and finish without taking rockfall damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Granite_Footwork",
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Heal No More",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "When Dawn creates healing orbs, stop to intercept them before they reach and heal her.",
+        "Absorb the orbs promptly, then finish both Guardians without Dawn receiving any orb healing."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+        "https://oldschool.runescape.wiki/w/Heal_No_More"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Static Awareness",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Watch the marked lightning areas during the Guardians' transitions and move to clear ground before they strike.",
+        "Do not attack from a dangerous tile just to maintain damage. Finish without any lightning attack hitting you."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+        "https://oldschool.runescape.wiki/w/Static_Awareness"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Done before Dusk",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Save damaging specials and a strong Melee setup for Dusk's final phase, and avoid lost time from prison damage.",
+        "Escape the first prison and keep attacking Dusk whenever safe. Kill him before he casts a second prison."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Done_before_Dusk",
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Perfect Grotesque Guardians",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Avoid Dusk's blinding attack and prison, Dawn's rockfalls and all lightning. Intercept Dawn's orbs so they cannot heal her.",
+        "Finish Dusk before his second prison. All six listed conditions must be satisfied in the same kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+        "https://oldschool.runescape.wiki/w/Perfect_Grotesque_Guardians"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Perfect Grotesque Guardians II",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Prepare supplies for five consecutive kills and perform every Perfect Guardians condition: avoid listed attacks, prevent orb healing and beat the second prison.",
+        "Repeat five times in the same instance without leaving. A failed perfect kill breaks the sequence."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+        "https://oldschool.runescape.wiki/w/Perfect_Grotesque_Guardians_II"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Grotesque Guardians Speed-Trialist",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Prepare Ranged and Melee switches, special energy and a rock hammer before starting.",
+        "Attack Dawn with Ranged and Dusk with Melee, switch promptly and avoid stuns or healing delays. Finish under 2:00."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Grotesque Guardians Speed-Chaser",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Set up quick Ranged and Melee switches and save damaging specials for useful vulnerable phases.",
+        "Keep damage flowing through the Guardians' phase changes, avoid stuns and prevent Dawn's healing. Finish under 1:40."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Grotesque Guardians Speed-Runner",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Practise the phase switches and have Ranged, Melee, special attacks and the finishing tool ready.",
+        "Minimize idle movement and attack delays while handling orbs and avoiding stuns. Kill both Guardians under 1:20."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians_Speed-Runner"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "From Dusk...",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Bring enough food, prayer restoration and ammunition for ten kills before entering.",
+        "Alternate Ranged on Dawn and Melee on Dusk, handle their specials, and complete ten kills without leaving the instance."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/From_Dusk...",
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "... 'til Dawn",
+      "activity": "Grotesque Guardians",
+      "steps": [
+        "Prepare supplies and ammunition for a twenty-kill trip and use a reliable phase-switching method.",
+        "Recover between kills inside the instance and complete all twenty without leaving to bank."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/..._%27til_Dawn",
+        "https://oldschool.runescape.wiki/w/Grotesque_Guardians"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "A Smashing Time",
+      "activity": "Gargoyle",
+      "steps": [
+        "Bring a rock hammer or another valid gargoyle-finishing tool to the Slayer Tower.",
+        "Lower a Gargoyle's health, then use the finishing tool to kill it. Ordinary weapon damage alone will not finish it."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Smashing_Time",
+        "https://oldschool.runescape.wiki/w/Gargoyle"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Corrupted Gauntlet Veteran",
+      "activity": "Corrupted Hunllef",
+      "steps": [
+        "Prepare two attack styles, armour, cooked paddlefish and egniol potions inside the Corrupted Gauntlet.",
+        "Switch prayers and weapons for Hunllef while avoiding floor hazards and tornadoes. Complete five runs in total."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corrupted_Gauntlet_Veteran",
+        "https://oldschool.runescape.wiki/w/Corrupted_Hunllef"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Corrupted Gauntlet Master",
+      "activity": "Corrupted Hunllef",
+      "steps": [
+        "Use a repeatable Corrupted Gauntlet preparation route for weapons, armour, food and potions.",
+        "Match Hunllef's attacks with the correct prayer, switch weapons against its protection prayer and complete ten runs."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corrupted_Gauntlet_Master",
+        "https://oldschool.runescape.wiki/w/Corrupted_Hunllef"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Corrupted Gauntlet Grandmaster",
+      "activity": "Corrupted Hunllef",
+      "steps": [
+        "Prioritize reliable preparation with two damage styles, enough food and potions before entering Hunllef's room.",
+        "Avoid tornadoes and dangerous floor tiles while matching prayers and weapons. Reach fifty Corrupted Gauntlet completions."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corrupted_Gauntlet_Grandmaster",
+        "https://oldschool.runescape.wiki/w/Corrupted_Hunllef"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "3, 2, 1 - Mage",
+      "activity": "Corrupted Hunllef",
+      "steps": [
+        "Watch Hunllef's Ranged and Magic attacks and have the matching protection prayer active before each hit.",
+        "Reactivate prayer after it is disabled and finish with no damage off prayer. Continue avoiding tornadoes and floor hazards for survival."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/3%2C_2%2C_1_-_Mage",
+        "https://oldschool.runescape.wiki/w/Corrupted_Hunllef"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Perfect Corrupted Hunllef",
+      "activity": "Corrupted Hunllef",
+      "steps": [
+        "Use the correct protection prayer and only attack with a style Hunllef is not protecting against.",
+        "Avoid tornadoes, dangerous floor tiles and walking under Hunllef. Every listed condition must hold for the entire kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corrupted_Hunllef",
+        "https://oldschool.runescape.wiki/w/Perfect_Corrupted_Hunllef"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Defence Doesn't Matter II",
+      "activity": "Corrupted Hunllef",
+      "steps": [
+        "Craft weapons, food and potions but do not craft any armour during this Corrupted Gauntlet run.",
+        "Fight Hunllef unarmoured, keeping prayers correct and prioritizing tornado and floor avoidance. Do not make armour even if you do not equip it."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corrupted_Hunllef",
+        "https://oldschool.runescape.wiki/w/Defence_Doesn%27t_Matter_II"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Egniol Diet II",
+      "activity": "Corrupted Hunllef",
+      "steps": [
+        "Prepare weapons, armour and plenty of cooked paddlefish, but do not make an egniol potion.",
+        "Conserve Prayer during Hunllef with carefully timed prayers and finish without brewing a potion at any stage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corrupted_Hunllef",
+        "https://oldschool.runescape.wiki/w/Egniol_Diet_II"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Corrupted Warrior",
+      "activity": "Corrupted Hunllef",
+      "steps": [
+        "Gather the resources and upgrade all three corrupted armour pieces to perfected before the fight.",
+        "Equip the complete perfected corrupted set and keep it equipped when the Corrupted Hunllef dies."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corrupted_Hunllef",
+        "https://oldschool.runescape.wiki/w/Corrupted_Warrior"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Wolf Puncher II",
+      "activity": "Corrupted Hunllef",
+      "steps": [
+        "Make at most one attuned weapon; keep other weapons basic rather than upgrading a second one.",
+        "Use basic off-style attacks to change Hunllef's protection prayer, then return to your upgraded weapon. Bring enough food for the slower fight."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corrupted_Hunllef",
+        "https://oldschool.runescape.wiki/w/Wolf_Puncher_II"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Corrupted Gauntlet Speed-Chaser",
+      "activity": "Corrupted Hunllef",
+      "steps": [
+        "Use a planned preparation route and gather only the weapons, food, armour and potions you will use.",
+        "Switch prayers and weapons promptly, avoid lost time to hazards and finish the complete run under 7:05, including preparation."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corrupted_Gauntlet_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/Corrupted_Hunllef"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Corrupted Gauntlet Speed-Runner",
+      "activity": "Corrupted Hunllef",
+      "steps": [
+        "Practise a short preparation route and a two-style Hunllef fight before attempting the timer.",
+        "Avoid unnecessary gathering and keep attacks flowing while dodging hazards. Complete preparation and the kill in under 6:05."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Corrupted_Gauntlet_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/Corrupted_Hunllef"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Gauntlet Veteran",
+      "activity": "Crystalline Hunllef",
+      "steps": [
+        "Prepare two weapon styles, armour, cooked paddlefish and egniol potions inside the regular Gauntlet.",
+        "Match Hunllef's attacks with protection prayers and switch away from its protected style. Complete five regular runs."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystalline_Hunllef",
+        "https://oldschool.runescape.wiki/w/Gauntlet_Veteran"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Gauntlet Master",
+      "activity": "Crystalline Hunllef",
+      "steps": [
+        "Prepare two weapon styles, armour, cooked paddlefish and egniol potions inside the regular Gauntlet.",
+        "Use the correct protection prayer, change weapons when Hunllef protects against your style and avoid floor hazards. Complete 20 regular runs."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystalline_Hunllef",
+        "https://oldschool.runescape.wiki/w/Gauntlet_Master"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "3, 2, 1 - Range",
+      "activity": "Crystalline Hunllef",
+      "steps": [
+        "Prepare food and egniol potions so you can maintain protection prayers through the Hunllef fight.",
+        "Match each incoming attack with its protection prayer and reactivate prayer after Hunllef disables it. No attack may damage you through the wrong prayer."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/3%2C_2%2C_1_-_Range",
+        "https://oldschool.runescape.wiki/w/Crystalline_Hunllef"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Perfect Crystalline Hunllef",
+      "activity": "Crystalline Hunllef",
+      "steps": [
+        "Prepare two weapon styles and sufficient food and prayer supplies before entering the boss room.",
+        "Use the correct protection prayer and never attack Hunllef's protected style. Stay off damaging floor tiles, away from tornadoes and out from under the boss throughout the kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystalline_Hunllef",
+        "https://oldschool.runescape.wiki/w/Perfect_Crystalline_Hunllef"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Defence Doesn't Matter",
+      "activity": "Crystalline Hunllef",
+      "steps": [
+        "Do not craft any armour, including pieces you would leave unequipped. Spend preparation time on weapons, paddlefish and egniol potions.",
+        "Use protection prayers and two attack styles. Prioritise avoiding floor hazards, tornadoes and stomps; bring extra food for the unarmoured fight."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystalline_Hunllef",
+        "https://oldschool.runescape.wiki/w/Defence_Doesn%27t_Matter"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Egniol Diet",
+      "activity": "Crystalline Hunllef",
+      "steps": [
+        "Do not craft an egniol potion. Prepare weapons, armour and enough cooked paddlefish to survive the fight.",
+        "Conserve your starting Prayer with careful flicking and turn prayers off while not needed. Switch weapons and dodge hazards normally; finish without having made a potion."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystalline_Hunllef",
+        "https://oldschool.runescape.wiki/w/Egniol_Diet"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Crystalline Warrior",
+      "activity": "Crystalline Hunllef",
+      "steps": [
+        "Gather enough resources to craft perfected crystal body, legs and helm during preparation.",
+        "Equip all three perfected armour pieces before fighting Hunllef. Prepare weapons and food as well, and keep the full set equipped for the kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystalline_Hunllef",
+        "https://oldschool.runescape.wiki/w/Crystalline_Warrior"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Wolf Puncher",
+      "activity": "Crystalline Hunllef",
+      "steps": [
+        "Make at most one attuned weapon; keep any other weapon basic rather than upgrading a second one.",
+        "Use basic off-style attacks to change Hunllef's protection prayer, then return to your upgraded weapon. Bring enough food for the slower fight."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystalline_Hunllef",
+        "https://oldschool.runescape.wiki/w/Wolf_Puncher"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Gauntlet Speed-Chaser",
+      "activity": "Crystalline Hunllef",
+      "steps": [
+        "Plan a short preparation route for weapons, food, armour and potions before starting the timed run.",
+        "Gather only what you will use, switch weapons promptly and attack while safely moving around hazards. Finish preparation and the kill in under 4:45."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystalline_Hunllef",
+        "https://oldschool.runescape.wiki/w/Gauntlet_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Gauntlet Speed-Runner",
+      "activity": "Crystalline Hunllef",
+      "steps": [
+        "Practise an efficient preparation route and a two-style Hunllef fight before attempting the timer.",
+        "Cut unnecessary gathering and movement, and keep attacks flowing while dodging hazards. Complete the entire run, including preparation, in under 3:45."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Crystalline_Hunllef",
+        "https://oldschool.runescape.wiki/w/Gauntlet_Speed-Runner"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Glough Speed-Trialist",
+      "activity": "Glough",
+      "steps": [
+        "After Monkey Madness II, use the burning brazier in Zooknock's Gnome Stronghold house to replay Glough. Prepare your Ranged weapon, potions and special attack before entering.",
+        "Keep attacking through all three rooms, then move back into attack range after his final-phase pushes and pulls. Finish in under 2:30; excessive safespot waiting costs time."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Glough",
+        "https://oldschool.runescape.wiki/w/Glough_Speed-Trialist",
+        "https://oldschool.runescape.wiki/w/Zooknock"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "A Greater Foe",
+      "activity": "Greater Demon",
+      "steps": [
+        "Choose a Greater Demon outside the Wilderness, such as one in the Catacombs of Kourend, and bring food.",
+        "Use Protect from Melee up close, or attack from a Ranged or Magic safespot. Kill one Greater Demon."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Greater_Foe",
+        "https://oldschool.runescape.wiki/w/Greater_Demon"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Not So Great After All",
+      "activity": "Greater Demon",
+      "steps": [
+        "Bring a demonbane weapon, such as Silverlight, Darklight or Arclight, and lower a Greater Demon to low health.",
+        "Equip the demonbane weapon and land the finishing blow with it. Stop other damage sources before the final hit so they cannot take the kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Greater_Demon",
+        "https://oldschool.runescape.wiki/w/Not_So_Great_After_All"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "A Demon's Best Friend",
+      "activity": "Hellhound",
+      "steps": [
+        "Choose a Hellhound outside the Wilderness, such as one in the Catacombs of Kourend, and bring food or prayer supplies.",
+        "Use Protect from Melee up close, or a Ranged or Magic safespot. Kill one Hellhound."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Demon%27s_Best_Friend",
+        "https://oldschool.runescape.wiki/w/Hellhound"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Hespori Adept",
+      "activity": "Hespori",
+      "steps": [
+        "Plant a Hespori seed in the Farming Guild patch and return when it is fully grown. Bring a Melee weapon, a fast Ranged weapon and poison protection.",
+        "Kill the flowers whenever they open, then resume attacking Hespori. Harvest and replant after each kill until you have defeated five Hespori."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hespori",
+        "https://oldschool.runescape.wiki/w/Hespori_Adept"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Hesporisn't",
+      "activity": "Hespori",
+      "steps": [
+        "Bring a weapon with a damaging special attack and keep enough special energy for the finish.",
+        "Clear the flowers and lower Hespori to low health. Stop other damage sources, activate the special attack and use it for the killing blow."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hespori",
+        "https://oldschool.runescape.wiki/w/Hesporisn%27t"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Weed Whacker",
+      "activity": "Hespori",
+      "steps": [
+        "Equip a fast Ranged weapon, such as darts or a blowpipe, before a flower wave begins.",
+        "Attack each of the four opened flowers in quick succession without returning to Hespori between them. All four must die within five seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hespori",
+        "https://oldschool.runescape.wiki/w/Weed_Whacker"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Plant-Based Diet",
+      "activity": "Hespori",
+      "steps": [
+        "Turn all prayers off before fighting and keep quick prayers disabled. Bring food and poison protection to handle incoming damage.",
+        "Clear opened flowers promptly and kill Hespori with prayers off. Restoring Prayer after it drains does not undo a lost Prayer point."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hespori",
+        "https://oldschool.runescape.wiki/w/Plant-Based_Diet"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Hespori Speed-Trialist",
+      "activity": "Hespori",
+      "steps": [
+        "Prepare a fast flower-killing weapon and your strongest available Melee damage before starting; apply combat boosts beforehand.",
+        "Switch immediately to each opened flower, then straight back to Hespori. Use damaging specials without delaying flower clears and finish in under 48 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hespori",
+        "https://oldschool.runescape.wiki/w/Hespori_Speed-Trialist"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Hespori Speed-Chaser",
+      "activity": "Hespori",
+      "steps": [
+        "Practise clearing each flower wave with a fast Ranged weapon and returning immediately to your Melee weapon.",
+        "Pre-pot and plan damaging specials for uninterrupted boss damage. Avoid extra eating and idle attacks while flowers are open; finish in under 36 seconds."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hespori",
+        "https://oldschool.runescape.wiki/w/Hespori_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Obor Novice",
+      "activity": "Obor",
+      "steps": [
+        "Bring a giant key, food and a suitable weapon to the Hill Giant lair beneath Edgeville Dungeon.",
+        "Enter Obor's room, use protection prayers and keep clear of knockbacks while killing him. Open his reward chest; the chest opening is what completes the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Obor",
+        "https://oldschool.runescape.wiki/w/Obor_Novice"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Obor Champion",
+      "activity": "Obor",
+      "steps": [
+        "Collect a giant key for each attempt and bring food and a weapon to Obor's lair.",
+        "Kill Obor with protection prayers and controlled positioning, then open his reward chest. Repeat until you have opened the chest five times."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Obor",
+        "https://oldschool.runescape.wiki/w/Obor_Champion"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Sleeping Giant",
+      "activity": "Obor",
+      "steps": [
+        "Bring a binding spell, such as Bind, Snare or a suitable ice spell, and lower Obor to low health.",
+        "Land the immobilising spell, then finish Obor before its effect expires. A splash does not immobilise him; confirm the spell has worked."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Obor",
+        "https://oldschool.runescape.wiki/w/Sleeping_Giant"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "Back to the Wall",
+      "activity": "Obor",
+      "steps": [
+        "Position yourself with the arena wall directly behind you so Obor cannot knock you far backwards.",
+        "Keep that wall position while attacking and using protection prayers. Finish without any knockback pushing you more than one square."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Back_to_the_Wall",
+        "https://oldschool.runescape.wiki/w/Obor"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Squashing the Giant",
+      "activity": "Obor",
+      "steps": [
+        "Bring food and prayer restoration, and use distance to keep Obor's Melee attacks out of reach where possible.",
+        "Match his Melee and Ranged attacks with the correct protection prayer. Any damage taken while using the wrong prayer fails the attempt; do not rely on tanking it."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Obor",
+        "https://oldschool.runescape.wiki/w/Squashing_the_Giant"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Fighting as Intended",
+      "activity": "Obor",
+      "steps": [
+        "Take a giant key, food and a usable free-to-play combat setup to Obor on a free-to-play world.",
+        "Keep behind a wall position to limit knockback, use available protection prayers and kill him. A members-world kill does not count for this task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fighting_as_Intended",
+        "https://oldschool.runescape.wiki/w/Obor"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Alchemical Veteran",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "Fight Hydra on a hydra Slayer assignment. Lure the green phase to the red chemical vent, blue to green, and red to blue.",
+        "Change protection prayers with its attacks, dodge acid and lightning, and walk clear of trailing fire. Bank between trips as needed until you reach 75 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/Alchemical_Veteran"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Alchemical Master",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "Prepare long-trip combat, prayer and healing supplies for a hydra Slayer assignment.",
+        "Use the red, green and blue chemical vents for the green, blue and red phases respectively. Dodge each special attack and maintain protection prayers; repeat to 150 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/Alchemical_Master"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Unrequired Antipoisons",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "In the opening green phase, lure Hydra to the red chemical vent while watching the acid attack.",
+        "Move away from the targeted tiles as acid is launched and stay out of the resulting pools. Complete all remaining phases without an acid-pool hit."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/Unrequired_Antipoisons"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Lightning Lure",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "Lure the blue-phase Hydra to the green chemical vent and leave yourself an escape route around the room.",
+        "Keep moving away from converging lightning rather than letting it surround you. Avoid every lightning hit, then finish the remaining phases normally."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/Lightning_Lure"
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Don't Flame Me",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "Lure the red-phase Hydra to the blue chemical vent. When it moves to the centre, position yourself clear of the side walls of flame.",
+        "Once the tracking fire starts, turn run off and walk along a clear line ahead of it. Do not cross either side flame wall or the trailing fire; finish the kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/Don%27t_Flame_Me"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Mixing Correctly",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "Memorise the chemical order before entering: green Hydra to red vent, blue Hydra to green vent, red Hydra to blue vent.",
+        "Position the boss on the correct vent each phase and keep it away from the other vents. Finish without ever spraying Hydra with the wrong chemical."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/Mixing_Correctly"
+      ]
+    },
+    {
+      "id": 141,
+      "name": "The Flame Skipper",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "Prepare your strongest available burst damage and save suitable specials for the red phase.",
+        "Lure red Hydra to the blue vent promptly, then push it into the final phase before it begins the flame-wall attack. Finish without any flame wall spawning."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/The_Flame_Skipper"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Alcleanical Hydra",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "Use the correct chemical vents and match every incoming attack with its protection prayer, including the faster final-phase changes.",
+        "Avoid acid pools, lightning, side flames, tracking fire and damaging vents. Continue to the kill without taking any damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/Alcleanical_Hydra"
+      ]
+    },
+    {
+      "id": 143,
+      "name": "No Pressure",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "Equip only Dharok's greataxe as a weapon and enter the fight with no more than 10 Hitpoints. Plan protection prayers and hazard movement before attempting this.",
+        "Keep Hitpoints at or below 10 for the entire fight, use the correct chemical vents and avoid every damaging special. Do not swap weapons or heal above the limit."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/No_Pressure"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Alchemical Speed-Chaser",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "Pre-pot and plan a quick vent route: green Hydra to red, blue to green, red to blue. Save useful specials for uninterrupted damage.",
+        "Keep attacking between movement and prayer changes; prompt phase transitions reduce time lost to specials. Finish in under 1:45."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/Alchemical_Speed-Chaser"
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Alchemical Speed-Runner",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "Practise the correct chemical route and fast prayer changes before the speed attempt. Prepare combat boosts and a burst-damage special plan.",
+        "Move the boss onto each correct vent immediately and keep attacking safely through transitions. Avoid lost time to acid, lightning or fire and finish in under 1:20."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/Alchemical_Speed-Runner"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Working Overtime",
+      "activity": "Alchemical Hydra",
+      "steps": [
+        "Bring enough food, prayer restoration, ammunition or weapon charges for a 15-kill trip on a hydra assignment.",
+        "Use correct vents, protection prayers and hazard movement to conserve supplies. Kill Hydra 15 times without leaving its room; banking or teleporting out breaks the trip."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+        "https://oldschool.runescape.wiki/w/Working_Overtime"
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Fight Caves Veteran",
+      "activity": "TzTok-Jad",
+      "steps": [
+        "Bring a sustained Ranged setup, food and prayer restoration. Use terrain to separate enemies, kill prayer-draining bats early and protect against the magers.",
+        "At Jad, watch each attack and switch to Protect from Missiles for the stomp or Protect from Magic for the rear-up. Handle healers while keeping those switches steady and finish the cave."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fight_Caves_Veteran",
+        "https://oldschool.runescape.wiki/w/TzTok-Jad"
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Fight Caves Master",
+      "activity": "TzTok-Jad",
+      "steps": [
+        "Use a repeatable wave plan: block Melee enemies with terrain, remove bats early and protect against the magers.",
+        "At Jad, prioritise the correct protection prayer while dealing with healers. Restock between runs and complete the Fight Caves five times."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fight_Caves_Master",
+        "https://oldschool.runescape.wiki/w/TzTok-Jad"
+      ]
+    },
+    {
+      "id": 149,
+      "name": "A Near Miss!",
+      "activity": "TzTok-Jad",
+      "steps": [
+        "Reach Jad with enough food to return to full Hitpoints. Choose one attack to deliberately take with prayers off and be prepared for a large hit.",
+        "Survive that unprotected hit, restore the correct protection prayer immediately and finish Jad. Do not attempt the hit while already low on health."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Near_Miss%21",
+        "https://oldschool.runescape.wiki/w/TzTok-Jad"
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Denying the Healers",
+      "activity": "TzTok-Jad",
+      "steps": [
+        "Use terrain and distance to keep each Yt-MejKot out of Melee reach; attack it from a safe Ranged or Magic position.",
+        "Keep the Melee healers from engaging and healing during every wave, then defeat Jad. Clear injured enemies rather than letting a healer reach them."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Denying_the_Healers",
+        "https://oldschool.runescape.wiki/w/TzTok-Jad"
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Denying the Healers II",
+      "activity": "TzTok-Jad",
+      "steps": [
+        "Prepare strong burst damage for Jad and keep protection-prayer switches reliable before attempting this task.",
+        "As Jad reaches healer-spawn health, burst him down before any healer heals him, or immediately draw the healers off him. Finish the cave without a single Yt-HurKot heal."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Denying_the_Healers_II",
+        "https://oldschool.runescape.wiki/w/TzTok-Jad"
+      ]
+    },
+    {
+      "id": 152,
+      "name": "You Didn't Say Anything About a Bat",
+      "activity": "TzTok-Jad",
+      "steps": [
+        "Check for Tz-Kih bats at the start of every wave. Kill them first from a distance, or block them behind terrain before attacking other enemies.",
+        "Never let a bat reach you and attack, even with protection active. Maintain that rule through all waves, then kill Jad."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/TzTok-Jad",
+        "https://oldschool.runescape.wiki/w/You_Didn%27t_Say_Anything_About_a_Bat"
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Facing Jad Head-on",
+      "activity": "TzTok-Jad",
+      "steps": [
+        "Bring only Melee damage options, including a halberd if you want extra reach, plus food and prayer restoration. Do not use Ranged or Magic attacks on any wave.",
+        "Use terrain and protection prayers to handle each wave, then fight Jad while reacting to his Melee, Ranged and Magic attacks. Deal with the healers using Melee too."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Facing_Jad_Head-on",
+        "https://oldschool.runescape.wiki/w/TzTok-Jad"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "No Time for a Drink",
+      "activity": "TzTok-Jad",
+      "steps": [
+        "Use practised prayer flicking to protect against attacks without Prayer draining, and keep Tz-Kih bats from attacking you.",
+        "Apply the same no-drain prayer control through every wave and Jad. A later potion cannot undo a lost Prayer point, so restart if Prayer drains."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/No_Time_for_a_Drink",
+        "https://oldschool.runescape.wiki/w/TzTok-Jad"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Fight Caves Speed-Chaser",
+      "activity": "TzTok-Jad",
+      "steps": [
+        "Plan the wave spawns and bring weapons that efficiently clear both weaker enemies and the high-health magers.",
+        "Attack new spawns promptly, limit time spent arranging unnecessary safespots and prepare a quick Jad healer plan. Finish all waves and Jad in under 30:00."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fight_Caves_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/TzTok-Jad"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Fight Caves Speed-Runner",
+      "activity": "TzTok-Jad",
+      "steps": [
+        "Practise a fast wave route and position for the next spawn before each wave ends. Use efficient damage against both small enemies and magers.",
+        "Minimise idle movement and eating without losing control of prayers. Clear Jad and his healers promptly to finish the full cave in under 26:30."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Fight_Caves_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/TzTok-Jad"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Kalphite Queen Adept",
+      "activity": "Kalphite Queen",
+      "steps": [
+        "Bring a Melee weapon for the first form, a Ranged weapon for the second, food and prayer restoration.",
+        "Fight each form with its suitable style and use protection prayers to reduce incoming damage. Restock between trips and repeat until you have 25 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kalphite_Queen",
+        "https://oldschool.runescape.wiki/w/Kalphite_Queen_Adept"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Kalphite Queen Veteran",
+      "activity": "Kalphite Queen",
+      "steps": [
+        "Prepare Melee and Ranged switches, food and prayer supplies, and a reliable route back to the lair.",
+        "Use Melee on the first form and Ranged on the second, healing before dangerous transitions. Bank as needed and repeat to 50 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kalphite_Queen",
+        "https://oldschool.runescape.wiki/w/Kalphite_Queen_Veteran"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Chitin Penetrator",
+      "activity": "Kalphite Queen",
+      "steps": [
+        "Bring a defence-lowering special attack, such as a dragon warhammer or Bandos godsword, and land a successful reduction on the Queen.",
+        "Finish the kill after your reduction. In a group, ensure nobody else lowers her Defence after you; the most recent reduction must be yours."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chitin_Penetrator",
+        "https://oldschool.runescape.wiki/w/Kalphite_Queen"
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Insect Deflection",
+      "activity": "Kalphite Queen",
+      "steps": [
+        "Bring Vengeance and lower the second form to low health. Stop attacking and remove other ongoing damage sources before the finish.",
+        "Cast Vengeance and survive an incoming hit that reflects enough damage to kill her. The reflected damage must deliver the killing blow."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Insect_Deflection",
+        "https://oldschool.runescape.wiki/w/Kalphite_Queen"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Prayer Smasher",
+      "activity": "Kalphite Queen",
+      "steps": [
+        "Equip Verac's flail as your only weapon for both Queen forms. Wearing the full Verac set can help its attacks bypass defence and prayers.",
+        "Bring plenty of food and prayer restoration for the slower second form. Never switch to another damaging weapon; finish both forms with the flail."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kalphite_Queen",
+        "https://oldschool.runescape.wiki/w/Prayer_Smasher"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "King Black Dragon Novice",
+      "activity": "King Black Dragon",
+      "steps": [
+        "Bring dragonfire protection, food and a suitable weapon. Travel through the Wilderness to the lair with only gear you are willing to risk.",
+        "Use Protect from Melee at close range and maintain dragonfire protection. The lair itself is outside PvP; restock between trips and reach 10 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/King_Black_Dragon",
+        "https://oldschool.runescape.wiki/w/King_Black_Dragon_Novice"
+      ]
+    },
+    {
+      "id": 163,
+      "name": "King Black Dragon Champion",
+      "activity": "King Black Dragon",
+      "steps": [
+        "Prepare dragonfire protection, food and prayer supplies. Watch for players on the Wilderness approach; the KBD lair itself is outside PvP.",
+        "Use Protect from Melee when fighting up close and keep dragonfire protection active. Bank as needed and repeat until you have 25 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/King_Black_Dragon",
+        "https://oldschool.runescape.wiki/w/King_Black_Dragon_Champion"
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Claw Clipper",
+      "activity": "King Black Dragon",
+      "steps": [
+        "Bring dragonfire protection and enough Prayer to keep Protect from Melee active through the final part of the fight.",
+        "Kill KBD with Protect from Melee still activated when he dies. Do not turn it off early to save Prayer."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Claw_Clipper",
+        "https://oldschool.runescape.wiki/w/King_Black_Dragon"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Hide Penetration",
+      "activity": "King Black Dragon",
+      "steps": [
+        "Bring a weapon with a Stab attack style, plus dragonfire protection and food.",
+        "Select its Stab combat option and kill KBD with that weapon. Check the combat-style selection rather than assuming any sword attack counts as Stab."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Hide_Penetration",
+        "https://oldschool.runescape.wiki/w/King_Black_Dragon"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Antifire Protection",
+      "activity": "King Black Dragon",
+      "steps": [
+        "Equip an anti-dragon shield and drink an antifire potion before fighting. Bring food for dragonfire effects that protection does not remove.",
+        "Keep the shield equipped and the potion effect active until KBD dies. Refresh the potion first if it is about to expire."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Antifire_Protection",
+        "https://oldschool.runescape.wiki/w/King_Black_Dragon"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Who Is the King Now?",
+      "activity": "King Black Dragon",
+      "steps": [
+        "Enter a private KBD instance with enough food, prayer restoration, dragonfire protection and weapon charges for ten kills.",
+        "Conserve supplies with Protect from Melee at close range and keep antifire active. Complete all ten kills without leaving the instance."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/King_Black_Dragon",
+        "https://oldschool.runescape.wiki/w/Who_Is_the_King_Now%3F"
+      ]
+    },
+    {
+      "id": 168,
+      "name": "Kraken Adept",
+      "activity": "Kraken",
+      "steps": [
+        "On a kraken Slayer assignment, bring a Magic weapon, food and enough charges. Wake the boss with a fishing explosive or by disturbing its tentacles.",
+        "Attack Kraken with Magic, healing through incoming damage. Bank between trips if needed and repeat until you have 20 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kraken",
+        "https://oldschool.runescape.wiki/w/Kraken_Adept"
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Unnecessary Optimisation",
+      "activity": "Kraken",
+      "steps": [
+        "Wake Kraken and its tentacles, then stop damaging the main boss while all four tentacles are still alive.",
+        "Kill each tentacle first, checking all four are dead before finishing Kraken. Do not let ongoing boss damage take the kill early."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kraken",
+        "https://oldschool.runescape.wiki/w/Unnecessary_Optimisation"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Krakan't Hurt Me",
+      "activity": "Kraken",
+      "steps": [
+        "Rent a private Kraken instance on an appropriate Slayer assignment. Bring Magic charges, food and healing supplies for 25 kills.",
+        "Wake and kill each Kraken with Magic, conserving food between spawns. Complete all 25 kills without leaving the room."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Krakan%27t_Hurt_Me",
+        "https://oldschool.runescape.wiki/w/Kraken"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Ten-tacles",
+      "activity": "Kraken",
+      "steps": [
+        "Prepare a private Kraken trip with enough Magic charges and sustained healing for 50 kills; a healing Magic option can extend the trip.",
+        "Wake each boss and attack with Magic, using downtime to heal. Stay inside the same private room for all 50 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kraken",
+        "https://oldschool.runescape.wiki/w/Ten-tacles"
+      ]
+    },
+    {
+      "id": 172,
+      "name": "One Hundred Tentacles",
+      "activity": "Kraken",
+      "steps": [
+        "Plan a long private Kraken trip with ample weapon charges and sustained healing, such as a blood-spell option alongside your main weapon.",
+        "Wake and kill each Kraken with Magic, heal during respawns and conserve supplies. Complete 100 kills without leaving the private room."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kraken",
+        "https://oldschool.runescape.wiki/w/One_Hundred_Tentacles"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Master of Broad Weaponry",
+      "activity": "Kurask",
+      "steps": [
+        "Bring a valid Kurask damage option: a leaf-bladed weapon, broad ammunition or Magic Dart. Ordinary weapons and spells will not damage it.",
+        "Use Protect from Melee up close, or attack from a safespot with broad ammunition or Magic Dart. Kill one Kurask."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Kurask",
+        "https://oldschool.runescape.wiki/w/Master_of_Broad_Weaponry"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "A Scaley Encounter",
+      "activity": "Lizardman Shaman",
+      "steps": [
+        "Bring a full tier-5 Shayzien armour set, food and poison protection to reduce the danger from shaman acid attacks.",
+        "Use Protect from Missiles, keep clear of the shaman's jump landing and move away from explosive spawns. Kill one Lizardman Shaman."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Scaley_Encounter",
+        "https://oldschool.runescape.wiki/w/Lizardman_Shaman"
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Shayzien Protector",
+      "activity": "Lizardman Shaman",
+      "steps": [
+        "Use the Molch shaman caves with full tier-5 Shayzien armour, poison protection and Protect from Missiles.",
+        "Keep outside Melee range and dodge every jump and acid attack. Kill a shaman that has damaged nobody; damage from its separate spawns is excluded by the task."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Lizardman_Shaman",
+        "https://oldschool.runescape.wiki/w/Shayzien_Protector"
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Mimic Veteran",
+      "activity": "The Mimic",
+      "steps": [
+        "Enable Mimic encounters and open an eligible clue casket that offers the fight. Bring combat gear and supplies to the Mimic chamber beneath Watson's house.",
+        "Use protection prayers, keep away from thrown candy and summoned enemies, and continue damaging the Mimic. Defeat it once."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Mimic_Veteran",
+        "https://oldschool.runescape.wiki/w/The_Mimic"
+      ]
+    },
+    {
+      "id": 177,
+      "name": "Giant Mole Novice",
+      "activity": "Giant Mole",
+      "steps": [
+        "Bring a spade and a safe light source, such as a lantern, to enter the mole tunnels beneath Falador Park.",
+        "Use Protect from Melee, follow the mole when it digs and repeat to ten kills. Restock whenever food or Prayer runs low."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Giant_Mole",
+        "https://oldschool.runescape.wiki/w/Giant_Mole_Novice"
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Giant Mole Champion",
+      "activity": "Giant Mole",
+      "steps": [
+        "Bring a spade, a safe light source and prayer supplies. A Falador shield with the mole-locator benefit makes tracking digs easier.",
+        "Use Protect from Melee and follow each resurfacing quickly. Bank between trips as needed and reach 25 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Giant_Mole",
+        "https://oldschool.runescape.wiki/w/Giant_Mole_Champion"
+      ]
+    },
+    {
+      "id": 179,
+      "name": "Why Are You Running?",
+      "activity": "Giant Mole",
+      "steps": [
+        "Prepare strong burst damage and damaging specials so you can finish with fewer attacks.",
+        "Keep pressure on the mole after each resurfacing and finish before a third burrow. Lost time does not help; each additional damaging hit can give another dig opportunity."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Giant_Mole",
+        "https://oldschool.runescape.wiki/w/Why_Are_You_Running%3F"
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Hard Hitter",
+      "activity": "Giant Mole",
+      "steps": [
+        "Prepare a high-damage weapon and suitable burst specials. Disable poison, venom, thralls, recoil and other extra damage that would add hits.",
+        "Kill the mole with at most four damage instances dealt to it. Multi-hit attacks consume several of those instances, so favour large individual hits."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Giant_Mole",
+        "https://oldschool.runescape.wiki/w/Hard_Hitter"
+      ]
+    },
+    {
+      "id": 181,
+      "name": "Whack-a-Mole",
+      "activity": "Giant Mole",
+      "steps": [
+        "Lower the mole's health and save burst damage for after a burrow. A mole-locator Falador shield helps you reach its next position.",
+        "Follow immediately when it resurfaces and deliver the remaining damage within ten seconds. Do not spend the window looting or re-equipping slowly."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Giant_Mole",
+        "https://oldschool.runescape.wiki/w/Whack-a-Mole"
+      ]
+    },
+    {
+      "id": 182,
+      "name": "Avoiding Those Little Arms",
+      "activity": "Giant Mole",
+      "steps": [
+        "Keep Protect from Melee active while the mole can attack and bring enough prayer restoration to maintain it.",
+        "Finish without the mole damaging anyone. If other players are present, they must also stay protected or out of reach throughout the kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Avoiding_Those_Little_Arms",
+        "https://oldschool.runescape.wiki/w/Giant_Mole"
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Nightmare Adept",
+      "activity": "The Nightmare",
+      "steps": [
+        "Prepare Melee damage for the shield, Magic for the totems, prayer supplies and a parasite cure such as Relicym's balm or Sanfew serum.",
+        "Match protection prayers, dodge rifts and surge paths, cure parasites and avoid spores. Break the shield, charge the totems with Magic and complete the kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nightmare_Adept",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Nightmare Veteran",
+      "activity": "The Nightmare",
+      "steps": [
+        "Use a repeatable Nightmare method: Melee the shield, Magic the totems, and carry a parasite cure with food and prayer supplies.",
+        "Dodge rifts and surges, stay clear of spores and handle parasites promptly. Restock between attempts and complete 25 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nightmare_Veteran",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Nightmare Master",
+      "activity": "The Nightmare",
+      "steps": [
+        "Prepare both Melee and Magic damage, prayer restoration and a parasite cure; agree roles if fighting in a team.",
+        "Break the shield, charge totems and handle special attacks without wasting supplies. Bank as needed and repeat until you reach 50 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nightmare_Master",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Terrible Parent",
+      "activity": "The Nightmare",
+      "steps": [
+        "Enter a solo Nightmare fight with Relicym's balm or Sanfew serum and a weapon ready to kill parasites.",
+        "Cure the infection before a parasite emerges, then kill it promptly before it can heal Nightmare. Across the kill, parasites may restore no more than 100 of the boss's health."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Terrible_Parent",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 187,
+      "name": "Explosion!",
+      "activity": "The Nightmare",
+      "steps": [
+        "Bring an area-damage attack and wait for a pair of husks to spawn. Lower both carefully if needed without killing either early.",
+        "Position the pair within the same attack area and finish both with one area attack. Maintain the correct Nightmare protection prayer while handling them."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Explosion%21",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Perfect Nightmare",
+      "activity": "The Nightmare",
+      "steps": [
+        "Agree the perfect-kill rules with everyone: correct protection prayers, cure every parasite and stay clear of spores.",
+        "Avoid rifts, corpse flowers and surge paths through the whole fight. Any player taking a listed hit, an uncured parasite explosion or off-prayer damage fails the attempt."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Perfect_Nightmare",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 189,
+      "name": "Sleep Tight",
+      "activity": "The Nightmare",
+      "steps": [
+        "Enter Nightmare alone with Melee and Magic weapons, food, prayer supplies and a parasite cure.",
+        "Break the shield with Melee, charge totems with Magic and manage husks and parasites yourself. Dodge specials and finish without another player joining."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Sleep_Tight",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 190,
+      "name": "A Long Trip",
+      "activity": "The Nightmare",
+      "steps": [
+        "Agree the no-Prayer-drain rule with every player. Use practised no-drain prayer flicking, or keep prayers off and prepare to handle the additional damage.",
+        "Handle shield, totems and specials normally without anyone losing a Prayer point. Restoring Prayer afterwards does not undo a failure."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Long_Trip",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Nightmare (Solo) Speed-Trialist",
+      "activity": "The Nightmare",
+      "steps": [
+        "Prepare an efficient solo shield-and-totem rotation with Melee and Magic switches, boosts and parasite cures.",
+        "Clear husks and parasites promptly, keep damage flowing between safe movements and avoid time lost to special attacks. Finish the solo kill in under 23:00."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nightmare_%28Solo%29_Speed-Trialist",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 192,
+      "name": "Nightmare (Solo) Speed-Chaser",
+      "activity": "The Nightmare",
+      "steps": [
+        "Practise solo phase transitions so Melee shield damage and Magic totem attacks begin immediately.",
+        "Plan specials, cure parasites and remove adds promptly without interrupting safe boss damage. Finish the solo fight in under 19:00."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nightmare_%28Solo%29_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Nightmare (Solo) Speed-Runner",
+      "activity": "The Nightmare",
+      "steps": [
+        "Prepare a fast solo Melee-and-Magic rotation and combat boosts before entering; plan which phases receive your strongest specials.",
+        "Minimise downtime between shield breaks, totems and add spawns while dodging hazards. Complete the solo kill in under 16:00."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nightmare_%28Solo%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 194,
+      "name": "Nightmare (5-Scale) Speed-Trialist",
+      "activity": "The Nightmare",
+      "steps": [
+        "Start a five-scale Nightmare fight with a coordinated five-player team. Agree totem assignments and who handles each add wave.",
+        "Use Melee on the shield and Magic on totems, with prompt switches and parasite cures. Keep all players attacking safely and finish in under 5:00."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nightmare_%285-Scale%29_Speed-Trialist",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 195,
+      "name": "Nightmare (5-Scale) Speed-Chaser",
+      "activity": "The Nightmare",
+      "steps": [
+        "Prepare a five-player Nightmare team with assigned totems, add handling and planned damage specials.",
+        "Switch immediately between shield and totem phases, cure parasites and avoid deaths or stalled add clears. Finish the five-scale fight in under 4:00."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nightmare_%285-Scale%29_Speed-Chaser",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Nightmare (5-Scale) Speed-Runner",
+      "activity": "The Nightmare",
+      "steps": [
+        "Practise a five-scale team rotation with coordinated shield damage, totem assignments and fast husk and parasite clears.",
+        "Pre-pot and use planned specials while keeping phase transitions immediate. Avoid lost damage to hazards and finish the five-scale kill in under 3:30."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Nightmare_%285-Scale%29_Speed-Runner",
+        "https://oldschool.runescape.wiki/w/The_Nightmare"
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Dagannoth Prime Champion",
+      "activity": "Dagannoth Prime",
+      "steps": [
+        "Bring a Ranged weapon and Protect from Magic for Prime. Stay on the outer side of the room to avoid also attracting Rex and Supreme.",
+        "Kill Prime from range, maintain Magic protection and repeat to ten kills. Restock if Prayer or ammunition is running low."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Prime",
+        "https://oldschool.runescape.wiki/w/Dagannoth_Prime_Champion"
+      ]
+    },
+    {
+      "id": 198,
+      "name": "Dagannoth Prime Adept",
+      "activity": "Dagannoth Prime",
+      "steps": [
+        "Prepare Ranged damage, food and prayer restoration for Prime; keep out of the other kings' reach when possible.",
+        "Use Protect from Magic throughout his attacks and repeat to 25 kills. Bank between trips rather than running out of protection supplies."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Prime",
+        "https://oldschool.runescape.wiki/w/Dagannoth_Prime_Adept"
+      ]
+    },
+    {
+      "id": 199,
+      "name": "Death to the Seer King",
+      "activity": "Dagannoth Prime",
+      "steps": [
+        "Lower Prime to low health while keeping Rex and Supreme alive. Bring food to handle attacks from several styles.",
+        "Draw both Rex and Supreme onto you, then finish Prime while both are actively attacking you. Keep both attackers alive until Prime dies."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Prime",
+        "https://oldschool.runescape.wiki/w/Death_to_the_Seer_King"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "From One King to Another",
+      "activity": "Dagannoth Prime",
+      "steps": [
+        "Bring a rune thrownaxe and save enough special energy. Lower Prime to finishing-hit health and position Rex close enough for the axe to bounce to Prime.",
+        "Stop other damage to Prime, target Rex and activate the rune thrownaxe special. The bounce from Rex must deliver Prime's killing blow."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Prime",
+        "https://oldschool.runescape.wiki/w/From_One_King_to_Another"
+      ]
+    },
+    {
+      "id": 201,
+      "name": "Dagannoth Rex Champion",
+      "activity": "Dagannoth Rex",
+      "steps": [
+        "Bring a Magic weapon and supplies, and isolate Rex from the other kings near the edge of the room.",
+        "Lure Rex into a terrain safespot and kill him with Magic while staying out of Prime and Supreme's attack range. Repeat to ten kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Rex",
+        "https://oldschool.runescape.wiki/w/Dagannoth_Rex_Champion"
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Dagannoth Rex Adept",
+      "activity": "Dagannoth Rex",
+      "steps": [
+        "Prepare Magic charges or runes and a reliable Rex safespot on the room's outer edge.",
+        "Keep Rex blocked behind terrain and avoid drawing Prime and Supreme. Restock between trips as needed until you have 25 Rex kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Rex",
+        "https://oldschool.runescape.wiki/w/Dagannoth_Rex_Adept"
+      ]
+    },
+    {
+      "id": 203,
+      "name": "Death to the Warrior King",
+      "activity": "Dagannoth Rex",
+      "steps": [
+        "Lower Rex to low health while leaving Prime and Supreme alive. Bring food and suitable protection prayers for the combined attacks.",
+        "Draw Prime and Supreme onto you and finish Rex while both are attacking you. A safe isolated Rex kill does not meet this condition."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Rex",
+        "https://oldschool.runescape.wiki/w/Death_to_the_Warrior_King"
+      ]
+    },
+    {
+      "id": 204,
+      "name": "A Frozen King",
+      "activity": "Dagannoth Rex",
+      "steps": [
+        "Bring a binding or ice spell and lower Rex to low health with Magic.",
+        "Land the immobilising spell, then finish Rex before its effect ends. Confirm the spell succeeded; a splash does not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/A_Frozen_King",
+        "https://oldschool.runescape.wiki/w/Dagannoth_Rex"
+      ]
+    },
+    {
+      "id": 205,
+      "name": "Toppling the Diarchy",
+      "activity": "Dagannoth Rex",
+      "steps": [
+        "Lower Rex and either Prime or Supreme to low health while keeping both alive. Coordinate finishing attacks with a partner, or prepare a suitable area attack.",
+        "Time the final hits so both kings die together. Disable lingering damage that could kill one early; two nearby but separate deaths do not count."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Dagannoth_Rex",
+        "https://oldschool.runescape.wiki/w/Toppling_the_Diarchy"
+      ]
+    },
+    {
+      "id": 206,
+      "name": "Sarachnis Novice",
+      "activity": "Sarachnis",
+      "steps": [
+        "Bring a Crush weapon, food and prayer supplies. Use Protect from Melee while adjacent to Sarachnis and Protect from Missiles during her webbed ranged phase.",
+        "Return to Melee range promptly after the web releases and handle summoned spiders as needed. Bank between trips and reach ten kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Sarachnis",
+        "https://oldschool.runescape.wiki/w/Sarachnis_Novice"
+      ]
+    },
+    {
+      "id": 207,
+      "name": "Sarachnis Champion",
+      "activity": "Sarachnis",
+      "steps": [
+        "Prepare a Crush weapon, food and prayer restoration for repeated Sarachnis kills.",
+        "Protect from Melee up close, switch to Missiles for the webbed ranged attack and return to the boss promptly. Manage summoned spiders and repeat to 25 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Sarachnis",
+        "https://oldschool.runescape.wiki/w/Sarachnis_Champion"
+      ]
+    },
+    {
+      "id": 208,
+      "name": "Ready to Pounce",
+      "activity": "Sarachnis",
+      "steps": [
+        "Fight close to Sarachnis with Protect from Melee. When webbed, switch to Protect from Missiles for the ranged attack.",
+        "As soon as the web releases, return to Melee range so her next attack is Melee. Do not let distance cause two ranged attacks in succession."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Ready_to_Pounce",
+        "https://oldschool.runescape.wiki/w/Sarachnis"
+      ]
+    },
+    {
+      "id": 209,
+      "name": "Inspect Repellent",
+      "activity": "Sarachnis",
+      "steps": [
+        "Use Protect from Melee while next to Sarachnis and switch to Protect from Missiles when she webs you and attacks at range.",
+        "Return promptly after each web and finish without Sarachnis damaging any player. If others join, their prayer switches must also prevent her damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Inspect_Repellent",
+        "https://oldschool.runescape.wiki/w/Sarachnis"
+      ]
+    },
+    {
+      "id": 210,
+      "name": "Newspaper Enthusiast",
+      "activity": "Sarachnis",
+      "steps": [
+        "Bring a weapon with a Crush attack style and select its Crush combat option.",
+        "Use protection prayers for Melee up close and Missiles during web attacks. Finish Sarachnis with the Crush weapon rather than switching to another style."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Newspaper_Enthusiast",
+        "https://oldschool.runescape.wiki/w/Sarachnis"
+      ]
+    },
+    {
+      "id": 211,
+      "name": "Commander Zilyana Adept",
+      "activity": "Commander Zilyana",
+      "steps": [
+        "Bring Ranged gear, stamina support, food and prayer restoration. Kite Zilyana around the room with Protect from Magic, keeping her and Starlight out of Melee reach.",
+        "Attack between movements and deal with the bodyguards after each boss kill. Restock between trips and repeat to 50 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana",
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana/Strategies",
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana_Adept"
+      ]
+    },
+    {
+      "id": 212,
+      "name": "Commander Zilyana Veteran",
+      "activity": "Commander Zilyana",
+      "steps": [
+        "Prepare a sustained Ranged kiting setup with stamina support, food and prayer supplies.",
+        "Keep Zilyana and Starlight behind you while using Protect from Magic, then clear bodyguards between spawns. Bank as needed and reach 100 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana",
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana/Strategies",
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana_Veteran"
+      ]
+    },
+    {
+      "id": 213,
+      "name": "Commander Showdown",
+      "activity": "Commander Zilyana",
+      "steps": [
+        "Lower Zilyana to low health without finishing her, then turn to Starlight, Growler and Bree.",
+        "Kill all three bodyguards and finish Zilyana before any respawns. Stop lingering boss damage while clearing them so she cannot die too early."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Commander_Showdown",
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana",
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana/Strategies"
+      ]
+    },
+    {
+      "id": 214,
+      "name": "Animal Whisperer",
+      "activity": "Commander Zilyana",
+      "steps": [
+        "Rent a private instance and use a practised Ranged kite to avoid Zilyana and Starlight's Melee attacks.",
+        "Prevent Growler's Magic and Bree's Ranged damage with correct protection switches, then clear them. Finish Zilyana without any boss or bodyguard damage; freezing a ranged attacker does not stop its attacks."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Animal_Whisperer",
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana",
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana/Strategies"
+      ]
+    },
+    {
+      "id": 215,
+      "name": "Moving Collateral",
+      "activity": "Commander Zilyana",
+      "steps": [
+        "Rent a private instance and bring chinchompas for indirect area damage. Position a bodyguard beside Zilyana so the blast can hit her too.",
+        "Always target the bodyguard with your chinchompas, repositioning as needed. Never click Zilyana to attack; defeat her entirely with the collateral damage."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Chinchompa_(weapon)",
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana",
+        "https://oldschool.runescape.wiki/w/Moving_Collateral"
+      ]
+    },
+    {
+      "id": 216,
+      "name": "Reminisce",
+      "activity": "Commander Zilyana",
+      "steps": [
+        "Rent a private instance and bring only Melee damage weapons, with ample food and prayer restoration.",
+        "Fight Zilyana and her bodyguards using Melee, keeping protection prayers active and healing before low health. Do not use Ranged or Magic damage at any point in the kill."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana",
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana/Strategies",
+        "https://oldschool.runescape.wiki/w/Reminisce"
+      ]
+    },
+    {
+      "id": 217,
+      "name": "Peach Conjurer",
+      "activity": "Commander Zilyana",
+      "steps": [
+        "Rent a private instance with supplies and weapon charges for 50 kills. Bring Bones to Peaches tablets or the spell to turn bodyguard bones into healing food.",
+        "Kite Zilyana with Ranged and Protect from Magic, then clear bodyguards and convert their bones between spawns. Complete all 50 kills without leaving the room."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana",
+        "https://oldschool.runescape.wiki/w/Commander_Zilyana/Strategies",
+        "https://oldschool.runescape.wiki/w/Peach_Conjurer"
+      ]
+    },
+    {
+      "id": 218,
+      "name": "Scorpia Adept",
+      "activity": "Scorpia",
+      "steps": [
+        "Bring Magic, freezing spells, antipoison and food for this Wilderness boss. Take only gear you are willing to risk on the approach and in the lair.",
+        "Freeze Scorpia to keep out of Melee range, remove or immobilise her healing guardians and continue Magic damage. Restock as needed and reach ten kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Scorpia",
+        "https://oldschool.runescape.wiki/w/Scorpia_Adept"
+      ]
+    },
+    {
+      "id": 219,
+      "name": "Scorpia Veteran",
+      "activity": "Scorpia",
+      "steps": [
+        "Prepare Magic damage, freezes, antipoison and food for repeated Wilderness kills.",
+        "Keep Scorpia immobilised, handle healing guardians promptly and watch for other players. Bank between trips as needed and repeat to 25 kills."
+      ],
+      "sources": [
+        "https://oldschool.runescape.wiki/w/Scorpia",
+        "https://oldschool.runescape.wiki/w/Scorpia_Veteran"
+      ]
+    }
+  ]
+}

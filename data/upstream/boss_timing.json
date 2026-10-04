@@ -1,0 +1,557 @@
+{
+  "version": "2026-07-05",
+  "source": "data/curation/boss_timing.csv (OSRS Wiki + estimation). ROUGH timings.",
+  "note": "Per-boss rough time-to-kill (seconds), respawn/downtime, effective kills-per-hour, and attempts-per-kill (novice fail rate). For raids/minigames ttkSeconds is one full run. Used with each CA's kill count to estimate real grind time. Estimates, not guarantees.",
+  "monsterCount": 90,
+  "missing": [],
+  "monsters": {
+    "Aberrant Spectre": {
+      "ttkSeconds": 18,
+      "respawnSeconds": 4,
+      "killsPerHour": 165,
+      "note": "Slayer-task fodder; Magic/Salve or strong melee. Multiple spawns in the spectre area keep it near-continuous; small walk/re-aggro between kills."
+    },
+    "Abyssal Sire": {
+      "ttkSeconds": 110,
+      "respawnSeconds": 25,
+      "killsPerHour": 27,
+      "note": "Melee/Magic, ~95+ Slayer. Multi-phase (stun spawns, vents, walk-back to vents, respawn portal); downtime is re-entry and re-stunning."
+    },
+    "Alchemical Hydra": {
+      "ttkSeconds": 100,
+      "respawnSeconds": 25,
+      "killsPerHour": 29,
+      "note": "Requires 95 Slayer + task; 4 phases with attack-style/prayer swaps and poison pools. Assumes ranged (bowfa/blowpipe) + decent gear. Downtime is walk-back/re-aggro within instance."
+    },
+    "Amoxliatl": {
+      "ttkSeconds": 40,
+      "respawnSeconds": 10,
+      "killsPerHour": 40,
+      "note": "Easy small-scale boss; competent ~40 KPH (65+ maxed). ttk short; respawn = brief reset/re-aggro. Near-continuous grinding."
+    },
+    "Araxxor": {
+      "ttkSeconds": 80,
+      "respawnSeconds": 30,
+      "killsPerHour": 33,
+      "note": "Solo instance; melee/range with leg-phase + enrage. ttk is the fight; respawn = re-enter instance, restock. Acid/cleave mechanics add some variance."
+    },
+    "Barrows": {
+      "ttkSeconds": 240,
+      "respawnSeconds": 30,
+      "killsPerHour": 13,
+      "note": "One full run = 6 brothers + tunnel/chest. Trident/blood spells or melee. ttk is the whole run; downtime is bank/teleport/re-dig between chests."
+    },
+    "Basilisk Knight": {
+      "ttkSeconds": 30,
+      "respawnSeconds": 6,
+      "killsPerHour": 100,
+      "note": "Requires Mirror/Reflect shield; melee. Jadinkos/limited spawns in the Jormungand cave create some downtime hopping between them."
+    },
+    "Black Dragon": {
+      "ttkSeconds": 22,
+      "respawnSeconds": 30,
+      "killsPerHour": 70,
+      "note": "Anti-dragon protection + ranged/melee. Overworld (Taverley/Evil Chicken lair); few spawns mean hopping/walking, so notable re-aggro downtime."
+    },
+    "Bloodveld": {
+      "ttkSeconds": 12,
+      "respawnSeconds": 3,
+      "killsPerHour": 240,
+      "note": "Slayer task; magic-defence-low so melee/Salve shreds them. Dense spawns (Catacombs/Meiyerditch) keep it nearly continuous."
+    },
+    "Brutal Black Dragon": {
+      "ttkSeconds": 35,
+      "respawnSeconds": 8,
+      "killsPerHour": 85,
+      "note": "84 Slayer; anti-dragon + ranged (DHCB/bowfa). Catacombs spawns are decent; modest walk/re-aggro between kills."
+    },
+    "Brutus": {
+      "ttkSeconds": 6,
+      "respawnSeconds": 10,
+      "killsPerHour": 225,
+      "note": "F2P cow boss, near-instant kill (spec/Dharok's; elite CA is <2s). Downtime dominates: 21.6s respawn normally, 7.8s with cowbell amulet 'Ring' - rate assumes cowbell. Without it ~130/hr."
+    },
+    "Bryophyta": {
+      "ttkSeconds": 70,
+      "respawnSeconds": 45,
+      "killsPerHour": 31,
+      "note": "Moss Giant boss; requires mossy key per kill. ttk modest with melee; downtime is banking/keys and instance re-entry, key supply is the real cap."
+    },
+    "Callisto": {
+      "ttkSeconds": 50,
+      "respawnSeconds": 35,
+      "killsPerHour": 42,
+      "note": "Wilderness boss (singles-plus); ranged/melee. Downtime is re-spawn + PKer risk/hopping. CA kills achievable solo; timing assumes no deaths."
+    },
+    "Cerberus": {
+      "ttkSeconds": 55,
+      "respawnSeconds": 15,
+      "killsPerHour": 51,
+      "note": "Melee/ranged with prayer-flicking the souls; ~50-55s kill plus brief lair re-entry/setup. Spawn-heavy CAs (e.g. Triple Threat) may force a slower attack pattern."
+    },
+    "Chambers of Xeric": {
+      "ttkSeconds": 1800,
+      "respawnSeconds": 120,
+      "killsPerHour": 2,
+      "note": "Normal CoX, competent team ~25-35min; solo ~40min+. Setup/restock between raids. ~2 runs/hr in a team."
+    },
+    "Chambers of Xeric: Challenge Mode": {
+      "ttkSeconds": 3600,
+      "respawnSeconds": 180,
+      "killsPerHour": 1,
+      "note": "CM raid much harder than normal; competent team ~50-70min, solo well over an hour. Restock/setup between. Roughly 1/hr or less."
+    },
+    "Chaos Elemental": {
+      "ttkSeconds": 50,
+      "respawnSeconds": 30,
+      "killsPerHour": 45,
+      "note": "Wildy boss; ranged/crossbow. ~50s kill but disarm mechanic and walk-back/teleport-clutter add downtime; ~30s realistic between kills."
+    },
+    "Chaos Fanatic": {
+      "ttkSeconds": 35,
+      "respawnSeconds": 25,
+      "killsPerHour": 60,
+      "note": "Wildy boss, ranged/mage. Quick kill ~30-40s; respawn timer plus repositioning. Low-hanging CA target."
+    },
+    "Commander Zilyana": {
+      "ttkSeconds": 50,
+      "respawnSeconds": 30,
+      "killsPerHour": 45,
+      "note": "Sara GWD; fast kill but KC-gating or instance reset adds downtime. Assumes minions cleared/instanced; ~45/hr."
+    },
+    "Corporeal Beast": {
+      "ttkSeconds": 240,
+      "respawnSeconds": 30,
+      "killsPerHour": 13,
+      "note": "Solo with spec-heavy gear (BGS/Voidwaker) takes ~4min; large HP pool and 50% magic damage reduction. Most CAs are solo-doable but slow."
+    },
+    "Corrupted Hunllef": {
+      "ttkSeconds": 360,
+      "respawnSeconds": 90,
+      "killsPerHour": 8,
+      "note": "Corrupted Gauntlet; ttk is one full run including ~7-9min prep (resource gathering, gear crafting) plus the boss. Respawn = re-entry/new instance setup. Many CAs here are very hard.",
+      "attemptsPerKill": 4.0
+    },
+    "Crazy Archaeologist": {
+      "ttkSeconds": 35,
+      "respawnSeconds": 25,
+      "killsPerHour": 60,
+      "note": "Wildy boss, ranged. Fast ~30-40s kill; respawn plus reposition. Avoid 'Rubble' AoE for some CAs."
+    },
+    "Crystalline Hunllef": {
+      "ttkSeconds": 720,
+      "respawnSeconds": 300,
+      "killsPerHour": 3,
+      "note": "Corrupted/Crystal Gauntlet final boss; ttk is the boss fight only but realistically it's a full ~17min Gauntlet run (prep+boss). Trid->relics weapon swap, 3 prayer flicks. Counting full run incl prep+restart: ~3/hr.",
+      "attemptsPerKill": 3.0
+    },
+    "Dagannoth Prime": {
+      "ttkSeconds": 60,
+      "respawnSeconds": 90,
+      "killsPerHour": 24,
+      "note": "Wiki respawn is 150 ticks = 90s. The slowest kill of the three: Prime is tankiest against its own weakness, with a ranged defence roll of 19,536 - 1.9x Supreme's - so a ~90 Ranged account barely out-rolls it. Pray Magic, kill with ranged."
+    },
+    "Dagannoth Rex": {
+      "ttkSeconds": 40,
+      "respawnSeconds": 90,
+      "killsPerHour": 27,
+      "note": "Wiki respawn is 150 ticks = 90s. Rex has Magic level 0 so magic hits ~99%, but a trident is low damage: ~6 DPS against 255 HP is ~40s. The easiest of the three - pray Melee, one style."
+    },
+    "Dagannoth Supreme": {
+      "ttkSeconds": 50,
+      "respawnSeconds": 90,
+      "killsPerHour": 25,
+      "note": "Wiki respawn is 150 ticks = 90s. Lowest defence level (128) and only +10 melee defence, so melee is right, but 255 HP at realistic accuracy is ~50s, not the 18s previously recorded - that figure needed 14.2 DPS, beyond even a maxed Scythe setup."
+    },
+    "Demonic Gorilla": {
+      "ttkSeconds": 70,
+      "respawnSeconds": 10,
+      "killsPerHour": 45,
+      "note": "Prayer-switching every ~3 attacks; ~60-80s with tridents/crossbow swaps. Continuous since multiple spawn in cave; minimal walk."
+    },
+    "Deranged Archaeologist": {
+      "ttkSeconds": 35,
+      "respawnSeconds": 20,
+      "killsPerHour": 65,
+      "note": "Fossil Island, non-wildy so no risk; ranged ~30-40s. Dodge 'Learn to Read' AoE. Quick respawn/reset."
+    },
+    "Doom of Mokhaiotl": {
+      "ttkSeconds": 580,
+      "respawnSeconds": 20,
+      "killsPerHour": 6,
+      "note": "Run = full Delve 1-8 clear (the CA-relevant unit); wiki ~6 completions/hr competent (scorching bow users ~5). Boss scales each delve level; deeper 1-16 runs are ~2-2.5/hr. ttk shown is one 1-8 run."
+    },
+    "Duke Sucellus": {
+      "ttkSeconds": 90,
+      "respawnSeconds": 40,
+      "killsPerHour": 27,
+      "note": "Easiest DT2 boss; melee/range. ttk includes the awaken phase; respawn = teleport, restock, re-enter. Fairly low-variance once gear is decent.",
+      "attemptsPerKill": 2.0
+    },
+    "Fire Giant": {
+      "ttkSeconds": 18,
+      "respawnSeconds": 7,
+      "killsPerHour": 144,
+      "note": "Slayer/regular monster; competent gear melts them ~15-20s. Multi-spawn dungeons keep it near-continuous; only one CA tier."
+    },
+    "Fortis Colosseum": {
+      "ttkSeconds": 1800,
+      "respawnSeconds": 60,
+      "killsPerHour": 2,
+      "note": "Full 12-wave run to Sol Heredit = one completion (~25-35 min). ttk is the run; respawn = restock/setup before re-entry. Many CAs are per-wave so partial runs count; full clear is the long pole. ~2 full runs/hr."
+    },
+    "Fragment of Seren": {
+      "ttkSeconds": 150,
+      "respawnSeconds": 60,
+      "killsPerHour": 17,
+      "note": "Song of the Elves quest boss / Gauntlet-tier fight; multi-phase. Hard one-off but doable ~2.5 min with good gear + prayer flicking."
+    },
+    "Galvek": {
+      "ttkSeconds": 150,
+      "respawnSeconds": 120,
+      "killsPerHour": 13,
+      "note": "Dragon Slayer II quest boss; only re-fightable via the fight replay (boss portal). Multi-phase ~2-3min plus lengthy re-setup/dialogue to restart."
+    },
+    "Gargoyle": {
+      "ttkSeconds": 14,
+      "respawnSeconds": 6,
+      "killsPerHour": 180,
+      "note": "Slayer monster, needs rock hammer to finish. ~12-16s kill in multi-spawn area; effectively continuous."
+    },
+    "General Graardor": {
+      "ttkSeconds": 45,
+      "respawnSeconds": 35,
+      "killsPerHour": 45,
+      "note": "Bandos GWD; melee (with ranged/mage for minions). Quick kills; downtime from KC requirement to re-enter and minion cleanup. Much faster duoed."
+    },
+    "Giant Mole": {
+      "ttkSeconds": 60,
+      "respawnSeconds": 25,
+      "killsPerHour": 42,
+      "note": "Salve/crush melee; burrows and relocates so chase/dig downtime. ~60s kill + ~25s reposition/instance reset."
+    },
+    "Giants": {
+      "ttkSeconds": 12,
+      "respawnSeconds": 8,
+      "killsPerHour": 180,
+      "note": "Generic giants (Hill/Moss/Fire) for CA tasks; trivial kills, fast respawn at multi-spawn spots. Mid-level melee gear."
+    },
+    "Glough": {
+      "ttkSeconds": 90,
+      "respawnSeconds": 45,
+      "killsPerHour": 26,
+      "note": "Monkey Madness II quest boss / re-fight via Maniacal monkey area teleport. Multi-phase (demon adds). Assumes mid-game melee/ranged gear; downtime for re-entry and phase transitions."
+    },
+    "Greater Demon": {
+      "ttkSeconds": 12,
+      "respawnSeconds": 8,
+      "killsPerHour": 180,
+      "note": "Slayer/overworld trash; Catacombs or Skeletal Mystics-style stacks. Cannon optional. Fast melee/ranged kills, brief re-aggro/walk between spawns."
+    },
+    "Grotesque Guardians": {
+      "ttkSeconds": 110,
+      "respawnSeconds": 25,
+      "killsPerHour": 27,
+      "note": "Dusk+Dawn two-phase fight; ~90-120s with good DPS. Requires Slayer task assignment normally; instance re-entry adds downtime."
+    },
+    "Hellhound": {
+      "ttkSeconds": 10,
+      "respawnSeconds": 6,
+      "killsPerHour": 220,
+      "note": "Slayer task; Catacombs/Stronghold Slayer Cave. High volume, minimal downtime. Cannon dramatically raises rate; estimate is melee no-cannon."
+    },
+    "Hespori": {
+      "ttkSeconds": 75,
+      "respawnSeconds": 180,
+      "killsPerHour": 13,
+      "note": "Farming Guild boss, once-per-seed grow cycle so true rate is gated by farming, not combat. ttk is the fight; respawn here represents setup/teleport per attempt. Multi-phase (flowers spawn)."
+    },
+    "K'ril Tsutsaroth": {
+      "ttkSeconds": 35,
+      "respawnSeconds": 40,
+      "killsPerHour": 48,
+      "note": "GWD Zamorak boss, melee BIS; ~30-40s kill but KC-gathering/minion clear + instance re-entry adds downtime. Rate reflects instanced trips."
+    },
+    "Kalphite Queen": {
+      "ttkSeconds": 70,
+      "respawnSeconds": 35,
+      "killsPerHour": 34,
+      "note": "Two phases needing range+melee style swap (e.g. bowfa then melee). Lair has spawn cycle/instance hop downtime. Assumes solid mid-high gear."
+    },
+    "King Black Dragon": {
+      "ttkSeconds": 55,
+      "respawnSeconds": 35,
+      "killsPerHour": 40,
+      "note": "Instanced via lever; antifire required. Single-phase tanky dragon. Downtime is instance re-entry/banking trips. Melee or ranged mid-game gear."
+    },
+    "Kraken": {
+      "ttkSeconds": 35,
+      "respawnSeconds": 20,
+      "killsPerHour": 65,
+      "note": "Slayer-locked; whirlpool disturb + tentacles then boss. Magic (trident/sang) standard. Solo instance, AFK-ish; downtime is re-entry/whirlpool reset between kills."
+    },
+    "Kree'arra": {
+      "ttkSeconds": 50,
+      "respawnSeconds": 35,
+      "killsPerHour": 42,
+      "note": "Armadyl GWD; ranged (bowfa/blowpipe). Fast kills but KC grind to enter + minions; solo downtime is killcount/re-setup. Faster in teams."
+    },
+    "Kurask": {
+      "ttkSeconds": 14,
+      "respawnSeconds": 8,
+      "killsPerHour": 165,
+      "note": "Slayer task; needs leaf-bladed weapon or broad bolts/magic dart. Fremennik Slayer Dungeon stack. Steady melee/ranged kills with short re-aggro."
+    },
+    "Leviathan": {
+      "ttkSeconds": 110,
+      "respawnSeconds": 40,
+      "killsPerHour": 24,
+      "note": "Ranged (bowfa/tbow). ttk is the fight; respawn = teleport out, restock, re-enter instance. Prayer-flick / boulder mechanics add some kill-time variance."
+    },
+    "Lizardman Shaman": {
+      "ttkSeconds": 25,
+      "respawnSeconds": 8,
+      "killsPerHour": 100,
+      "note": "Melee/range with decent gear; Lizardman Canyon multi-spawn keeps near-continuous. Some downtime hunting spawns/spawned-minion mechanic; ~100/hr realistic."
+    },
+    "Moons of Peril": {
+      "ttkSeconds": 300,
+      "respawnSeconds": 40,
+      "killsPerHour": 10,
+      "note": "Full 3-moon run (Blood/Blue/Eclipse) = one 'completion'. ttk is the whole circuit; respawn = open Lunar Chest + walk/reset between runs. Competent gear ~10 runs/hr."
+    },
+    "Nex": {
+      "ttkSeconds": 180,
+      "respawnSeconds": 90,
+      "killsPerHour": 13,
+      "note": "Mass/small team; ~2.5-4min per kill in a team. 4 phases. Downtime for prayer/loot/re-aggro and waiting for kill. Range gear assumed.",
+      "attemptsPerKill": 2.0
+    },
+    "Obor": {
+      "ttkSeconds": 30,
+      "respawnSeconds": 90,
+      "killsPerHour": 30,
+      "note": "Hill Giant boss; requires Giant Key per kill so gated by key drops. ttk fast with decent melee; respawn reflects re-entry + key acquisition between attempts."
+    },
+    "Phantom Muspah": {
+      "ttkSeconds": 150,
+      "respawnSeconds": 30,
+      "killsPerHour": 20,
+      "note": "Solo instanced; ~2-3min per kill with prayer/range/melee swaps. Multi-phase (ranged/melee/shielded). Quick re-entry between kills."
+    },
+    "Phosani's Nightmare": {
+      "ttkSeconds": 600,
+      "respawnSeconds": 60,
+      "killsPerHour": 5,
+      "note": "Solo-only; ~9-12min per kill for competent player. Multi-phase with sleepwalkers/totems. BiS melee assumed; re-setup between kills.",
+      "attemptsPerKill": 3.0
+    },
+    "Royal Titans": {
+      "ttkSeconds": 55,
+      "respawnSeconds": 10,
+      "killsPerHour": 55,
+      "note": "Branda + Eldric duo fight, solo-able; competent ~55 KPH. ttk = one paired kill (must manage element-swap mechanic); respawn = quick re-enter. Near-continuous."
+    },
+    "Sarachnis": {
+      "ttkSeconds": 45,
+      "respawnSeconds": 15,
+      "killsPerHour": 60,
+      "note": "Crush melee (Salve), instanced. ~45s kill + re-enter/aggro. Solid ~60/hr for competent gear."
+    },
+    "Scorpia": {
+      "ttkSeconds": 50,
+      "respawnSeconds": 20,
+      "killsPerHour": 50,
+      "note": "Wildy boss; crush/range with prayer. Guardians + relocation add downtime; PKer risk ignored for timing."
+    },
+    "Scurrius": {
+      "ttkSeconds": 60,
+      "respawnSeconds": 30,
+      "killsPerHour": 40,
+      "note": "Solo instance, low-level boss. Fast kill with any decent melee/range; respawn = leave instance and re-enter (cheap). Continuous-ish for CA grinding."
+    },
+    "Shellbane gryphon": {
+      "ttkSeconds": 35,
+      "respawnSeconds": 25,
+      "killsPerHour": 58,
+      "note": "Slayer mini-boss, must be on a gryphon task; ~50-65 kills/hr competent. Needs >=40kg equip weight to negate knockback. Downtime = re-entry/walk-back into the Great Conch cave between kills."
+    },
+    "Skeletal Wyvern": {
+      "ttkSeconds": 40,
+      "respawnSeconds": 10,
+      "killsPerHour": 70,
+      "note": "Slayer monster not boss; needs elemental/dragonfire shield. Range/melee. Multi-spawn cave keeps near-continuous; ~70/hr."
+    },
+    "Skotizo": {
+      "ttkSeconds": 150,
+      "respawnSeconds": 12420,
+      "killsPerHour": 0,
+      "note": "Every kill consumes a Dark totem, which is three pieces at 1/(500-HP) from Catacombs of Kourend monsters - about 1,395 hill giant kills, or ~3.5 hours, per totem. The pieces are UNTRADEABLE, so no amount of gold shortcuts it. The respawn carries that farm; killsPerHour is 0 because the true rate is ~0.29/hr and the field is an integer."
+    },
+    "Tempoross": {
+      "ttkSeconds": 360,
+      "respawnSeconds": 60,
+      "killsPerHour": 8,
+      "note": "Group activity; ~5-7min per round including spirit pool/restock. Fishing 35+, harpoon assumed. Rounds back-to-back with brief reset."
+    },
+    "The Hueycoatl": {
+      "ttkSeconds": 420,
+      "respawnSeconds": 40,
+      "killsPerHour": 8,
+      "note": "Solo competent ~7 min (BIS solo ~8:20; trios ~5 min). Multi-phase with relic-shielded body. ttk is the kill; respawn = restock/teleport. Often done grouped, but solo is the CA-relevant figure."
+    },
+    "The Mimic": {
+      "ttkSeconds": 180,
+      "respawnSeconds": 3420,
+      "killsPerHour": 1,
+      "note": "Reached only by rolling a mimic from an elite (1/35) or master (1/15) reward casket after enabling the encounter at Watson's, so roughly 18 elite or 8 master trails per fight. The fight itself is ~3 min; the respawn carries the access cost, which is what makes the curated 1 kill/hr true. Not repeatable on demand."
+    },
+    "The Nightmare": {
+      "ttkSeconds": 360,
+      "respawnSeconds": 60,
+      "killsPerHour": 9,
+      "note": "Solo competent ~5-7 min including totem phases; respawn/setup + run-in. Phosani's would be slower; assumes regular solo."
+    },
+    "Theatre of Blood": {
+      "ttkSeconds": 2400,
+      "respawnSeconds": 120,
+      "killsPerHour": 1,
+      "note": "Full normal-mode raid, competent trio/group ~35-45min including wipes/deaths; setup+restock between runs. Solo/duo slower. CA tasks span many runs."
+    },
+    "Theatre of Blood: Entry Mode": {
+      "ttkSeconds": 1200,
+      "respawnSeconds": 120,
+      "killsPerHour": 3,
+      "note": "Story/entry mode, much softer; ~15-25min for competent team or solo. Lower DPS requirement. Setup/restock between runs."
+    },
+    "Theatre of Blood: Hard Mode": {
+      "ttkSeconds": 1800,
+      "respawnSeconds": 120,
+      "killsPerHour": 1,
+      "note": "Experienced trio/team HMT ~25-35min full run. BiS gear assumed; harder enrage mechanics. Banking/restock between runs."
+    },
+    "Thermonuclear Smoke Devil": {
+      "ttkSeconds": 40,
+      "respawnSeconds": 20,
+      "killsPerHour": 60,
+      "note": "Slayer helm + melee/ranged; ~40s kill, instance re-entry/setup downtime. Requires smoke devil task or boss-only instance."
+    },
+    "Tombs of Amascut": {
+      "ttkSeconds": 1500,
+      "respawnSeconds": 120,
+      "killsPerHour": 2,
+      "note": "Standard ~300-400 invo solo; ~22-28min full run. BiS-ish gear. Banking/restock and path reset between raids."
+    },
+    "Tombs of Amascut: Entry Mode": {
+      "ttkSeconds": 1200,
+      "respawnSeconds": 120,
+      "killsPerHour": 3,
+      "note": "Low/0 invocation; softer, ~16-22min solo. Forgiving mechanics. Setup/restock between raids."
+    },
+    "Tombs of Amascut: Expert Mode": {
+      "ttkSeconds": 1800,
+      "respawnSeconds": 120,
+      "killsPerHour": 1,
+      "note": "500+ invocation; ~28-35min solo for competent player, harder mechanics/more HP. Restock between raids."
+    },
+    "Tormented Demon": {
+      "ttkSeconds": 50,
+      "respawnSeconds": 15,
+      "killsPerHour": 55,
+      "note": "Post-rework multi-combat cavern; competent player chains kills. ttk per demon with prayer-swap mechanic; respawn = walk to next spawn/re-aggro. Near-continuous."
+    },
+    "TzHaar-Ket-Rak's Challenges": {
+      "ttkSeconds": 360,
+      "respawnSeconds": 60,
+      "killsPerHour": 9,
+      "note": "Full v1-v6 Jad challenge gauntlet ~5-7min; ranged/melee swap. Multi-phase (multiple Jads at once in later tiers). Re-entry/setup between attempts."
+    },
+    "TzKal-Zuk": {
+      "ttkSeconds": 2100,
+      "respawnSeconds": 180,
+      "killsPerHour": 1,
+      "note": "Inferno run; full clear ~30-40min for competent player. Fixed long wave sequence, single attempt is a whole run. BiS ranged/melee assumed.",
+      "attemptsPerKill": 10.0
+    },
+    "TzTok-Jad": {
+      "ttkSeconds": 1500,
+      "respawnSeconds": 120,
+      "killsPerHour": 2,
+      "note": "Fight Caves full run (~63 waves) ending in Jad; ttk = whole run, fixed long minimum. Ranged + prayer flicking on Jad/healers. ~2 completions/hr realistically incl reset.",
+      "attemptsPerKill": 2.5
+    },
+    "Vardorvis": {
+      "ttkSeconds": 95,
+      "respawnSeconds": 35,
+      "killsPerHour": 27,
+      "note": "Competent melee (fang/lance, prayer + tank switches). ttk is the fight; respawn = teleport out, restock prayer/food at altar, re-enter instance. Mechanic-heavy so deaths add variance.",
+      "attemptsPerKill": 3.0
+    },
+    "Venenatis": {
+      "ttkSeconds": 50,
+      "respawnSeconds": 40,
+      "killsPerHour": 40,
+      "note": "Wilderness boss, melee/dragon hunter; respawn ~30s plus banking/PKer risk and re-aggro. Singles+ minus prayer. Downtime inflated by Wildy logistics."
+    },
+    "Vet'ion": {
+      "ttkSeconds": 90,
+      "respawnSeconds": 45,
+      "killsPerHour": 26,
+      "note": "Wilderness, two phases + skeleton minions; crush weapon. Phase transitions add time; respawn+banking/Wildy run downtime."
+    },
+    "Vorkath": {
+      "ttkSeconds": 75,
+      "respawnSeconds": 25,
+      "killsPerHour": 36,
+      "note": "Standard DHCB/DHL + special-attack handling; ~60-90s kill, ~20-30s woox-walk/teleport+re-enter between."
+    },
+    "Whisperer": {
+      "ttkSeconds": 150,
+      "respawnSeconds": 45,
+      "killsPerHour": 18,
+      "note": "Magic + shadow-realm swaps; longer fight than other DT2 bosses. ttk includes both phases; respawn = sanctity reset, restock, re-enter. Lower KPH due to length, not downtime."
+    },
+    "Wintertodt": {
+      "ttkSeconds": 240,
+      "respawnSeconds": 30,
+      "killsPerHour": 13,
+      "note": "Group minigame, one full game ~4min; brazier relight/restart between rounds. Solo can be slower. CA tasks revolve around per-game conditions."
+    },
+    "Wyrm": {
+      "ttkSeconds": 22,
+      "respawnSeconds": 6,
+      "killsPerHour": 130,
+      "note": "Slayer task, melee/ranged in Karuulm; fast kills, brief respawn/repositioning. Continuous when on task with multiple spawns."
+    },
+    "Yama": {
+      "ttkSeconds": 195,
+      "respawnSeconds": 25,
+      "killsPerHour": 16,
+      "note": "Duo BiS-ish melee/ranged, prayer-switch heavy multi-phase fight; competent ~3:00-3:30/kill (elite Speed-Trialist is <3:38). Re-challenge immediately but brief regear/prayer/restock between. Solo is slower."
+    },
+    "Zalcano": {
+      "ttkSeconds": 300,
+      "respawnSeconds": 30,
+      "killsPerHour": 11,
+      "note": "Group skilling boss; one full encounter ~4-6min depending on group size. Restart/setup between. Solo slower."
+    },
+    "Zulrah": {
+      "ttkSeconds": 90,
+      "respawnSeconds": 30,
+      "killsPerHour": 30,
+      "note": "Mage/range switching, multi-phase rotations. ~70-110s/kill + bank/run-back ~30s. Competent ~30/hr."
+    },
+    "Maggot King": {
+      "ttkSeconds": 150,
+      "respawnSeconds": 15,
+      "killsPerHour": 20,
+      "note": "First-pass estimate pending real kill data; speed task implies ~105s top-end kills."
+    },
+    "Mad Angel": {
+      "ttkSeconds": 70,
+      "respawnSeconds": 16,
+      "killsPerHour": 40,
+      "note": "Wiki money-making guide rate is 40 kills/hr at 60+ melee. Respawn 26 ticks (15.6s). TTK derived from that rate, not measured."
+    }
+  }
+}

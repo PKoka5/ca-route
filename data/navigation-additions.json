@@ -1,0 +1,503 @@
+{
+  "reviewedAt": "2026-10-03",
+  "licence": "Coordinates: BSD-2-Clause (RuneLite / Quest Helper); Wiki-derived placement notes: CC-BY-NC-SA-3.0",
+  "destinations": [
+    {
+      "activity": "Aberrant Spectre",
+      "x": 3423,
+      "y": 3536,
+      "plane": 0,
+      "label": "Slayer Tower public approach",
+      "instructions": "Enter the Slayer Tower's ground-floor entrance and climb to the first floor for Aberrant Spectres. Bring a nose peg or Slayer helmet and check your Slayer level; the task-only basement is not the destination.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TeleportLocationData.java#L103",
+      "placementUrls": [
+        "https://oldschool.runescape.wiki/w/Aberrant_spectre"
+      ],
+      "placementEvidence": "OSRS Wiki search cache explicitly places level96 Aberrant Spectres on Slayer Tower first floor [UK], not Deviant Spectres in Catacombs.",
+      "taskIds": [
+        0
+      ]
+    },
+    {
+      "activity": "Abyssal Sire",
+      "x": 3036,
+      "y": 4761,
+      "plane": 0,
+      "label": "Abyssal Nexus fairy ring approach",
+      "instructions": "Use fairy ring DIP to reach the public Abyssal Nexus, then continue to a Sire chamber. Check your Slayer level and an eligible abyssal demon or boss task. This point is outside the combat chamber.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/FairyRingLocation.java#L76"
+    },
+    {
+      "activity": "Basilisk Knight",
+      "x": 2464,
+      "y": 4012,
+      "plane": 0,
+      "label": "Jormungand's Prison surface entrance",
+      "instructions": "Travel by boat from Rellekka to the Isle of Stone, then enter Jormungand's Prison. Continue to Basilisk Knights manually after The Fremennik Exiles; bring a mirror shield or V's shield.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L125",
+      "placementUrls": [
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/thefremennikexiles/TheFremennikExiles.java#L443",
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/thefremennikexiles/TheFremennikExiles.java#L531",
+        "https://oldschool.runescape.wiki/w/Basilisk_Knight"
+      ],
+      "placementEvidence": "Quest Helper identifies the public Isle of Stone cave (2465,4012), Rellekka boat(2623,3693), and unlocks ability to kill Basilisk Knights. RuneLite public point adjacent to actual caveobject.",
+      "taskIds": [
+        31
+      ]
+    },
+    {
+      "activity": "Black Dragon",
+      "x": 2883,
+      "y": 3397,
+      "plane": 0,
+      "label": "Taverley Dungeon surface entrance",
+      "instructions": "Climb down the entrance ladder and continue to the ordinary adult black dragons deep in Taverley Dungeon. Check the dusty-key route or available Agility shortcuts and dragonfire protection. The upper floor near the entrance is Slayer-task-only.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L215",
+      "placementUrls": [
+        "https://oldschool.runescape.wiki/w/Black_dragon",
+        "https://oldschool.runescape.wiki/w/Slayer_task/Black_dragons"
+      ],
+      "placementEvidence": "Wiki cache Black dragon and Slayer task table distinguish two ordinary adult black dragons deep in dungeon from twelve adult dragons on task-only upper floor. Public entrance coordinate is RuneLite-backed.",
+      "taskIds": [
+        32
+      ]
+    },
+    {
+      "activity": "Bloodveld",
+      "x": 3423,
+      "y": 3536,
+      "plane": 0,
+      "label": "Slayer Tower public approach",
+      "instructions": "Enter the Slayer Tower's ground floor and climb to the first floor for Bloodveld. Check your Slayer level and Morytania access before travelling; use the ordinary upper tower rather than the task-only basement.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TeleportLocationData.java#L103",
+      "placementUrls": [
+        "https://oldschool.runescape.wiki/w/Bloodveld",
+        "https://oldschool.runescape.wiki/w/Slayer_Tower"
+      ],
+      "placementEvidence": "Wiki cached slayer monster listing identifies Bloodveld at Slayer Tower; ordinary first-floor population, not basement task-only population.",
+      "taskIds": [
+        33
+      ]
+    },
+    {
+      "activity": "Brutal Black Dragon",
+      "x": 1636,
+      "y": 3673,
+      "plane": 0,
+      "label": "Catacombs of Kourend main entrance",
+      "instructions": "Enter the Catacombs beneath the statue in Kourend Castle's courtyard, then continue to the brutal black dragons in the north-west Dragon's Den. Check your Slayer level and dragonfire protection. This marks the public main entrance.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L60",
+      "placementUrls": [
+        "https://oldschool.runescape.wiki/w/Brutal_black_dragon",
+        "https://oldschool.runescape.wiki/w/Catacombs_of_Kourend",
+        "https://oldschool.runescape.wiki/w/Rocks_(Catacombs_of_Kourend)"
+      ],
+      "placementEvidence": "Wiki cached Catacombs navbox places Brutal Black Dragon in Dragon's Den; related black dragon task table states77 Slayer. Avoid unlock-only surface holes.",
+      "taskIds": [
+        34
+      ]
+    },
+    {
+      "activity": "Brutus",
+      "x": 3262,
+      "y": 3294,
+      "plane": 0,
+      "label": "Brutus bull pen gate",
+      "instructions": "Use the bull pen gate in the north-east Lumbridge cow field. Check The Ides of Milk access and choose the encounter manually.",
+      "sourceUrl": "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/theidesofmilk/TheIdesOfMilk.java#L182"
+    },
+    {
+      "activity": "Cerberus",
+      "x": 2883,
+      "y": 3397,
+      "plane": 0,
+      "label": "Taverley Dungeon surface entrance",
+      "instructions": "Enter Taverley Dungeon, continue to the hellhound area and use the passage to Cerberus. Check your Slayer level, eligible task and the dusty-key route or available Agility shortcuts.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L215"
+    },
+    {
+      "activity": "Chaos Elemental",
+      "x": 3263,
+      "y": 3918,
+      "plane": 0,
+      "label": "Chaos Elemental public Wilderness area",
+      "instructions": "Public approach west of the Rogues Castle in deep Wilderness: PvP risk. Prepare before approaching the roaming Chaos Elemental.",
+      "sourceUrl": "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/achievementdiaries/wilderness/WildernessHard.java#L213"
+    },
+    {
+      "activity": "Chaos Fanatic",
+      "x": 3028,
+      "y": 3840,
+      "plane": 0,
+      "label": "Lava Maze south-west public approach",
+      "instructions": "This is a public staging point in deep Wilderness: PvP risk. Continue west towards the Chaos Fanatic, west of the Lava Maze. No burning-amulet teleport is performed by CA Route.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TeleportLocationData.java#L120"
+    },
+    {
+      "activity": "Crazy Archaeologist",
+      "x": 2969,
+      "y": 3695,
+      "plane": 0,
+      "label": "Forgotten Ruins public approach",
+      "instructions": "Public approach in the Wilderness: PvP risk. Continue into the nearby Forgotten Ruins to find the Crazy Archaeologist. No Dareeyak teleport is performed by CA Route.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TeleportLocationData.java#L51"
+    },
+    {
+      "activity": "Demonic Gorilla",
+      "x": 2435,
+      "y": 3520,
+      "plane": 0,
+      "label": "Gnome Stronghold north fence breach",
+      "instructions": "Use the fence breach north-west of the Grand Tree, then enter the Crash Site Cavern to the north-east and continue to Demonic Gorillas. Check Monkey Madness II completion. The marker is at the public fence approach, outside the cavern encounter.",
+      "sourceUrl": "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/monkeymadnessii/MonkeyMadnessII.java#L579",
+      "placementUrls": [
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/monkeymadnessii/MonkeyMadnessII.java#L581",
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/monkeymadnessii/MonkeyMadnessII.java#L690",
+        "https://oldschool.runescape.wiki/w/Demonic_gorilla"
+      ],
+      "placementEvidence": "QH sets MM2_STRONGHOLD_FENCE_MULTI to2435,3520 for breach and points onward to cave, then reward Access to Demonic Gorillas. Cave object itself uses displaced coordinates2027,5613, so surface approach intentional.",
+      "taskIds": [
+        74,
+        75
+      ]
+    },
+    {
+      "activity": "Deranged Archaeologist",
+      "x": 3676,
+      "y": 3755,
+      "plane": 0,
+      "label": "Fossil Island Tar Swamp mushtree approach",
+      "instructions": "Travel to the Tar Swamp on Fossil Island, then continue south to the Deranged Archaeologist. Check Bone Voyage access and bring an axe for the swamp route. This is the public mushtree approach, not the Wilderness boss.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TransportationPointLocation.java#L240"
+    },
+    {
+      "activity": "Doom of Mokhaiotl",
+      "x": 1310,
+      "y": 3103,
+      "plane": 0,
+      "label": "Crypt of Tonali surface lift",
+      "instructions": "Use the unlocked surface lift in the Tlati Rainforest and continue north through the Crypt of Tonali to the Doom entrance. Check The Final Dawn completion and choose the delve manually.",
+      "sourceUrl": "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/thefinaldawn/TheFinalDawn.java#L1026"
+    },
+    {
+      "activity": "Duke Sucellus",
+      "x": 2867,
+      "y": 3940,
+      "plane": 0,
+      "label": "Weiss basalt mine stairs",
+      "instructions": "Descend the Weiss stairs and use the southern cave into Ghorrock Dungeon, then continue through the prison to Duke Sucellus. Check Desert Treasure II completion. This is the public surface approach, not the quest prison instance.",
+      "sourceUrl": "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/deserttreasureii/SucellusSteps.java#L315"
+    },
+    {
+      "activity": "Fire Giant",
+      "x": 2743,
+      "y": 3154,
+      "plane": 0,
+      "label": "Brimhaven Dungeon north entrance",
+      "instructions": "Enter Brimhaven Dungeon and continue to the fire giants deep in the dungeon. Bring an axe for vines and the entry fee unless permanent access is unlocked. This is the public northern entrance; select and fight the giant manually.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L50",
+      "placementUrls": [
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/ragandboneman/RagAndBoneManII.java#L463",
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/ragandboneman/RagAndBoneManII.java#L466"
+      ],
+      "placementEvidence": "QH public object(2745,3155), axe+875coins, killFireGiant at2662,9494. Exact RuneLite northern entrance2743,3154 used.",
+      "taskIds": [
+        80
+      ]
+    },
+    {
+      "activity": "Fragment of Seren",
+      "x": 3264,
+      "y": 6065,
+      "plane": 0,
+      "label": "Prifddinas Tower of Voices approach",
+      "instructions": "Continue to the Tower of Voices and climb to the top floor. Use the Memoriam Device in the southern room to replay the Fragment of Seren fight after Song of the Elves. Do not return to the original quest arena.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TeleportLocationData.java#L165"
+    },
+    {
+      "activity": "Galvek",
+      "x": 2458,
+      "y": 2851,
+      "plane": 0,
+      "label": "Myths' Guild public approach",
+      "instructions": "Enter the Myths' Guild and use the Pool of Dreams on the ground floor to refight Galvek. Check Dragon Slayer II completion. The marker is in the public guild, not the quest ship instance.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TeleportLocationData.java#L143"
+    },
+    {
+      "activity": "Gargoyle",
+      "x": 3423,
+      "y": 3536,
+      "plane": 0,
+      "label": "Slayer Tower public approach",
+      "instructions": "Enter the Slayer Tower and climb to the second floor for Gargoyles. Check your Slayer level and bring a rock hammer or another valid finishing tool. Use the ordinary tower floors rather than the task-only basement.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TeleportLocationData.java#L103",
+      "placementUrls": [
+        "https://secure.runescape.com/m=news/grotesque-guardians?oldschool=1",
+        "https://oldschool.runescape.wiki/w/Gargoyle",
+        "https://oldschool.runescape.wiki/w/Slayer_Tower"
+      ],
+      "placementEvidence": "Official Jagex GG release explicitly places gargoyles in tower beneath rooftop boss and level75 requirement; Wiki supplements ordinary second-floor location.",
+      "taskIds": [
+        97
+      ]
+    },
+    {
+      "activity": "Glough",
+      "x": 2465,
+      "y": 3495,
+      "plane": 0,
+      "label": "Grand Tree public approach",
+      "instructions": "Continue to Zooknock's house north-west of the Gnome Ball field, climb upstairs and gaze into the Burning Brazier to refight Glough after Monkey Madness II. This marks the public Grand Tree approach, not the quest fight instance.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TeleportLocationData.java#L146"
+    },
+    {
+      "activity": "Greater Demon",
+      "x": 1636,
+      "y": 3673,
+      "plane": 0,
+      "label": "Catacombs of Kourend main entrance",
+      "instructions": "Enter the Catacombs beneath the statue in Kourend Castle's courtyard, then continue to Greater Demons in the north-east Demon's Run area. This is a non-Wilderness approach; finish with a demonbane weapon when the selected task requires it.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L60",
+      "placementUrls": [
+        "https://oldschool.runescape.wiki/w/Greater_demon",
+        "https://oldschool.runescape.wiki/w/Catacombs_of_Kourend",
+        "https://oldschool.runescape.wiki/w/Rocks_(Catacombs_of_Kourend)"
+      ],
+      "placementEvidence": "Both bundled tasks120 and121 contain no Wilderness or region restriction. Wiki cached Catacombs navbox explicitly lists Greater demon in Demon's Run.",
+      "taskIds": [
+        120,
+        121
+      ]
+    },
+    {
+      "activity": "Grotesque Guardians",
+      "x": 3423,
+      "y": 3536,
+      "plane": 0,
+      "label": "Slayer Tower public approach",
+      "instructions": "Enter the Slayer Tower, climb to the gargoyle floor and use the rooftop stairs. Check your brittle-key unlock, eligible Slayer task and finishing tool; enter the rooftop fight manually.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TeleportLocationData.java#L103"
+    },
+    {
+      "activity": "Hellhound",
+      "x": 1636,
+      "y": 3673,
+      "plane": 0,
+      "label": "Catacombs of Kourend main entrance",
+      "instructions": "Enter the Catacombs beneath the statue in Kourend Castle's courtyard, then continue to Hellhounds in the north-west Dragon's Den area. This marks the main public entrance and avoids the Wilderness.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L60",
+      "placementUrls": [
+        "https://oldschool.runescape.wiki/w/Hellhound",
+        "https://oldschool.runescape.wiki/w/Catacombs_of_Kourend",
+        "https://oldschool.runescape.wiki/w/Rocks_(Catacombs_of_Kourend)"
+      ],
+      "placementEvidence": "Wiki cached Catacombs navbox explicitly lists Hellhound in Dragon's Den. Selected ordinary task122 has no location restriction.",
+      "taskIds": [
+        122
+      ]
+    },
+    {
+      "activity": "Kurask",
+      "x": 2796,
+      "y": 3615,
+      "plane": 0,
+      "label": "Fremennik Slayer Dungeon surface entrance",
+      "instructions": "Enter the Fremennik Slayer Dungeon and continue through the chambers to the ordinary Kurask area at the far end. Check your Slayer level and use leaf-bladed weapons, broad ammunition or Magic Dart. The upstairs Kurask area is Slayer-task-only.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L100",
+      "placementUrls": [
+        "https://oldschool.runescape.wiki/w/Kurask",
+        "https://oldschool.runescape.wiki/w/Fremennik_Slayer_Dungeon"
+      ],
+      "placementEvidence": "Wiki cached Fremennik Slayer Dungeon fullpage confirms eighth chamber five ordinary Kurask requiring70Slayer, upstairs nine task-only guardedJelly.",
+      "taskIds": [
+        173
+      ]
+    },
+    {
+      "activity": "Leviathan",
+      "x": 3103,
+      "y": 3162,
+      "plane": 0,
+      "label": "Wizards' Tower basement entrance",
+      "instructions": "Descend into the Wizards Tower basement, use the portal to the Temple of the Eye and travel through the rift to the Scar, then continue to the Leviathan. Check Desert Treasure II completion. Choose all transport and encounter entries manually.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L268"
+    },
+    {
+      "activity": "Lizardman Shaman",
+      "x": 1311,
+      "y": 3686,
+      "plane": 0,
+      "label": "Molch Lizardman Temple north entrance",
+      "instructions": "Enter the Lizardman Temple in Molch, then continue to the shaman chambers. Check Shayzien protection and supplies. Shayzien Protector must be completed here in Molch, without the shaman damaging anyone except with its spawns.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L142",
+      "placementUrls": [
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/achievementdiaries/kourend/KourendHard.java#L241",
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/achievementdiaries/kourend/KourendHard.java#L244",
+        "https://oldschool.runescape.wiki/w/Lizardman_shaman"
+      ],
+      "placementEvidence": "QH same northern templeobject at1312,3686 then MOLCH_LIZARDSHAMAN_1 at1292,10096. RuneLite north mapmarker1311,3686. This destination satisfies BOTH174generic and175Molch-only task, so no alternative override necessary.",
+      "taskIds": [
+        174,
+        175
+      ]
+    },
+    {
+      "activity": "Mad Angel",
+      "x": 2540,
+      "y": 2213,
+      "plane": 0,
+      "label": "Ardeaglais / Wyrmscraig Cavern central entrance",
+      "instructions": "Travel to Wyrmscraig and continue to Ardeaglais at the central cavern entrance. Check Fallen From Grace completion and enter the repeatable Mad Angel encounter manually. Island travel depends on your unlocked routes.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L271"
+    },
+    {
+      "activity": "Maggot King",
+      "x": 3703,
+      "y": 3185,
+      "plane": 0,
+      "label": "Icyene Graveyard portal to Vampyrium",
+      "instructions": "Use the Icyene Graveyard portal after The Blood Moon Rises, then continue through Vampyrium to the Maggot King lair east of Sangvesti. Enter the solo fight manually. This marker is at the public portal approach.",
+      "sourceUrl": "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/thebloodmoonrises/TheBloodMoonRises.java#L1296"
+    },
+    {
+      "activity": "Phantom Muspah",
+      "x": 2867,
+      "y": 3940,
+      "plane": 0,
+      "label": "Weiss basalt mine stairs",
+      "instructions": "Descend the stairs in Weiss, enter the cave to the south and continue to the Phantom Muspah entrance. Check Secrets of the North completion. The marker is at the public surface approach.",
+      "sourceUrl": "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/secretsofthenorth/SecretsOfTheNorth.java#L496"
+    },
+    {
+      "activity": "Phosani's Nightmare",
+      "x": 3727,
+      "y": 3300,
+      "plane": 0,
+      "label": "Slepe Sisterhood Sanctuary entrance",
+      "instructions": "Descend beneath Slepe's church into the Sisterhood Sanctuary, then choose Phosani's Nightmare manually. Check access and supplies; the marker is outside the encounter instance.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L201"
+    },
+    {
+      "activity": "Royal Titans",
+      "x": 3007,
+      "y": 3150,
+      "plane": 0,
+      "label": "Asgarnian Ice Dungeon surface entrance",
+      "instructions": "Enter the dungeon south of Port Sarim, then continue north past the pirates and west to the Royal Titans tunnel. Use an unlocked shortcut if suitable, and choose solo or duo entry manually.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L47"
+    },
+    {
+      "activity": "Skeletal Wyvern",
+      "x": 3007,
+      "y": 3150,
+      "plane": 0,
+      "label": "Asgarnian Ice Dungeon surface entrance",
+      "instructions": "Climb down the ladder south of Port Sarim, continue to the back of the Asgarnian Ice Dungeon and enter the Icy Cavern for Skeletal Wyverns. Check your Slayer level and bring valid wyvern-breath protection.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L47",
+      "placementUrls": [
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/achievementdiaries/falador/FaladorHard.java#L252",
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/achievementdiaries/falador/FaladorHard.java#L257"
+      ],
+      "placementEvidence": "QH goToIceDungeon ladder(3008,3150), then WYVERN_SNOW_CAVE_ENTRANCE at3055,9560; kill SKELETAL_WYVERN1. Source real slayer72 requirement L438-L440.",
+      "taskIds": [
+        223
+      ]
+    },
+    {
+      "activity": "Skotizo",
+      "x": 1636,
+      "y": 3673,
+      "plane": 0,
+      "label": "Catacombs of Kourend main entrance",
+      "instructions": "Enter the Catacombs beneath the statue in Kourend Castle courtyard. Bring a complete dark totem and use it at the central altar to enter Skotizo manually.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L60"
+    },
+    {
+      "activity": "The Hueycoatl",
+      "x": 1490,
+      "y": 3284,
+      "plane": 0,
+      "label": "Darkfrost base-camp approach",
+      "instructions": "Continue east from this public Darkfrost approach to the base camp. Speak to Taala when required, then use the chain or choose a private group at the meeting flag manually. Check Varlamore access.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TeleportLocationData.java#L122"
+    },
+    {
+      "activity": "The Mimic",
+      "x": 1645,
+      "y": 3579,
+      "plane": 0,
+      "label": "Watson's house public approach",
+      "instructions": "Enter Watson's house and go upstairs to the Strange Casket. Bring an actual Mimic casket to start the fight; merely enabling the Mimic option does not provide a fight.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/TeleportLocationData.java#L221"
+    },
+    {
+      "activity": "The Nightmare",
+      "x": 3727,
+      "y": 3300,
+      "plane": 0,
+      "label": "Slepe Sisterhood Sanctuary entrance",
+      "instructions": "Descend beneath Slepe's church into the Sisterhood Sanctuary, continue to the Nightmare and choose to disturb it manually. The marker is outside the encounter instance.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L201"
+    },
+    {
+      "activity": "Tormented Demon",
+      "x": 3168,
+      "y": 3172,
+      "plane": 0,
+      "label": "Lumbridge Swamp Caves surface entrance",
+      "instructions": "Enter the Lumbridge Swamp Caves with a rope and safe light source, then continue south-east to Tears of Guthix. Use a lit sapphire lantern on a light creature to travel into the chasm and continue to the Ancient Guthixian Temple after While Guthix Sleeps.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L146",
+      "placementUrls": [
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/tearsofguthix/TearsOfGuthix.java#L140",
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/tearsofguthix/TearsOfGuthix.java#L148",
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/whileguthixsleeps/WhileGuthixSleeps.java#L1419",
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/whileguthixsleeps/WhileGuthixSleeps.java#L1425",
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/whileguthixsleeps/WhileGuthixSleeps.java#L1636",
+        "https://oldschool.runescape.wiki/w/Tormented_demon"
+      ],
+      "placementEvidence": "QH publicswamphole3169,3172 (RuneLite map3168,3172); passage3226,9540; WGS sapphirelantern lightcreature3228,9525,plane2 and reward accessTormentedDemonsinAncientGuthixianTemple. No instantiated fighttile used.",
+      "taskIds": [
+        551,
+        552,
+        553,
+        554,
+        555
+      ]
+    },
+    {
+      "activity": "Vardorvis",
+      "x": 1118,
+      "y": 3428,
+      "plane": 0,
+      "label": "Stranglewood ritual-site entrance",
+      "instructions": "Approach the ritual-site entrance in the west of the Stranglewood. Check Desert Treasure II completion and enter the normal or Awakened Vardorvis encounter manually.",
+      "sourceUrl": "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/quests/deserttreasureii/VardorvisSteps.java#L325"
+    },
+    {
+      "activity": "Whisperer",
+      "x": 2998,
+      "y": 3493,
+      "plane": 0,
+      "label": "Ruins of Camdozaal surface entrance",
+      "instructions": "Enter Camdozaal west of Ice Mountain, descend to Lassar Undercity and continue to the Sunken Cathedral for the Whisperer. Check Desert Treasure II completion before choosing normal or Awakened entry.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L180"
+    },
+    {
+      "activity": "Wyrm",
+      "x": 1308,
+      "y": 3807,
+      "plane": 0,
+      "label": "Karuulm Slayer Dungeon surface entrance",
+      "instructions": "Enter the Karuulm Slayer Dungeon using the Mount Karuulm elevator, then step over into the Wyrm area on the lower floor. Check your Slayer level and wear boots of stone or another valid floor-protection option unless your account has the exemption.",
+      "sourceUrl": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-client/src/main/java/net/runelite/client/plugins/worldmap/DungeonLocation.java#L129",
+      "placementUrls": [
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/achievementdiaries/kourend/KourendHard.java#L283",
+        "https://github.com/Zoinkwiz/quest-helper/blob/75b623a6bc14237831fddc10b44765c0910a4eb0/src/main/java/com/questhelper/helpers/achievementdiaries/kourend/KourendHard.java#L407"
+      ],
+      "placementEvidence": "QH elevator1311,3807, step-over1302,10205, killWYRM_DARK1282,10189 onplane0. Slayer62 and boots of stone explicitlychecked. UserreportedmissingWyrmtask287.",
+      "taskIds": [
+        287
+      ]
+    }
+  ]
+}

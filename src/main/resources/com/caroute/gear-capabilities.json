@@ -1,0 +1,1331 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "gear-v2-2026-10-03",
+  "itemIdSource": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+  "itemIdSdkVersion": "1.13.1",
+  "coverage": "Reviewed common-boss subset; item IDs checked against RuneLite 1.13.1. Positive ownership only; ammunition, charges, wielding levels, spells and supplies remain separate unverified facts. Task overlays are local soft planning heuristics; alternatives are accepted without a best-in-slot grind requirement.",
+  "capabilities": [
+    {
+      "id": "basic-ranged",
+      "label": "Basic ranged weapon",
+      "description": "Observed magic shortbow or rune crossbow ownership. Ammunition, charges and wielding levels are not verified.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        861,
+        9185,
+        12788,
+        26486
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "bowfa",
+      "label": "Bow of Faerdhinen",
+      "description": "Observed active/corrupted Bowfa variant. Charges and wielding levels need a separate check; inactive and Gauntlet weapons are excluded.",
+      "source": "https://store.steampowered.com/news/posts/?enddate=1625047625&feed=steam_community_announcements",
+      "itemIds": [
+        25865,
+        25867,
+        25869,
+        25884,
+        25886,
+        25888,
+        25890,
+        25892,
+        25894,
+        25896,
+        27187,
+        33021
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "crystal-helm",
+      "label": "Crystal helm",
+      "description": "Active crystal helm ownership; beta, inactive and Gauntlet variants are excluded. Remaining armour charges are unknown.",
+      "source": "https://store.steampowered.com/news/posts/?enddate=1625047625&feed=steam_community_announcements",
+      "itemIds": [
+        23971,
+        27705,
+        27717,
+        27729,
+        27741,
+        27753,
+        27765,
+        27777,
+        33031,
+        33170
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "crystal-body",
+      "label": "Crystal body",
+      "description": "Active crystal body ownership; beta, inactive and Gauntlet variants are excluded. Remaining armour charges are unknown.",
+      "source": "https://store.steampowered.com/news/posts/?enddate=1625047625&feed=steam_community_announcements",
+      "itemIds": [
+        23975,
+        27697,
+        27709,
+        27721,
+        27733,
+        27745,
+        27757,
+        27769,
+        33023,
+        33166
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "crystal-legs",
+      "label": "Crystal legs",
+      "description": "Active crystal legs ownership; beta, inactive and Gauntlet variants are excluded. Remaining armour charges are unknown.",
+      "source": "https://store.steampowered.com/news/posts/?enddate=1625047625&feed=steam_community_announcements",
+      "itemIds": [
+        23979,
+        27701,
+        27713,
+        27725,
+        27737,
+        27749,
+        27761,
+        27773,
+        33027,
+        33168
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "crystal-armour",
+      "label": "Full crystal armour",
+      "description": "Full helm, body and legs ownership, regardless of where they are observed. Owning this does not mean the full set is equipped.",
+      "source": "https://store.steampowered.com/news/posts/?enddate=1625047625&feed=steam_community_announcements",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "crystal-helm",
+          "crystal-body",
+          "crystal-legs"
+        ]
+      ]
+    },
+    {
+      "id": "bowfa-crystal",
+      "label": "Bowfa with full crystal",
+      "description": "Bowfa and full crystal armour ownership together. This is a supported kit, not a guarantee of a particular DPS or task time.",
+      "source": "https://store.steampowered.com/news/posts/?enddate=1625047625&feed=steam_community_announcements",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "bowfa",
+          "crystal-armour"
+        ]
+      ]
+    },
+    {
+      "id": "twisted-bow",
+      "label": "Twisted bow",
+      "description": "Observed standard Twisted bow ownership. Target-dependent damage, ammunition and wielding levels are not modelled.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        20997
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "ranged-accuracy-kit",
+      "label": "Ranged accuracy kit",
+      "description": "Supported ranged preparation alternatives: Bowfa with full crystal, or Twisted bow. The task recommendation is a local heuristic; other successful loadouts remain possible.",
+      "source": "https://store.steampowered.com/news/posts/?enddate=1625047625&feed=steam_community_announcements",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "bowfa-crystal"
+        ],
+        [
+          "twisted-bow"
+        ]
+      ]
+    },
+    {
+      "id": "ratbane-weapon",
+      "label": "Ratbane weapon",
+      "description": "Bone mace, bone shortbow or bone staff ownership. Any of the three supports ratbane preparation; weapon style, charges and skill readiness are separate.",
+      "source": "https://store.steampowered.com/news/posts/?enddate=1706093163&feed=steam_community_announcements",
+      "itemIds": [
+        28792,
+        28794,
+        28796
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "powered-magic",
+      "label": "Powered magic weapon",
+      "description": "Observed charged-form trident, Sanguinesti staff, Tumeken's shadow or warped sceptre ownership. Uncharged forms are excluded. Remaining charges, wielding levels and ammunition remain unverified; recognition establishes ownership of a supported weapon only.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        11905,
+        11907,
+        12899,
+        22288,
+        22292,
+        22323,
+        25731,
+        27275,
+        28585,
+        33314,
+        33318,
+        33322,
+        33323,
+        33326
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "crossbow",
+      "label": "Supported crossbow",
+      "description": "Rune, dragon, Armadyl, dragon hunter or Zaryte crossbow ownership. Unfinished, beta and LMS forms are excluded. Bolts and wielding levels require a separate check.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        9185,
+        11785,
+        21012,
+        21902,
+        25916,
+        25918,
+        26374,
+        26486
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "blowpipe",
+      "label": "Toxic blowpipe",
+      "description": "Charged-form Toxic blowpipe ownership. The empty form is excluded; darts, scales and remaining charges are not verified.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        12926
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "crystal-bow",
+      "label": "Crystal bow",
+      "description": "Active standard Crystal bow ownership, including legacy partial-charge forms. Inactive, Gauntlet and beta weapons are excluded. Remaining charges are unknown.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        4212,
+        4214,
+        4215,
+        4216,
+        4217,
+        4218,
+        4219,
+        4220,
+        4221,
+        4222,
+        4223,
+        23983
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "iban-staff",
+      "label": "Iban's staff",
+      "description": "Regular or upgraded Iban's staff ownership, including supported ornamented forms. Iban Blast access, runes and remaining charges are not verified.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        1409,
+        12658,
+        33330,
+        33332
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "elemental-staff",
+      "label": "Elemental casting staff",
+      "description": "Basic air, water, earth or fire staff ownership. The selected spell, spellbook, runes, skill level and damage are unknown.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        1381,
+        1383,
+        1385,
+        1387
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "melee-weapon",
+      "label": "Supported melee weapon",
+      "description": "Common melee alternatives: dragon scimitar/sword/mace, whip/tentacle, zombie axe, cudgel, bludgeon, hasta, rapier, fang, lance or noxious halberd. Ownership does not verify skill levels, durability, attack style or a complete armour loadout.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        1434,
+        4151,
+        4587,
+        11889,
+        12006,
+        12773,
+        12774,
+        13263,
+        20000,
+        21009,
+        22324,
+        22978,
+        23528,
+        25734,
+        26219,
+        26482,
+        26484,
+        27246,
+        28810,
+        29796
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "crush-weapon",
+      "label": "Supported crush weapon",
+      "description": "Common crush-style alternatives: dragon mace, Zamorakian hasta, Abyssal bludgeon, leaf-bladed battleaxe, Sarachnis cudgel, Inquisitor's mace, zombie axe or dual macuahuitl. Selected attack style and wielding readiness are unverified.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        1434,
+        11889,
+        13263,
+        20727,
+        23528,
+        24417,
+        28810,
+        28997
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "stab-weapon",
+      "label": "Supported stab weapon",
+      "description": "Dragon sword, Zamorakian hasta, Ghrazi rapier, dragon hunter lance or Osmumten's fang ownership. This is a budget-inclusive group; a dragonbane weapon is optional. Selected attack style and wielding readiness are unverified.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        11889,
+        21009,
+        22324,
+        22978,
+        25734,
+        26219,
+        27246
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "black-salamander",
+      "label": "Black or Tecu salamander",
+      "description": "Black or Tecu salamander ownership. Ammunition, selected style and wielding levels are unknown; weaker salamanders remain an unclassified alternative.",
+      "source": "https://github.com/runelite/runelite/blob/runelite-parent-1.13.1/runelite-api/src/main/java/net/runelite/api/ItemID.java",
+      "itemIds": [
+        10148,
+        28834
+      ],
+      "anyOf": []
+    },
+    {
+      "id": "ranged-weapon",
+      "label": "Supported ranged weapon",
+      "description": "Budget-inclusive ranged alternatives: a supported shortbow/crossbow, active Crystal bow, Toxic blowpipe, Bowfa or Twisted bow. Armour, ammunition and levels still need checking.",
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "basic-ranged"
+        ],
+        [
+          "crossbow"
+        ],
+        [
+          "crystal-bow"
+        ],
+        [
+          "blowpipe"
+        ],
+        [
+          "bowfa"
+        ],
+        [
+          "twisted-bow"
+        ]
+      ]
+    },
+    {
+      "id": "magic-weapon",
+      "label": "Supported magic weapon",
+      "description": "A powered weapon, Iban's staff or elemental casting staff supports this soft recommendation. It does not verify a usable spell, charges, spellbook, runes or armour.",
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "powered-magic"
+        ],
+        [
+          "iban-staff"
+        ],
+        [
+          "elemental-staff"
+        ]
+      ]
+    },
+    {
+      "id": "barrows-weapon",
+      "label": "Barrows combat alternative",
+      "description": "Soft weapon preparation may use melee, ranged, magic or a black/Tecu salamander. These broad alternatives deliberately do not require one expensive weapon; task-specific restrictions still apply.",
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "melee-weapon"
+        ],
+        [
+          "ranged-weapon"
+        ],
+        [
+          "magic-weapon"
+        ],
+        [
+          "black-salamander"
+        ]
+      ]
+    },
+    {
+      "id": "distant-weapon",
+      "label": "Ranged or magic alternative",
+      "description": "Ranged or magic weapon ownership as a soft preparation option for distance-based tasks. This is not proof that the particular task condition or range requirement is satisfied.",
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "ranged-weapon"
+        ],
+        [
+          "magic-weapon"
+        ]
+      ]
+    },
+    {
+      "id": "vorkath-weapon",
+      "label": "Vorkath weapon alternative",
+      "description": "Soft alternatives for unrestricted Vorkath tasks: supported stab weapon, crossbow or Toxic blowpipe. Dragonbane ownership is optional. Dragonfire/venom protection, ammunition and spawn handling must be checked separately.",
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "stab-weapon"
+        ],
+        [
+          "crossbow"
+        ],
+        [
+          "blowpipe"
+        ]
+      ]
+    },
+    {
+      "id": "sarachnis-weapon",
+      "label": "Sarachnis weapon alternative",
+      "description": "Common soft preparation alternatives: crush melee, ranged or magic. No particular cudgel, axe or best-in-slot item is required by this recommendation; task-specific restrictions remain separate.",
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "crush-weapon"
+        ],
+        [
+          "ranged-weapon"
+        ],
+        [
+          "magic-weapon"
+        ]
+      ]
+    },
+    {
+      "id": "dagannoth-hybrid",
+      "label": "Dagannoth three-style weapons",
+      "description": "Compound soft preparation for the three-king task: one supported melee, ranged and magic weapon together. Individual-king tasks recommend only their respective style. Weapon ownership does not verify all fight conditions.",
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "melee-weapon",
+          "ranged-weapon",
+          "magic-weapon"
+        ]
+      ]
+    },
+    {
+      "id": "gwd-weapon",
+      "label": "GWD combat alternative",
+      "description": "Soft melee, ranged or magic weapon alternatives for unrestricted Graardor tasks. This acknowledges alternate methods without choosing best-in-slot gear; access items, supplies and attack restrictions remain unverified.",
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "melee-weapon"
+        ],
+        [
+          "ranged-weapon"
+        ],
+        [
+          "magic-weapon"
+        ]
+      ]
+    },
+    {
+      "id": "melee-or-ranged",
+      "label": "Melee or ranged alternative",
+      "description": "Soft melee or ranged weapon alternatives. Other successful methods remain possible; this grouping makes no hard access, damage or speed claim.",
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "itemIds": [],
+      "anyOf": [
+        [
+          "melee-weapon"
+        ],
+        [
+          "ranged-weapon"
+        ]
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "taskId": 9,
+      "taskName": "Kree'arra Adept",
+      "activity": "Kree'arra",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. General Kree preparation accepts ranged alternatives. Indirect-damage and salamander-only restrictions are handled separately. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 10,
+      "taskName": "Kree'arra Veteran",
+      "activity": "Kree'arra",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. General Kree preparation accepts ranged alternatives. Indirect-damage and salamander-only restrictions are handled separately. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 12,
+      "taskName": "Airborne Showdown",
+      "activity": "Kree'arra",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. General Kree preparation accepts ranged alternatives. Indirect-damage and salamander-only restrictions are handled separately. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 13,
+      "taskName": "Swoop No More",
+      "activity": "Kree'arra",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. General Kree preparation accepts ranged alternatives. Indirect-damage and salamander-only restrictions are handled separately. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 14,
+      "taskName": "The Worst Ranged Weapon",
+      "activity": "Kree'arra",
+      "recommendedGear": [
+        "black-salamander"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Black/Tecu salamander ownership is a soft supported option; weaker salamanders can still work and are not hard-blocked. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 15,
+      "taskName": "Feather Hunter",
+      "activity": "Kree'arra",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. General Kree preparation accepts ranged alternatives. Indirect-damage and salamander-only restrictions are handled separately. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 16,
+      "taskName": "General Graardor Adept",
+      "activity": "General Graardor",
+      "recommendedGear": [
+        "gwd-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Unrestricted Graardor preparation accepts multiple weapon styles; freeze spells, access and no-damage conditions are unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 17,
+      "taskName": "General Graardor Veteran",
+      "activity": "General Graardor",
+      "recommendedGear": [
+        "gwd-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Unrestricted Graardor preparation accepts multiple weapon styles; freeze spells, access and no-damage conditions are unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 18,
+      "taskName": "Ourg Freezer",
+      "activity": "General Graardor",
+      "recommendedGear": [
+        "gwd-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Unrestricted Graardor preparation accepts multiple weapon styles; freeze spells, access and no-damage conditions are unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 19,
+      "taskName": "Ourg Freezer II",
+      "activity": "General Graardor",
+      "recommendedGear": [
+        "gwd-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Unrestricted Graardor preparation accepts multiple weapon styles; freeze spells, access and no-damage conditions are unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 20,
+      "taskName": "General Showdown",
+      "activity": "General Graardor",
+      "recommendedGear": [
+        "gwd-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Unrestricted Graardor preparation accepts multiple weapon styles; freeze spells, access and no-damage conditions are unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 21,
+      "taskName": "Defence Matters",
+      "activity": "General Graardor",
+      "recommendedGear": [
+        "gwd-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Unrestricted Graardor preparation accepts multiple weapon styles; freeze spells, access and no-damage conditions are unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 22,
+      "taskName": "Keep Away",
+      "activity": "General Graardor",
+      "recommendedGear": [
+        "gwd-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Unrestricted Graardor preparation accepts multiple weapon styles; freeze spells, access and no-damage conditions are unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 23,
+      "taskName": "Ourg Killer",
+      "activity": "General Graardor",
+      "recommendedGear": [
+        "gwd-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Unrestricted Graardor preparation accepts multiple weapon styles; freeze spells, access and no-damage conditions are unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 24,
+      "taskName": "Barrows Novice",
+      "activity": "Barrows",
+      "recommendedGear": [
+        "barrows-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept any supported weapon style; task restrictions, consumables and encounter readiness need a separate check. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 25,
+      "taskName": "Barrows Champion",
+      "activity": "Barrows",
+      "recommendedGear": [
+        "barrows-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept any supported weapon style; task restrictions, consumables and encounter readiness need a separate check. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 26,
+      "taskName": "Can't Touch Me",
+      "activity": "Barrows",
+      "recommendedGear": [
+        "distant-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Ranged and magic are alternative preparation methods for keeping away from the four melee brothers. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 27,
+      "taskName": "Pray for Success",
+      "activity": "Barrows",
+      "recommendedGear": [
+        "barrows-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept any supported weapon style; task restrictions, consumables and encounter readiness need a separate check. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 28,
+      "taskName": "Defence? What Defence?",
+      "activity": "Barrows",
+      "recommendedGear": [
+        "magic-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Weapon ownership supports planning for this magical-damage restriction; the spell/charges and actual damage condition remain unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 30,
+      "taskName": "Faithless Crypt Run",
+      "activity": "Barrows",
+      "recommendedGear": [
+        "barrows-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept any supported weapon style; task restrictions, consumables and encounter readiness need a separate check. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 147,
+      "taskName": "Fight Caves Veteran",
+      "activity": "TzTok-Jad",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Budget ranged alternatives are accepted for general Fight Caves preparation; supplies, prayer and speed feasibility remain separate. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 148,
+      "taskName": "Fight Caves Master",
+      "activity": "TzTok-Jad",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Budget ranged alternatives are accepted for general Fight Caves preparation; supplies, prayer and speed feasibility remain separate. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 149,
+      "taskName": "A Near Miss!",
+      "activity": "TzTok-Jad",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Budget ranged alternatives are accepted for general Fight Caves preparation; supplies, prayer and speed feasibility remain separate. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 150,
+      "taskName": "Denying the Healers",
+      "activity": "TzTok-Jad",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Budget ranged alternatives are accepted for general Fight Caves preparation; supplies, prayer and speed feasibility remain separate. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 151,
+      "taskName": "Denying the Healers II",
+      "activity": "TzTok-Jad",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Budget ranged alternatives are accepted for general Fight Caves preparation; supplies, prayer and speed feasibility remain separate. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 152,
+      "taskName": "You Didn't Say Anything About a Bat",
+      "activity": "TzTok-Jad",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Budget ranged alternatives are accepted for general Fight Caves preparation; supplies, prayer and speed feasibility remain separate. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 153,
+      "taskName": "Facing Jad Head-on",
+      "activity": "TzTok-Jad",
+      "recommendedGear": [
+        "melee-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. The melee-only task uses the melee recommendation instead of a conflicting ranged default. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 154,
+      "taskName": "No Time for a Drink",
+      "activity": "TzTok-Jad",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Budget ranged alternatives are accepted for general Fight Caves preparation; supplies, prayer and speed feasibility remain separate. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 155,
+      "taskName": "Fight Caves Speed-Chaser",
+      "activity": "TzTok-Jad",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Budget ranged alternatives are accepted for general Fight Caves preparation; supplies, prayer and speed feasibility remain separate. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 156,
+      "taskName": "Fight Caves Speed-Runner",
+      "activity": "TzTok-Jad",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Budget ranged alternatives are accepted for general Fight Caves preparation; supplies, prayer and speed feasibility remain separate. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 168,
+      "taskName": "Kraken Adept",
+      "activity": "Kraken",
+      "recommendedGear": [
+        "magic-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept lower-cost casting choices as well as powered weapons; ownership is not proof of spell readiness. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 169,
+      "taskName": "Unnecessary Optimisation",
+      "activity": "Kraken",
+      "recommendedGear": [
+        "magic-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept lower-cost casting choices as well as powered weapons; ownership is not proof of spell readiness. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 170,
+      "taskName": "Krakan't Hurt Me",
+      "activity": "Kraken",
+      "recommendedGear": [
+        "magic-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept lower-cost casting choices as well as powered weapons; ownership is not proof of spell readiness. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 171,
+      "taskName": "Ten-tacles",
+      "activity": "Kraken",
+      "recommendedGear": [
+        "magic-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept lower-cost casting choices as well as powered weapons; ownership is not proof of spell readiness. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 172,
+      "taskName": "One Hundred Tentacles",
+      "activity": "Kraken",
+      "recommendedGear": [
+        "magic-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept lower-cost casting choices as well as powered weapons; ownership is not proof of spell readiness. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 197,
+      "taskName": "Dagannoth Prime Champion",
+      "activity": "Dagannoth Prime",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Prime preparation accepts budget and upgraded ranged weapons; the three-king aggro condition is not inferred. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 198,
+      "taskName": "Dagannoth Prime Adept",
+      "activity": "Dagannoth Prime",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Prime preparation accepts budget and upgraded ranged weapons; the three-king aggro condition is not inferred. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 199,
+      "taskName": "Death to the Seer King",
+      "activity": "Dagannoth Prime",
+      "recommendedGear": [
+        "ranged-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Prime preparation accepts budget and upgraded ranged weapons; the three-king aggro condition is not inferred. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 201,
+      "taskName": "Dagannoth Rex Champion",
+      "activity": "Dagannoth Rex",
+      "recommendedGear": [
+        "magic-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Rex preparation accepts budget casting and powered magic alternatives; immobilization and simultaneous kills remain separate conditions. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 202,
+      "taskName": "Dagannoth Rex Adept",
+      "activity": "Dagannoth Rex",
+      "recommendedGear": [
+        "magic-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Rex preparation accepts budget casting and powered magic alternatives; immobilization and simultaneous kills remain separate conditions. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 203,
+      "taskName": "Death to the Warrior King",
+      "activity": "Dagannoth Rex",
+      "recommendedGear": [
+        "magic-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Rex preparation accepts budget casting and powered magic alternatives; immobilization and simultaneous kills remain separate conditions. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 204,
+      "taskName": "A Frozen King",
+      "activity": "Dagannoth Rex",
+      "recommendedGear": [
+        "magic-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Rex preparation accepts budget casting and powered magic alternatives; immobilization and simultaneous kills remain separate conditions. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 205,
+      "taskName": "Toppling the Diarchy",
+      "activity": "Dagannoth Rex",
+      "recommendedGear": [
+        "magic-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Rex preparation accepts budget casting and powered magic alternatives; immobilization and simultaneous kills remain separate conditions. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 206,
+      "taskName": "Sarachnis Novice",
+      "activity": "Sarachnis",
+      "recommendedGear": [
+        "sarachnis-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept crush, ranged or magic preparation alternatives; do not mandate the Sarachnis cudgel. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 207,
+      "taskName": "Sarachnis Champion",
+      "activity": "Sarachnis",
+      "recommendedGear": [
+        "sarachnis-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept crush, ranged or magic preparation alternatives; do not mandate the Sarachnis cudgel. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 208,
+      "taskName": "Ready to Pounce",
+      "activity": "Sarachnis",
+      "recommendedGear": [
+        "sarachnis-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept crush, ranged or magic preparation alternatives; do not mandate the Sarachnis cudgel. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 209,
+      "taskName": "Inspect Repellent",
+      "activity": "Sarachnis",
+      "recommendedGear": [
+        "sarachnis-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept crush, ranged or magic preparation alternatives; do not mandate the Sarachnis cudgel. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 210,
+      "taskName": "Newspaper Enthusiast",
+      "activity": "Sarachnis",
+      "recommendedGear": [
+        "crush-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Supported crush weapons are soft planning evidence for this crush restriction; selected style and task success are unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 211,
+      "taskName": "Commander Zilyana Adept",
+      "activity": "Commander Zilyana",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Zilyana preparation accepts ranged or melee approaches; no access item or marathon supply claim is inferred. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 212,
+      "taskName": "Commander Zilyana Veteran",
+      "activity": "Commander Zilyana",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Zilyana preparation accepts ranged or melee approaches; no access item or marathon supply claim is inferred. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 213,
+      "taskName": "Commander Showdown",
+      "activity": "Commander Zilyana",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Zilyana preparation accepts ranged or melee approaches; no access item or marathon supply claim is inferred. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 214,
+      "taskName": "Animal Whisperer",
+      "activity": "Commander Zilyana",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Zilyana preparation accepts ranged or melee approaches; no access item or marathon supply claim is inferred. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 216,
+      "taskName": "Reminisce",
+      "activity": "Commander Zilyana",
+      "recommendedGear": [
+        "melee-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. The melee-only task uses melee ownership instead of a ranged default. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 217,
+      "taskName": "Peach Conjurer",
+      "activity": "Commander Zilyana",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Zilyana preparation accepts ranged or melee approaches; no access item or marathon supply claim is inferred. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 230,
+      "taskName": "Zulrah Speed-Trialist",
+      "activity": "Zulrah",
+      "recommendedGear": [
+        "ranged-accuracy-kit"
+      ],
+      "source": "https://store.steampowered.com/news/posts/?enddate=1625047625&feed=steam_community_announcements",
+      "rationale": "Local conservative soft recommendation for the tight ranged speed-task preparation, based on the developer-documented Bowfa/crystal synergy. It is not an official best-in-slot claim; other methods can succeed and no DPS or speed guarantee is inferred."
+    },
+    {
+      "taskId": 231,
+      "taskName": "Zulrah Speed-Chaser",
+      "activity": "Zulrah",
+      "recommendedGear": [
+        "ranged-accuracy-kit"
+      ],
+      "source": "https://store.steampowered.com/news/posts/?enddate=1625047625&feed=steam_community_announcements",
+      "rationale": "Local conservative soft recommendation for the tight ranged speed-task preparation, based on the developer-documented Bowfa/crystal synergy. It is not an official best-in-slot claim; other methods can succeed and no DPS or speed guarantee is inferred."
+    },
+    {
+      "taskId": 232,
+      "taskName": "Zulrah Speed-Runner",
+      "activity": "Zulrah",
+      "recommendedGear": [
+        "ranged-accuracy-kit"
+      ],
+      "source": "https://store.steampowered.com/news/posts/?enddate=1625047625&feed=steam_community_announcements",
+      "rationale": "Local conservative soft recommendation for the tight ranged speed-task preparation, based on the developer-documented Bowfa/crystal synergy. It is not an official best-in-slot claim; other methods can succeed and no DPS or speed guarantee is inferred."
+    },
+    {
+      "taskId": 233,
+      "taskName": "Dagannoth Supreme Champion",
+      "activity": "Dagannoth Supreme",
+      "recommendedGear": [
+        "melee-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Supreme preparation accepts common melee alternatives without requiring a whip. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 234,
+      "taskName": "Dagannoth Supreme Adept",
+      "activity": "Dagannoth Supreme",
+      "recommendedGear": [
+        "melee-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Supreme preparation accepts common melee alternatives without requiring a whip. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 235,
+      "taskName": "Death to the Archer King",
+      "activity": "Dagannoth Supreme",
+      "recommendedGear": [
+        "melee-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Supreme preparation accepts common melee alternatives without requiring a whip. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 236,
+      "taskName": "Rapid Succession",
+      "activity": "Dagannoth Supreme",
+      "recommendedGear": [
+        "dagannoth-hybrid"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. The three-king rapid-kill task receives a compound three-style ownership recommendation rather than one expensive kit. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 268,
+      "taskName": "Vorkath Veteran",
+      "activity": "Vorkath",
+      "recommendedGear": [
+        "vorkath-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept common melee or ranged alternatives; a dragon hunter weapon is optional and supplies remain unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 269,
+      "taskName": "Vorkath Master",
+      "activity": "Vorkath",
+      "recommendedGear": [
+        "vorkath-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept common melee or ranged alternatives; a dragon hunter weapon is optional and supplies remain unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 270,
+      "taskName": "The Walk",
+      "activity": "Vorkath",
+      "recommendedGear": [
+        "vorkath-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept common melee or ranged alternatives; a dragon hunter weapon is optional and supplies remain unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 271,
+      "taskName": "Zombie Destroyer",
+      "activity": "Vorkath",
+      "recommendedGear": [
+        "vorkath-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept common melee or ranged alternatives; a dragon hunter weapon is optional and supplies remain unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 272,
+      "taskName": "Dodging the Dragon",
+      "activity": "Vorkath",
+      "recommendedGear": [
+        "vorkath-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept common melee or ranged alternatives; a dragon hunter weapon is optional and supplies remain unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 273,
+      "taskName": "Stick 'em With the Pointy End",
+      "activity": "Vorkath",
+      "recommendedGear": [
+        "melee-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept supported melee alternatives without demanding a dragon hunter lance. Dragonfire supplies and the task damage condition remain separate. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 274,
+      "taskName": "Faithless Encounter",
+      "activity": "Vorkath",
+      "recommendedGear": [
+        "vorkath-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept common melee or ranged alternatives; a dragon hunter weapon is optional and supplies remain unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 276,
+      "taskName": "Vorkath Speed-Chaser",
+      "activity": "Vorkath",
+      "recommendedGear": [
+        "vorkath-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept common melee or ranged alternatives; a dragon hunter weapon is optional and supplies remain unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 277,
+      "taskName": "Vorkath Speed-Runner",
+      "activity": "Vorkath",
+      "recommendedGear": [
+        "vorkath-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept common melee or ranged alternatives; a dragon hunter weapon is optional and supplies remain unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 278,
+      "taskName": "Extended Encounter",
+      "activity": "Vorkath",
+      "recommendedGear": [
+        "vorkath-weapon"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. Accept common melee or ranged alternatives; a dragon hunter weapon is optional and supplies remain unverified. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 332,
+      "taskName": "K'ril Tsutsaroth Adept",
+      "activity": "K'ril Tsutsaroth",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. K'ril preparation accepts ordinary melee or ranged methods; demonbane-only tasks stay outside this generic recommendation. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 333,
+      "taskName": "K'ril Tsutsaroth Veteran",
+      "activity": "K'ril Tsutsaroth",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. K'ril preparation accepts ordinary melee or ranged methods; demonbane-only tasks stay outside this generic recommendation. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 334,
+      "taskName": "Yarr No More",
+      "activity": "K'ril Tsutsaroth",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. K'ril preparation accepts ordinary melee or ranged methods; demonbane-only tasks stay outside this generic recommendation. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 335,
+      "taskName": "Demonic Showdown",
+      "activity": "K'ril Tsutsaroth",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. K'ril preparation accepts ordinary melee or ranged methods; demonbane-only tasks stay outside this generic recommendation. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 337,
+      "taskName": "Demonic Defence",
+      "activity": "K'ril Tsutsaroth",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. K'ril preparation accepts ordinary melee or ranged methods; demonbane-only tasks stay outside this generic recommendation. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 338,
+      "taskName": "Demon Whisperer",
+      "activity": "K'ril Tsutsaroth",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. K'ril preparation accepts ordinary melee or ranged methods; demonbane-only tasks stay outside this generic recommendation. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 340,
+      "taskName": "Ash Collector",
+      "activity": "K'ril Tsutsaroth",
+      "recommendedGear": [
+        "melee-or-ranged"
+      ],
+      "source": "https://github.com/opaf-osrs/combat-achievement-helper/blob/25ebeeb09069ef544f7c10a5219bc1a321b88cf7/src/main/resources/com/pluginideahub/combatachievements/task_detail.json",
+      "rationale": "Local soft planning heuristic from reviewed canonical task wording and the attributed upstream setup context. K'ril preparation accepts ordinary melee or ranged methods; demonbane-only tasks stay outside this generic recommendation. No hard requirement, DPS estimate or acquisition duration is added."
+    },
+    {
+      "taskId": 521,
+      "taskName": "Scurrius Novice",
+      "activity": "Scurrius",
+      "recommendedGear": [
+        "ratbane-weapon"
+      ],
+      "source": "https://store.steampowered.com/news/posts/?enddate=1706093163&feed=steam_community_announcements",
+      "rationale": "Local soft readiness recommendation based on the developer-documented rat-specific weapon bonus. This overlay does not add a hard access requirement or elapsed-time multiplier."
+    },
+    {
+      "taskId": 522,
+      "taskName": "Scurrius Champion",
+      "activity": "Scurrius",
+      "recommendedGear": [
+        "ratbane-weapon"
+      ],
+      "source": "https://store.steampowered.com/news/posts/?enddate=1706093163&feed=steam_community_announcements",
+      "rationale": "Local soft readiness recommendation based on the developer-documented rat-specific weapon bonus. This overlay does not add a hard access requirement or elapsed-time multiplier."
+    },
+    {
+      "taskId": 523,
+      "taskName": "Sit Rat",
+      "activity": "Scurrius",
+      "recommendedGear": [
+        "ratbane-weapon"
+      ],
+      "source": "https://store.steampowered.com/news/posts/?enddate=1706093163&feed=steam_community_announcements",
+      "rationale": "Local soft readiness recommendation based on the developer-documented rat-specific weapon bonus. This overlay does not add a hard access requirement or elapsed-time multiplier."
+    },
+    {
+      "taskId": 524,
+      "taskName": "Perfect Scurrius",
+      "activity": "Scurrius",
+      "recommendedGear": [
+        "ratbane-weapon"
+      ],
+      "source": "https://store.steampowered.com/news/posts/?enddate=1706093163&feed=steam_community_announcements",
+      "rationale": "Local soft readiness recommendation based on the developer-documented rat-specific weapon bonus. This overlay does not add a hard access requirement or elapsed-time multiplier."
+    },
+    {
+      "taskId": 525,
+      "taskName": "Efficient Pest Control",
+      "activity": "Scurrius",
+      "recommendedGear": [
+        "ratbane-weapon"
+      ],
+      "source": "https://store.steampowered.com/news/posts/?enddate=1706093163&feed=steam_community_announcements",
+      "rationale": "Local soft readiness recommendation based on the developer-documented rat-specific weapon bonus. This overlay does not add a hard access requirement or elapsed-time multiplier."
+    }
+  ],
+  "attribution": "RuneLite contributors: generated item identity mapping (BSD-2-Clause). OSRS Wiki contributors and opaf: strategy context from the attributed CA Helper task_detail snapshot; Wiki-derived metadata remains CC BY-NC-SA 3.0. New alternative groupings and soft task recommendations are CA Route heuristics, not verified hard access requirements."
+}

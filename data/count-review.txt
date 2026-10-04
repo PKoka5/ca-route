@@ -1,0 +1,169 @@
+0: Noxious Foe [Aberrant Spectre] Kill an Aberrant Spectre.
+1: Abyssal Adept [Abyssal Sire] Kill the Abyssal Sire 20 times.
+2: Abyssal Veteran [Abyssal Sire] Kill the Abyssal Sire 50 times.
+9: Kree'arra Adept [Kree'arra] Kill Kree'arra 50 times.
+10: Kree'arra Veteran [Kree'arra] Kill Kree'arra 100 times.
+16: General Graardor Adept [General Graardor] Kill General Graardor 50 times.
+17: General Graardor Veteran [General Graardor] Kill General Graardor 100 times.
+24: Barrows Novice [Barrows] Open the Barrows chest 10 times.
+25: Barrows Champion [Barrows] Open the Barrows chest 25 times.
+31: Reflecting on This Encounter [Basilisk Knight] Kill a Basilisk Knight.
+32: Big, Black and Fiery [Black Dragon] Kill a Black Dragon.
+33: The Demonic Punching Bag [Bloodveld] Kill a Bloodveld.
+34: Brutal, Big, Black and Firey [Brutal Black Dragon] Kill a Brutal Black Dragon.
+35: Bryophyta Novice [Bryophyta] Open Bryophyta's chest once.
+36: Bryophyta Champion [Bryophyta] Open Bryophyta's chest 5 times.
+42: Callisto Adept [Callisto] Kill Callisto 10 times.
+43: Callisto Veteran [Callisto] Kill Callisto 20 times.
+44: Skotizo Champion [Skotizo] Kill Skotizo once.
+45: Skotizo Adept [Skotizo] Kill Skotizo 5 times.
+51: Cerberus Veteran [Cerberus] Kill Cerberus 75 times.
+52: Cerberus Master [Cerberus] Kill Cerberus 150 times.
+57: Chaos Elemental Adept [Chaos Elemental] Kill the Chaos Elemental 10 times.
+58: Chaos Elemental Veteran [Chaos Elemental] Kill the Chaos Elemental 25 times.
+61: Chaos Fanatic Champion [Chaos Fanatic] Kill the Chaos Fanatic 10 times.
+62: Chaos Fanatic Adept [Chaos Fanatic] Kill the Chaos Fanatic 25 times.
+65: Corporeal Beast Veteran [Corporeal Beast] Kill the Corporeal Beast 25 times.
+66: Corporeal Beast Master [Corporeal Beast] Kill the Corporeal Beast 50 times.
+70: Crazy Archaeologist Champion [Crazy Archaeologist] Kill the Crazy Archaeologist 10 times.
+71: Crazy Archaeologist Adept [Crazy Archaeologist] Kill the Crazy Archaeologist 25 times.
+74: If Gorillas Could Fly [Demonic Gorilla] Kill a Demonic Gorilla.
+76: Deranged Archaeologist Novice [Deranged Archaeologist] Kill the Deranged Archaeologist 10 times.
+77: Deranged Archaeologist Champion [Deranged Archaeologist] Kill the Deranged Archaeologist 25 times.
+80: The Walking Volcano [Fire Giant] Kill a Fire Giant.
+82: Grotesque Guardians Adept [Grotesque Guardians] Kill the Grotesque Guardians 25 times.
+83: Grotesque Guardians Veteran [Grotesque Guardians] Kill the Grotesque Guardians 50 times.
+97: A Smashing Time [Gargoyle] Kill a Gargoyle.
+98: Corrupted Gauntlet Veteran [Corrupted Hunllef] Complete the Corrupted Gauntlet 5 times.
+99: Corrupted Gauntlet Master [Corrupted Hunllef] Complete the Corrupted Gauntlet 10 times.
+100: Corrupted Gauntlet Grandmaster [Corrupted Hunllef] Complete the Corrupted Gauntlet 50 times.
+109: Gauntlet Veteran [Crystalline Hunllef] Complete the Gauntlet 5 times.
+110: Gauntlet Master [Crystalline Hunllef] Complete the Gauntlet 20 times.
+120: A Greater Foe [Greater Demon] Kill a Greater Demon.
+122: A Demon's Best Friend [Hellhound] Kill a Hellhound.
+123: Hespori Adept [Hespori] Kill Hespori 5 times.
+129: Obor Novice [Obor] Open Obor's chest once.
+130: Obor Champion [Obor] Open Obor's chest 5 times.
+135: Alchemical Veteran [Alchemical Hydra] Kill the Alchemical Hydra 75 times.
+136: Alchemical Master [Alchemical Hydra] Kill the Alchemical Hydra 150 times.
+147: Fight Caves Veteran [TzTok-Jad] Complete the Fight Caves once.
+148: Fight Caves Master [TzTok-Jad] Complete the Fight Caves 5 times.
+157: Kalphite Queen Adept [Kalphite Queen] Kill the Kalphite Queen 25 times.
+158: Kalphite Queen Veteran [Kalphite Queen] Kill the Kalphite Queen 50 times.
+162: King Black Dragon Novice [King Black Dragon] Kill the King Black Dragon 10 times.
+163: King Black Dragon Champion [King Black Dragon] Kill the King Black Dragon 25 times.
+168: Kraken Adept [Kraken] Kill the Kraken 20 times.
+173: Master of Broad Weaponry [Kurask] Kill a Kurask.
+174: A Scaley Encounter [Lizardman Shaman] Kill a Lizardman Shaman.
+176: Mimic Veteran [The Mimic] Kill the Mimic once.
+177: Giant Mole Novice [Giant Mole] Kill the Giant Mole 10 times.
+178: Giant Mole Champion [Giant Mole] Kill the Giant mole 25 times.
+183: Nightmare Adept [The Nightmare] Kill The Nightmare once.
+184: Nightmare Veteran [The Nightmare] Kill The Nightmare 25 times.
+185: Nightmare Master [The Nightmare] Kill The Nightmare 50 times.
+197: Dagannoth Prime Champion [Dagannoth Prime] Kill Dagannoth Prime 10 times.
+198: Dagannoth Prime Adept [Dagannoth Prime] Kill Dagannoth Prime 25 times.
+201: Dagannoth Rex Champion [Dagannoth Rex] Kill Dagannoth Rex 10 times.
+202: Dagannoth Rex Adept [Dagannoth Rex] Kill Dagannoth Rex 25 times.
+206: Sarachnis Novice [Sarachnis] Kill Sarachnis 10 times.
+207: Sarachnis Champion [Sarachnis] Kill Sarachnis 25 times.
+211: Commander Zilyana Adept [Commander Zilyana] Kill Commander Zilyana 50 times.
+212: Commander Zilyana Veteran [Commander Zilyana] Kill Commander Zilyana 100 times.
+218: Scorpia Adept [Scorpia] Kill Scorpia 10 times.
+219: Scorpia Veteran [Scorpia] Kill Scorpia 25 times.
+223: A Frozen Foe from the Past [Skeletal Wyvern] Kill a Skeletal Wyvern
+224: Zulrah Adept [Zulrah] Kill Zulrah 25 times.
+225: Zulrah Veteran [Zulrah] Kill Zulrah 75 times.
+226: Zulrah Master [Zulrah] Kill Zulrah 150 times.
+233: Dagannoth Supreme Champion [Dagannoth Supreme] Kill Dagannoth Supreme 10 times.
+234: Dagannoth Supreme Adept [Dagannoth Supreme] Kill Dagannoth Supreme 25 times.
+237: Theatre of Blood Veteran [Theatre of Blood] Complete the Theatre of Blood 25 times.
+238: Theatre of Blood Master [Theatre of Blood] Complete the Theatre of Blood 75 times.
+239: Theatre of Blood Grandmaster [Theatre of Blood] Complete the Theatre of Blood 150 times.
+261: Thermonuclear Veteran [Thermonuclear Smoke Devil] Kill the Thermonuclear Smoke Devil 20 times.
+264: Venenatis Adept [Venenatis] Kill Venenatis 10 times.
+265: Venenatis Veteran [Venenatis] Kill Venenatis 20 times.
+266: Vet'ion Adept [Vet'ion] Kill Vet'ion 10 times.
+267: Vet'eran [Vet'ion] Kill Vet'ion 20 times.
+268: Vorkath Veteran [Vorkath] Kill Vorkath 50 times.
+269: Vorkath Master [Vorkath] Kill Vorkath 100 times.
+279: Wintertodt Novice [Wintertodt] Subdue the Wintertodt 5 times.
+280: Wintertodt Champion [Wintertodt] Subdue the Wintertodt 10 times.
+287: A Slithery Encounter [Wyrm] Kill a Wyrm.
+288: Chambers of Xeric: CM Master [Chambers of Xeric: Challenge Mode] Complete the Chambers of Xeric: Challenge Mode 10 times.
+289: Chambers of Xeric: CM Grandmaster [Chambers of Xeric: Challenge Mode] Complete the Chambers of Xeric: Challenge Mode 25 times.
+299: Chambers of Xeric Veteran [Chambers of Xeric] Complete the Chambers of Xeric 25 times.
+300: Chambers of Xeric Master [Chambers of Xeric] Complete the Chambers of Xeric 75 times.
+301: Chambers of Xeric Grandmaster [Chambers of Xeric] Complete the Chambers of Xeric 150 times.
+328: Zalcano Veteran [Zalcano] Kill Zalcano 25 times.
+332: K'ril Tsutsaroth Adept [K'ril Tsutsaroth] Kill K'ril Tsutsaroth 50 times.
+333: K'ril Tsutsaroth Veteran [K'ril Tsutsaroth] Kill K'ril Tsutsaroth 100 times.
+341: Half-Way There [TzKal-Zuk] Kill a Jal-Zek within the Inferno.
+342: Inferno Grandmaster [TzKal-Zuk] Complete the Inferno 5 times.
+353: Tempoross Novice [Tempoross] Subdue Tempoross 5 times.
+354: Tempoross Champion [Tempoross] Subdue Tempoross 10 times.
+361: The II Jad Challenge [TzHaar-Ket-Rak's Challenges] Complete TzHaar-Ket-Rak's second challenge.
+362: The IV Jad Challenge [TzHaar-Ket-Rak's Challenges] Complete TzHaar-Ket-Rak's fourth challenge.
+363: The VI Jad Challenge [TzHaar-Ket-Rak's Challenges] Complete TzHaar-Ket-Rak's sixth challenge.
+385: Theatre of Blood: HM Grandmaster [Theatre of Blood: Hard Mode] Complete the Theatre of Blood: Hard Mode 50 times.
+397: Theatre of Blood: SM Adept [Theatre of Blood: Entry Mode] Complete the Theatre of Blood: Entry Mode 1 time.
+398: Into the Den of Giants [Giants] Kill a Hill Giant, Moss Giant and Fire Giant in the Giant Cave within the Shayzien region.
+400: Phosani's Veteran [Phosani's Nightmare] Kill Phosani's Nightmare once.
+401: Phosani's Master [Phosani's Nightmare] Kill Phosani's Nightmare 5 times.
+402: Phosani's Grandmaster [Phosani's Nightmare] Kill Phosani's Nightmare 25 times.
+410: Nex Veteran [Nex] Kill Nex once.
+411: Nex Master [Nex] Kill Nex 25 times.
+461: Novice Tomb Explorer [Tombs of Amascut: Entry Mode] Complete the Tombs of Amascut in Entry mode (or above) once.
+462: Novice Tomb Looter [Tombs of Amascut: Entry Mode] Complete the Tombs of Amascut in Entry mode (or above) 25 times.
+463: Novice Tomb Raider [Tombs of Amascut: Entry Mode] Complete the Tombs of Amascut in Entry mode (or above) 50 times.
+466: Tomb Looter [Tombs of Amascut] Complete the Tombs of Amascut 25 times.
+467: Tomb Raider [Tombs of Amascut] Complete the Tombs of Amascut 50 times.
+468: Tomb Explorer [Tombs of Amascut] Complete the Tombs of Amascut once.
+469: Expert Tomb Explorer [Tombs of Amascut: Expert Mode] Complete the Tombs of Amascut (Expert mode) once.
+470: Expert Tomb Looter [Tombs of Amascut: Expert Mode] Complete the Tombs of Amascut (Expert mode) 25 times.
+471: Expert Tomb Raider [Tombs of Amascut: Expert Mode] Complete the Tombs of Amascut (Expert mode) 50 times.
+478: Phantom Muspah Adept [Phantom Muspah] Kill the Phantom Muspah.
+479: Phantom Muspah Veteran [Phantom Muspah] Kill the Phantom Muspah 25 times.
+480: Phantom Muspah Master [Phantom Muspah] Kill the Phantom Muspah 50 times.
+488: Vardorvis Adept [Vardorvis] Kill Vardorvis once.
+489: Vardorvis Master [Vardorvis] Kill Vardorvis 50 times.
+490: Vardorvis Sleeper [Vardorvis] Kill Awakened Vardorvis.
+497: Whisperer Adept [Whisperer] Kill the Whisperer once.
+498: Whisperer Master [Whisperer] Kill the Whisperer 50 times.
+499: Whispered [Whisperer] Kill the Awakened Whisperer.
+506: Leviathan Adept [Leviathan] Kill the Leviathan once.
+507: Leviathan Master [Leviathan] Kill the Leviathan 50 times.
+508: Leviathan Sleeper [Leviathan] Kill the Awakened Leviathan.
+515: Duke Sucellus Adept [Duke Sucellus] Kill Duke Sucellus once.
+516: Duke Sucellus Master [Duke Sucellus] Kill Duke Sucellus 50 times.
+517: Duke Sucellus Sleeper [Duke Sucellus] Kill Awakened Duke Sucellus.
+521: Scurrius Novice [Scurrius] Kill Scurrius once.
+522: Scurrius Champion [Scurrius] Kill Scurrius 10 times.
+528: Lunar Triplet [Moons of Peril] Open the Reward Chest after defeating all three Moons.
+529: Perilous Novice [Moons of Peril] Open the Reward Chest 5 times.
+530: Perilous Champion [Moons of Peril] Open the Reward Chest 25 times.
+538: Sportsmanship [Fortis Colosseum] Defeat Sol Heredit once.
+539: Colosseum Grand Champion [Fortis Colosseum] Defeat Sol Heredit 10 times.
+551: Unending Torment [Tormented Demon] Kill a Tormented Demon.
+556: Araxxor Veteran [Araxxor] Kill Araxxor 25 times.
+557: Araxxor Master [Araxxor] Kill Araxxor 75 times.
+568: Hueycoatl Champion [The Hueycoatl] Kill the Hueycoatl once.
+569: Hueycoatl Adept [The Hueycoatl] Kill the Hueycoatl 10 times.
+570: Hueycoatl Veteran [The Hueycoatl] Kill the Hueycoatl 25 times.
+579: Amoxliatl Champion [Amoxliatl] Kill Amoxliatl once.
+580: Amoxliatl Adept [Amoxliatl] Kill Amoxliatl 20 times.
+589: Royal Titan Champion [Royal Titans] Kill the Royal Titans 10 times.
+590: Royal Titan Adept [Royal Titans] Kill the Royal Titans 25 times.
+599: Yama Adept [Yama] Defeat Yama once.
+600: Yama Veteran [Yama] Defeat Yama 50 times.
+609: Contractually Unbound [Yama] Defeat Yama under the elevated conditions of one of his non-standard contracts.
+610: Doom Adept [Doom of Mokhaiotl] Defeat the Doom of Mokhaiotl at delve level 3.
+611: Doom Veteran [Doom of Mokhaiotl] Defeat the Doom of Mokhaiotl at delve level 8.
+625: Shellbane Adept [Shellbane gryphon] Kill the Shellbane Gryphon 25 times.
+626: Shellbane Veteran [Shellbane gryphon] Kill the Shellbane Gryphon 50 times.
+632: Brutus Novice [Brutus] Kill Brutus.
+633: Brutus Champion [Brutus] Kill Brutus 10 times.
+637: Maggot Squasher [Maggot King] Kill the Maggot King.
+638: Maggot Exterminator [Maggot King] Kill the Maggot King 25 times.
+646: Mad Angel Adept [Mad Angel] Kill the Mad Angel 25 times.
+647: Mad Angel Veteran [Mad Angel] Kill the Mad Angel 50 times.

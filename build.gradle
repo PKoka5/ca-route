@@ -1,0 +1,43 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    maven {
+        url = 'https://repo.runelite.net'
+        content { includeGroupByRegex('net\\.runelite.*') }
+    }
+    mavenCentral()
+}
+
+def runeLiteVersion = providers.gradleProperty('runeLiteVersion').getOrElse('1.13.1')
+
+group = 'com.caroute'
+version = '1.0.0'
+
+dependencies {
+    compileOnly "net.runelite:client:${runeLiteVersion}"
+    testImplementation 'junit:junit:4.13.2'
+    testImplementation "net.runelite:client:${runeLiteVersion}"
+    testImplementation "net.runelite:jshell:${runeLiteVersion}"
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.release.set(11)
+}
+
+tasks.withType(Test).configureEach {
+    systemProperty 'java.awt.headless', 'true'
+    // FontManager reads custom fonts and creates .runelite/fonts beneath user.home.
+    systemProperty 'user.home', layout.buildDirectory.dir('test-runelite').get().asFile.absolutePath
+}
+
+tasks.register('run', JavaExec) {
+    group = 'application'
+    description = 'Launch RuneLite with CA Route in developer mode.'
+    classpath = sourceSets.test.runtimeClasspath
+    mainClass = 'com.caroute.CaRoutePluginTest'
+    jvmArgs '-ea'
+    args '--developer-mode', '--debug'
+}

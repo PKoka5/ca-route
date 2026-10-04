@@ -1,0 +1,30 @@
+Goal: EASY
+Current points: 0
+Gap: 41
+Projected points: 41
+ETA minutes: 33.917
+Reachability: CONDITIONAL
+Confidence: LOW
+Tormented Demon | 12 pts | 11.417 min
+  551: Unending Torment | UNKNOWN_REQUIREMENT
+  552: Through Fire and Flames | UNKNOWN_REQUIREMENT
+  555: Rapid Reload | UNKNOWN_REQUIREMENT
+  Why: 3 incomplete tasks; 12 projected points
+  Why: Estimated 11.4 minutes; setup charged once (6.0 min)
+  Why: Tasks share this activity, reducing unnecessary boss switching
+  Why: One KC progression toward 1; nested thresholds share the grind
+  Why: Check uncertain access requirements before travelling
+  Why: Some access, gear, KC or timing evidence is incomplete; ETA is approximate
+Maggot King | 29 pts | 22.500 min
+  637: Maggot Squasher | UNKNOWN_REQUIREMENT
+  640: Maggot King Speed Chaser | UNKNOWN_REQUIREMENT
+  642: King-sized clobbering | UNKNOWN_REQUIREMENT
+  643: Digging in | UNKNOWN_REQUIREMENT
+  644: Cordoned Off | UNKNOWN_REQUIREMENT
+  645: Perfect Maggot King | UNKNOWN_REQUIREMENT
+  Why: 6 incomplete tasks; 29 projected points
+  Why: Estimated 22.5 minutes; setup charged once (6.0 min)
+  Why: Tasks share this activity, reducing unnecessary boss switching
+  Why: One KC progression toward 1; nested thresholds share the grind
+  Why: Check uncertain access requirements before travelling
+  Why: Some access, gear, KC or timing evidence is incomplete; ETA is approximate
